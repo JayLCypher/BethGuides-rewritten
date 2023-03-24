@@ -1,0 +1,21 @@
+section#uninstall
+	h2: a(href="#uninstall") Uninstalling the Game
+	blockquote If you do not have the game installed yet, skip this step.
+	| As the game is available on both Steam and GOG, there are separate instructions here for each version. You obviously only need to follow the directions for the version you have.
+	// Steam
+	h3#uninstall_steam: a(href="#uninstall_steam") For Steam:
+	ol
+		li Open Steam and go to your #[strong Library].
+		li Find #[strong Fallout: New Vegas] in the list.
+		li Right-click on it and select #[strong Manage -> Uninstall].
+		li Navigate to #[code Steam\steamapps\common\] and, if present, delete the #[strong Fallout New Vegas] folder.
+		li Navigate to #[code Documents\My Games] and delete the #[strong FalloutNV] folder.
+		li Repeat for #[strong Fallout 3]
+	// GOG
+	h3#uninstall_gog: a(href="#uninstall_gog") For GOG:
+	ol
+		li Open GOG and go to your #[strong Library].
+		ul: li If you used offline installers then run the #[strong unins000.exe] file in the game's #[strong Root] folder.
+		li Find #[strong Fallout: New Vegas] in the list.
+		li Right-click on it and select #[strong Manage Installation -> Uninstall].
+		li Repeat for #[strong Fallout 3]

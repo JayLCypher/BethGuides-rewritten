@@ -1,0 +1,8 @@
+// Perf Guide
+section
+	h2#flip: a.link(href="https://wallsogb.github.io/FalloutNV-Performan,ce-Guide", target="_blank") Performance and Stability Guide
+	blockquote: b: a(href="https://wallsogb.github.io/FalloutNV-Performance-Guide/#NVTF", target="_blank") The NVTF Section
+		| is #[strong mandatory] if you play at resolutions higher than 1080p or plan on adding custom textures.
+	| In-depth guide about how to fix the game's lackluster performance, display issues and #[strong alt-tabbing].
+	br
+	| Covers topics such as #[strong DXVK], framerate limiting, fullscreen & windowed modes, lag and HDR.

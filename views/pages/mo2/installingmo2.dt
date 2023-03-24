@@ -1,0 +1,8 @@
+// Installing MO2
+section#installing_mo2
+	h2: a(href="#installing_mo2") Installing Mod Organizer 2
+	ol
+		li Download the #[strong Mod Organizer 2] main file from #[a(href="https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files", target="_blank") here]
+		li Once the download has finished, run the installer
+		li When prompted to choose an install location, pick any location outside of any default Window folders (Like #[code Program Files x86]) and outside of the game's #[strong Root] folder (The installer's default location will work)
+		li Click #[strong Next] until the installer finishes

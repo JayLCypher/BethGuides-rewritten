@@ -1,0 +1,7 @@
+// ROOG
+section
+	h2#roognvse: a.link(href="https://www.nexusmods.com/newvegas/mods/77415", target="_blank") ROOGNVSE Plugin
+	h2.install Installation instructions:
+	ul: li: b Main Files - ROOGNVSE
+	p xNVSE plugin fixing bugs & adding new functions; hard requirement for TTW.
+	blockquote After installing a mod, make sure you check the box next to it in the left pane of MO2 to enable it.

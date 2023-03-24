@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"John"
+	],
+	"copyright": "Copyright © 2023, John",
+	"dependencies": {
+		"vibe-d": "~>0.9"
+	},
+	"description": "A simple vibe.d server application.",
+	"license": "proprietary",
+	"name": "dbestoftimes",
+	"versions": ["DietUseLive"]
+}

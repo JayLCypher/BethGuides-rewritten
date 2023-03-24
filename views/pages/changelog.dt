@@ -1,0 +1,63 @@
+extends pages/layout
+block content
+	section
+		h1 Changelog
+		div
+			p
+				h2: strong Time formatted in DD/MM/YY
+				h2.install 26/11/22
+			p
+				strong Whole Guide: 
+				| Recreated all pages with the help of Wall_SoGB, the guide is now responsive.
+				br
+				strong Whole Guide: 
+				| Reformatted and edited a lot of steps and information.
+				br
+				strong Utilities: 
+				| Added performance guide from Wall_SoGB.
+			h2.install 15/11/22
+			p
+				strong MO2: 
+				| Made some visual changes and updated Custom INI.
+				br
+				strong MO2: 
+				| Switched to global instance (Don't worry about this if you already have the guide installed).
+				br
+				strong Essentials: 
+				| Switched to the Nexus release of xNVSE.
+				br
+			h2.install 10/7/22
+			p: | #[strong Whole Guide:] Updated for 3.3.2 and removed NVAC.
+			h2.install 12/5/22
+			p: | #[strong TTW:] Added steps to install hotfix to TTW section.
+			h2.install 4/5/22
+			p
+				strong Whole Guide: 
+				| Removed nearly all version numbers from the guide (Just download the latest).
+				br
+				strong Utilities: 
+				| Re-added NVAC.
+				br
+				strong Utilities: 
+				| Added ShowOff NVSE and integrated JIP Improved Recipe Menu into the Tweaks Essentials INI download as a scriptrunner.
+				br
+				strong Visuals: 
+				| Reworded steps for Clarity.
+			h2.install 18/4/22
+			p: | #[strong Bug Fixes:] Added kNVSE.
+			h2.install 15/4/22
+			p: | #[strong Utilities:] Removed OneTweak.
+			h2.install 26/3/22
+			p: | #[strong Utilities:] Added JIP Improved Recipe Menu.
+			h2.install 16/3/22
+			p
+				strong Utilities: 
+				| Replaced custom INI with Stewie Tweaks Essentials INI. 
+				br
+				strong Utilities: 
+				| Removed anniversary anims and isControl.
+			h2.install 10/3/22
+			p: | #[strong Visuals:] Added ISControl, Anniversary Anim Pack & its fixes after users reported broken ironsight anims (Vanilla bug).
+			h2.install 5/3/22
+			p: | #[strong Whole Guide:] TTW 3.3 release: total rewrite of guide, do #[strong NOT] recycle old setups from 3.2 as the INI is very different and the main quest will break among other things!
+			p

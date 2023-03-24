@@ -1,0 +1,6 @@
+// Combat Lag Fix
+section
+		h2#combatlagfix: a.link(href="https://www.nexusmods.com/newvegas/mods/71973", target="_blank") Combat Lag Fix (NVSE)
+		h2.install Installation instructions:
+		ul: li: b Main Files - Fast Weapon Lag Fix
+		p Improves framerate in combat by fixing an engine bug that lowered framerate while attacking an enemy with a health-bar visible.

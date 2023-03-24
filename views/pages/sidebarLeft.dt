@@ -1,0 +1,22 @@
+// Left Sidebar
+div#sidenavLeft
+	p
+	div
+		ul#sidenavLeftList
+			li: a(href="/") Home
+			li: a(href="/intro") Introduction
+			li: a(href="/setup") Initial Setup
+			li: a(href="/mo2") MO2
+			li: a(href="/ttw") TTW
+			li: a(href="/essentials") Essential Mods
+			li: a(href="/finish") Final Steps
+			li: a(href="/changelog") Changelog
+	div
+		hr
+		ul
+			li: a(href="https://taleoftwowastelands.com/faq", target="_blank") FAQ
+			li: a(href="https://vivanewvegas.github.io/avoid-tools.html") Tools to Avoid
+			li: a(href="https://vivanewvegas.github.io/avoid-mods.html") Mods to Avoid
+	include guidelinks
+	include shillinks
+	p

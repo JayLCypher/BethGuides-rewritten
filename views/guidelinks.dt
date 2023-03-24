@@ -1,0 +1,7 @@
+div.guideLinks
+	hr
+	ul
+		li: a(href="https://vivanewvegas.github.io/", target="_blank", rel="nofollow") Fallout New Vegas
+		li: a(href="https://themidnightride.github.io/", target="_blank", rel="nofollow") Fallout 4
+		li: a(href="https://dragonbornsfate.github.io/", target="_blank", rel="nofollow") Skyrim Special Edition
+		li: a(href="https://gloryofcyrodiil.github.io/", target="_blank", rel="nofollow") Oblivion

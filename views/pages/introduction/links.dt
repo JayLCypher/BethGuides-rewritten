@@ -1,0 +1,8 @@
+li: a(href="#overview") Overview
+	li: a(href="#about") About
+	ul
+		li: a(href="#features") Features
+		li: a(href="#requirements") Requirements
+		li: a(href="#additional_mods") Additional Mods
+	li: a(href="#recommended_specs") Specs
+	li: a(href="#discord") Discord

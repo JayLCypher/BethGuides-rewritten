@@ -1,0 +1,4 @@
+div.pagination
+	hr
+	a#previous(href="#{previous}"): img.navigationArrow.left.mirror(src="img/arrow.webp", alt="Back Arrow")
+	a#next(href="#{next}", style='#{next == "" ? "display: none;" : ""}'): img.navigationArrow.right(src="img/arrow.webp", alt="Forward Arrow")

@@ -1,0 +1,10 @@
+div#shillinks
+	ul
+		li: a(href="https://github.com/TheBestofTimes/TheBestofTimes.github.io", target="_blank"): i.fab.fa-github
+		li: a(href="https://discord.gg/DhX5S27", target="_blank"): i.fab.fa-discord
+		li: a(href="https://www.patreon.com/vivanewvegas", target="_blank"): i.fab.fa-patreon
+		li: a#paypal(onclick="toggleMenu('paypalMenu');")
+			i.fab.fa-paypal
+			div#paypalMenu
+				a(href="https://www.paypal.com/paypalme/qolore7", target="_blank") Author - Qolore7
+				a(href="https://www.paypal.com/paypalme/VishVadeva50", target="_blank") Maintainer - VishVadeva50

@@ -1,0 +1,11 @@
+// Titlebar
+//- Need to add transparent class dynamically upon index or otherwise.
+div#titlebar.titlecontainer
+	div#sideButton(onclick="toggleMenu('sidenavLeft');window.addEventListener('resize', function (e) {toggleMenu('sidenavLeft');}, { once: true });"): i.fa-solid.fa-bars
+	img(src="img/logo.webp", alt="Logo")
+	a(href="/") D Best of Times
+	div.guideLinks
+		a(href="https://vivanewvegas.github.io/", target="_blank", rel="nofollow") Fallout New Vegas
+		a(href="https://themidnightride.github.io/", target="_blank", rel="nofollow") Fallout 4
+		a(href="https://dragonbornsfate.github.io/", target="_blank", rel="nofollow") Skyrim Special Edition
+		a(href="https://gloryofcyrodiil.github.io/", target="_blank", rel="nofollow") Oblivion

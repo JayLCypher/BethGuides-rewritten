@@ -1,0 +1,11 @@
+extends pages/layout
+block content
+	include pages/introduction/introintroduction
+	include pages/introduction/overview
+	include pages/introduction/requirements
+	include pages/introduction/additionalmods
+	include pages/introduction/specs
+	include pages/introduction/discord
+
+block links
+	include pages/introduction/links

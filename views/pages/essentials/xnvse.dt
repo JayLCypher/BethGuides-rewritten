@@ -1,0 +1,13 @@
+// xNVSE
+section
+	h2#xnvse: a.link(href="https://www.nexusmods.com/newvegas/mods/67883", target="_blank") xNVSE
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - New Vegas Script Extender (NVSE)] (Manual Download)
+		li From the downloaded archive, extract #[strong everything] to the game's  #[strong Root] folder 
+	blockquote If you do not know what the  #[strong Root] folder is, read the  #[strong Key Terminology] section from the #[a(href="setup#terms", target="_blank") Initial Setup] page.
+	blockquote Despite its name, #[strong nvse_steam_loader.dll] #[b is still needed] with the GOG version of the game. 
+	p An updated version of the original NVSE, which extends the scripting capabilities of the game.
+	blockquote After proper install, your  #[strong Root Folder] should look like this:
+		br
+		img#xnvse_root(src="./img/root.webp", alt="Screenshot of the root folder showcasing correct xNVSE install")

@@ -1,0 +1,31 @@
+// Installation
+section#install
+	h2: a(href="#install") Installing the Game
+
+	// STEAM
+	h3#install_steam: a(href="#install_steam") For Steam:
+	blockquote It is #[strong required] to install the game outside of any default Windows folders (Such as #[code Program Files (x86)]), as the the strict Windows file protections of these folders can break certain mods/tools. Instead, we will use a tool called Steam Library Setup Tool to create a new Steam library folder outside of any default Windows folders. If you already have Steam installed outside of any default windows folders then skip this step and simply install the game to your custom Steam library.</blockquote>
+	ol
+		li Completely exit out of Steam using Task Manager or System Tray.
+		li Download the #[strong steam_library_setup_tool-3.2.exe] file from <a href="https://github.com/LostDragonist/steam-library-setup-tool/releases">here</a>.
+		li Once downloaded, run the file and add a new entry by clicking #[strong Add Row].
+		li Type the chosen path under #[strong Path], e.g. #[code C:\Games\Steam]
+		li Click #[strong Accept] then #[strong Yes] if prompted to create a new folder.
+		li The tool will ask to exit, select #[strong OK].
+		img(width="50%", src="./img/steamlibrarysetuptool.webp", alt="steam library setup tool")
+		li Open Steam and go to your #[strong Library].
+		li Find #[strong Fallout: New Vegas] in the list and select #[strong Install].
+		li Under #[strong Choose location for install:], select the library folder created with the tool. 
+		img(size="60%", src="./img/steamlocationpicker.webp", alt="example steam install locations")
+	blockquote If you still do not see your new library, restart your PC.
+	ol(start="10")
+		li Select #[strong Next] then wait for the install to finish.
+		li Install #[strong Fallout 3] next.
+	// GOG
+	h3#install_gog: a(href="#install_gog") For GOG:
+	ol
+		li Open GOG and go to your #[strong Library].
+		li Find #[strong Fallout: New Vegas] in the list and select #[strong Install].
+		li Set the #[strong Install to] location to a location of your choice.
+		ul:  li It is #[strong required] to install the game outside of any default Windows folders (e.g., #[code Program Files x86]).
+		li Repeat for #[strong Fallout 3].
