@@ -1,0 +1,21 @@
+// Requirements
+section.section#requirements
+	h2: a(href="#requirements") Requirements
+	ul
+		li #[b English] copies of both Fallout 3 and New Vegas with #[b all DLCs] on either Steam, GOG or Epic Game Store.
+		ul
+			li GoTY/Ultimate edition is #[strong not] a factor so long as you have all of the DLCs for both games.
+			li You may "mix and match" Steam, GOG and Epic Game Store versions; e.g. FO3 on Epic and FNV on Steam is supported.
+			li The Game Pass version of the game is not supported and won't be due to fundamental incompatibility with xNVSE.
+		li At least 12GB of free drive space.
+		li Windows 7 or higher (64-bit).
+		li: a(href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/", target="_blank") VC++ Runtime Libraries.
+		ul
+			li Extract the archive and run the included #[strong install_all.bat] as an administrator to install all of the required libraries at once.
+		li A text editor (I recommend #[a(href="https://notepad-plus-plus.org/", target="_blank") Notepad++], but the default Windows notepad will work).
+		li An archiving tool (I recommend #[a(href="https://www.7-zip.org/", target="_blank") 7-Zip]. 
+			| If you use Windows 11 then #[a(href="https://apps.microsoft.com/store/detail/nanazip/9N8G7TSCL18R?hl=en-us&gl=us", target="_blank") NanaZip] is a better option).
+		li 
+			| The latest GPU drivers (Either #[a(href="https://www.nvidia.com/Download/index.aspx", target="_blank") NVIDIA], #[a(href="https://www.amd.com/en/support", target="_blank") AMD] 
+			| or #[a(href="https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-dch-drivers.html", target="_blank") Intel]).
+		li: a(href="https://users.nexusmods.com/register", target="_blank") A Nexus Mods account.

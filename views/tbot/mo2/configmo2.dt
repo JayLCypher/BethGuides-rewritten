@@ -1,0 +1,36 @@
+// Config MO2
+- auto no = "https://media.tenor.com/VRJ-c6w57KMAAAAC/isildur-no.gif";
+section#config_mo2
+	h2: a(href="#config_mo2") Configuring Mod Organizer 2
+	h3#initial_setup: a(href="#initial_setup") Initial Setup
+	ol
+		li Run #[strong ModOrganizer.exe]
+		li You will be prompted with a pop-up called #[strong Creating an instance], in which you should just select #[strong Next]
+		li On the next page, select #[strong Create a global instance]
+		img(src="./img/mo2 global instance.webp", alt="Global instance")
+		li On the next page, select #[strong Tale of Two Wastelands]
+		li On the next page, keep the #[strong Location] file path default
+	blockquote If you have MO2 installed on an SSD or a HDD with little space, you can check the #[strong Show advanced options] box and change the #[strong Downloads] file path to a different drive with more space. This will not effect download/game performance, and the downloads can be deleted after the mods have been installed.
+	ol(start="6")
+		li On the last page, select #[strong Finish]
+		li MO2 will launch and prompt you with a pop-up called #[strong Show tutorial?], in which you should select #[strong #[a(href="#{no}") no]]
+		li From the pop-up called #[strong Register?], select #[strong Yes]
+		ul: li This pop-up will not show up if you have already registered a different instance of MO2
+	h3#plugins: a(href="#plugins") Setting Up Plugins
+	ol
+		li Once Mod Organizer 2 has loaded, right-click in the right pane and select  #[strong Enable all]
+		li If there is a plugin called  #[strong FalloutNV_lang.esp] in the right pane, navigate to the game's #[strong Data] folder and delete it
+		ul: li If you do not know what the game's #[strong Data] folder is, read the Key Terminology section from the #[a.sublink(href="./setup.html#terms", target="_blank") Initial Setup] page
+	blockquote The translation plugin must be deleted because it directly edits thousands of records to change the language, which will cause many incompatibilities with most mods. Because of conflicts like this, the guide unfortunately only supports the English version of the game.
+	h3#settings: a(href="#settings") Configuring Settings
+	ol
+		li Select the #[strong X] in the bottom right of MO2 to close the log window.
+		li Select the #[img(src="./img/mo2 settings.webp", alt="MO2 settings")] button at the top of MO2 to open the settings.
+		li In the #[strong Theme] tab, you can select a different style from the drop-down menu at the top. 
+		ul: li I use the #[strong 1809 Dark Mode] theme.
+		li In the #[strong Nexus] tab, select #[strong Connect to Nexus].
+		img(src="./img/mo2 connect.webp", alt="Connect to Nexus")
+		ul: li This option will not show up if you have already connected your Nexus account on a different MO2 instance.
+		li MO2 will open your browser and prompt you to authorize the connection.
+		li Once you authorize it, you can close out of your browser and of the MO2 settings.
+		li Allow MO2 to restart if it asks.

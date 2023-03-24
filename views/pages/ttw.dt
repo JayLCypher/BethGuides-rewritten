@@ -1,9 +1,0 @@
-extends pages/layout
-block content
-	include pages/ttw/introttw
-	include pages/ttw/installttw
-	include pages/ttw/activatingttw
-	include pages/ttw/hotfixttw
-
-block links
-	include pages/ttw/links

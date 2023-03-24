@@ -1,0 +1,8 @@
+extends common/layout
+block content
+	p
+	section
+		h1 Mods to Avoid
+		include vnv/avoidmods/partone
+		include vnv/avoidmods/projectnevada
+		include vnv/avoidmods/parttwo

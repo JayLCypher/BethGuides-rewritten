@@ -1,0 +1,13 @@
+// Tweaks
+section
+	h2#stewie_tweaks: a.link(href="https://www.nexusmods.com/newvegas/mods/66347", target="_blank") lStewieAl's Tweaks and Engine Fixes
+	h2.install Installation instructions:
+	ul: li: b Main Files - Stewie Tweaks
+	p Collection of many configurable quality of life improvements and bug fixes. Settings can be further enabled/disabled/tweaked in the new #[strong Tweaks] section added to the main menu.
+
+// Tweaks INI
+section
+	h2#tweaks_ini: a.link(href="https://www.nexusmods.com/newvegas/mods/76522", target="_blank") Stewie Tweaks Essentials INI
+	h2.install Installation instructions:
+	ul: li: b Main Files - Stewie Tweaks Essentials INI
+	p Preconfigured collection of tweaks, enabling basic quality of life feature, bugfixes and performance patches.

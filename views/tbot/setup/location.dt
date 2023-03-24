@@ -1,0 +1,9 @@
+section#location
+	h2: a(href="#location") Recommended Installation Location
+	| A clean installation is not only required to get rid of any potential leftover mod files, but also to make sure the game is installed in a safe location. Here is what you need to know when choosing where to install your game:
+	ul
+		li #[b Avoid any default Windows folders:] This includes but is not limited to #[code C:\Program Files], #[code C:\Program Files x86], your #[code Desktop], and your #[code Documents] folders. This is due to Windows UAC (or User Account Control), which heavily monitors and protects these folders. This can cause many issues with the game and any modding tools. As an example of a safe location, my Steam directory is #[code C:\Games\Steam].
+		br
+		li #[b Install on an SSD if possible:] Having the game on an SSD will drastically improve load times and decrease stuttering. The game plus the guide should only take up about 12GB of space, but the importance of having extra free space on your drive should not be understated. Drives will generally performance worse as they get more full, so you won't see as much of an improvement with load times and stuttering with a full drive.
+		br
+		li #[b Fallout 3 Installation:] Fallout 3 only needs to be installed for running the TTW installer, and can be uninstalled after the installer completes. It still needs to be installed outside of any default Windows folder as outlined above.

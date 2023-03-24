@@ -1,6 +1,0 @@
-// UIO
-section
-	h2#uio: a.link(href="https://www.nexusmods.com/newvegas/mods/57174", target="_blank") User Interface Organizer
-	h2.install Installation instructions:
-	ul: li: b Main Files - UIO - User Interface Organizer
-	p Automatically ensures that multiple HUD extensions work together, as well as fixing many bugs and improving performance.

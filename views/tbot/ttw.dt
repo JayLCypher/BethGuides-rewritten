@@ -1,0 +1,11 @@
+extends common/layout
+block content
+	include tbot/ttw/introttw
+	include tbot/ttw/installttw
+	include tbot/ttw/activatingttw
+	include tbot/ttw/hotfixttw
+
+block linksleft
+	include tbot/linksleft
+block linksright
+	include tbot/ttw/links

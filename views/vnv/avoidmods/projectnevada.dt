@@ -1,0 +1,29 @@
+p #[strong Project Nevada:] Outdated, inefficient, bloated, and broken. Most features have modern alternatives (See the list below). Has almost 20 scripts that run every single frame, causes save bloat due to continuous quest stages being triggered, and some features either don't work or break the game (Chargeable weapons, lethal headshots, and the stealth/AI changes).
+ul
+	h2#replacing_pn.install: a(href="#replacing_pn"): span(style="color:#DCDCDC;") Replacing Project Nevada:
+	p
+	p Although it may seem counterproductive to install a bunch of small mods to replace one big mod, these alternatives are all more efficient and performance friendly. They are 100% safe to use, and actually work, unlike Project Nevada:
+	p: strong Core Module:
+	ul.standard_ul
+		li Dynamic Crosshair, Bullet Time, Sprint, and more: #[a(href="https://www.nexusmods.com/newvegas/mods/66666", target="_blank") Just Assorted Mods]
+		li Grenade Hotkey: #[a(href="https://www.nexusmods.com/newvegas/mods/64874", target="_blank") Quick Grenade Hotkey] and #[a(href="https://www.nexusmods.com/newvegas/mods/79358", target="_blank") Quick Grenade Hotkey Tweaks]
+		li Headwear Overlay: #[a(href="https://www.nexusmods.com/newvegas/mods/67870", target="_blank") Helmet Overlay]
+		li Variable Zoom and Slower Backpedaling: #[a(href="https://www.nexusmods.com/newvegas/mods/66347", target="_blank") lStewieAl's Tweaks] (Enable #[strong bAdjustableScopeZoom] and  #[strong bMovementPenalties] in the INI)
+		li Immersive Health Visuals: #[a(href="https://www.nexusmods.com/newvegas/mods/67696", target="_blank") Custom Health and AP Visuals]
+		li Enhanced Vision: #[a(href="https://eddoursul.win/mods/enhanced-vision/", target="_blank") Enhanced Vision]
+		li Explosive Entry: #[a(href="https://www.nexusmods.com/newvegas/mods/66992", target="_blank") Simple Explosive Entry]
+		li Immersive Primary Needs: #[a(href="https://eddoursul.win/mods/immersive-primary-needs/", target="_blank") Immersive Primary Needs]
+		li Inventory Sorter: #[a(href="https://www.nexusmods.com/newvegas/mods/63867", target="_blank") Universal Item Sorter]
+	p: strong Cyberware Module:
+	ul.standard_ul: li: a(href="https://eddoursul.win/mods/cyberware-2281/", target="_blank") Cyberware 2281
+	p: strong Rebalance Module:
+	ul.standard_ul
+		li Better character progression/combat: #[a(href="https://www.nexusmods.com/newvegas/mods/61592", target="_blank") JSawyer Ultimate Edition] (Enable #[strong bSurvivalModeDamage] in the INI)
+		li Item rarity changes: #[a(href="https://www.nexusmods.com/newvegas/mods/74985", target="_blank") Famine]
+		li Lethal headshots: #[a(href="https://www.nexusmods.com/newvegas/mods/58277", target="_blank") JIP LN NVSE] (Enable #[strong bLocalizedDTDR] in the INI)
+		li Alternate repairing system: #[a(href="https://www.nexusmods.com/newvegas/mods/74884", target="_blank") Repair Tools] or #[a(href="https://www.nexusmods.com/newvegas/mods/52510", target="_blank") Alternative Repairing]
+		li Miscellaneous gameplay changes: #[a(href="https://www.nexusmods.com/newvegas/mods/66347", target="_blank") lStewieAl's Tweaks] (Enable #[strong bMovementPenalties], #[strong bNoKarmaMessages], and #[strong bRemoveSneakLabel] in the INI) 
+	p: strong Equipment Module:
+	ul.standard_ul
+		li Fallout 3 Weapons: #[a(href="https://www.nexusmods.com/newvegas/mods/40007", target="_blank") Fallout 3 Weapons Restoration]
+		li Classic Fallout Weapons: #[a(href="https://www.nexusmods.com/newvegas/mods/73805", target="_blank") Classic Fallout Weapons Remastered]

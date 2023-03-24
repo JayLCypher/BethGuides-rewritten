@@ -1,14 +1,9 @@
 doctype html
 html(lang="en-US")
 	head
-		include commonheaders
-		title #{title}
-		meta(name="twitter:card", value="summary")
-		meta(name="description", content="A guide that walks you through step-by-step how to install TTW and all essential mods.")
-		meta(property="og:description", content="A guide that walks you through step-by-step how to install TTW and all essential mods.")
+		include globalheaders
 
-	body(style="background-image: url('img/background.webp'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; background-position: center;")
+	body
 		div
-			include titlebar
-			include sidebar
-		include backdrop
+			h1: a(href="tbot/") D Best of Times
+			h1: a(href="vnv/") D Viva New Vegas

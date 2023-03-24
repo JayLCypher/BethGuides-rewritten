@@ -1,6 +1,0 @@
-// JIP
-section
-	h2#jip: a.link(href="https://www.nexusmods.com/newvegas/mods/58277", target="_blank") JIP LN NVSE Plugin
-	h2.install Installation instructions:
-	ul: li: b Main Files - JIP LN NVSE Plugin
-	p NVSE extension with new functions and many engine bug fixes.

@@ -1,0 +1,15 @@
+doctype html
+html(lang="en-US")
+	head
+		include globalheaders
+		include common/head
+		title #{subtitle} | #{title}
+
+	body
+		include titlebar
+		include common/sidebarLeft
+		div.content
+			block content
+			include common/pagination
+
+		include common/sidebarRight

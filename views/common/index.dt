@@ -1,0 +1,11 @@
+doctype html
+html(lang="en-US")
+	head
+		include globalheaders
+		include common/head
+
+	body(style="background-image: url('/img/#{shorttitle}/background.webp'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; background-position: center;")
+		div
+			include titlebar
+			include sidebar
+		include backdrop

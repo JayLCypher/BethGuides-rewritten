@@ -1,0 +1,12 @@
+extends common/layout
+block content
+	include tbot/setup/introsetup
+	include tbot/setup/location
+	include tbot/setup/uninstall
+	include tbot/setup/install
+	include tbot/setup/recommendedspecs
+
+block linksleft
+	include tbot/linksleft
+block linksright
+	include tbot/setup/links

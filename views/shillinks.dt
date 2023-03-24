@@ -1,6 +1,6 @@
 div#shillinks
 	ul
-		li: a(href="https://github.com/TheBestofTimes/TheBestofTimes.github.io", target="_blank"): i.fab.fa-github
+		li: a(href="#{github}", target="_blank"): i.fab.fa-github
 		li: a(href="https://discord.gg/DhX5S27", target="_blank"): i.fab.fa-discord
 		li: a(href="https://www.patreon.com/vivanewvegas", target="_blank"): i.fab.fa-patreon
 		li: a#paypal(onclick="toggleMenu('paypalMenu');")

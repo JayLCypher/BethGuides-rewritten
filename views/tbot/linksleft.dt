@@ -1,0 +1,8 @@
+li: a(href="/tbot/") Home
+li: a(href="/tbot/intro") Introduction
+li: a(href="/tbot/setup") Initial Setup
+li: a(href="/tbot/mo2") MO2
+li: a(href="/tbot/ttw") TTW
+li: a(href="/tbot/essentials") Essential Mods
+li: a(href="/tbot/finish") Final Steps
+li: a(href="/tbot/changelog") Changelog

@@ -1,0 +1,6 @@
+// Console Paste
+section
+	h2#console_paste: a.link(href="https://www.nexusmods.com/newvegas/mods/65906", target="_blank") Console Paste Support
+	h2.install Installation instructions:
+	ul: li: b Main Files - Console Paste
+	p Adds Ctrl+V as a hotkey to paste into the in-game console, along with a few other helpful shortcuts.

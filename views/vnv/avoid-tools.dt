@@ -1,0 +1,16 @@
+extends common/layout
+block content
+	p
+	section
+		h1 Tools to Avoid
+		p #[strong Vortex:] Flawed conflict management which makes it annoying to use, does not track generated files and generally slow.
+		p #[strong Nexus Mod Manager/Fallout Mod Manager:] Outdated/abandoned, have no virtual file system or even dynamic movement of mods with loose files.
+		p #[strong Mod Organizer 1:] There is no reason to use Mod Organizer 1 over Mod Organizer 2.
+		p #[strong LOOT:] As LOOT is automated, it will never fully be able to account for all the nuances of a load order, especially a large one. Incorrect load order can lead to overwriting or breaking features from mods.
+		p #[strong Wrye Bash/Flash and Mator Smash:] Similarly to LOOT, these programs are fully automated and will never be fully accurate. They will solve things that they may see as conflicts, but it reality they are intentional overwrites. They will also often miss critical conflicts.
+		p #[strong zEdit/zClean:] Neither have any real advantages over #[a(href="https://www.nexusmods.com/newvegas/mods/34703", target="_blank") xEdit], and lack some essential features/support than xEdit has.
+		p #[strong Merge Plugins Standalone/zMerge:] Automated merging can potentially cause major breakage in mods, especially heavily-scripted ones.
+		p #[strong Ordenador/DDSopt:] Breaks many textures by needlessly converting/adding/resizing alpha channels, cubemaps, and mipmaps. Use  #[a(href="https://www.nexusmods.com/fallout4/mods/63243", target="_blank") BSArch Pro] instead.
+		
+		p #[strong New Vegas Configator:] Outdated and possibly dangerous. You won't need any INI tweaks other than the ones in the guide.
+	p

@@ -1,0 +1,14 @@
+extends common/layout
+block content
+	include tbot/introduction/introintroduction
+	include tbot/introduction/overview
+	include tbot/introduction/requirements
+	include tbot/introduction/additionalmods
+	include tbot/introduction/specs
+	include tbot/introduction/discord
+
+block linksleft
+	include tbot/linksleft
+
+block linksright
+	include tbot/introduction/links
