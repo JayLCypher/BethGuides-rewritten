@@ -39,8 +39,8 @@ function sidenavRightBarHide() {
 }
 
 function titleGlow() {
-	document.getElementById("title")!.classList.toggle("glow");
-	document.getElementById("backdrop")!.classList.toggle("blur");
+	document.getElementById("title")!.classList.toggle("glow")!;
+	document.getElementById("backdrop")!.classList.toggle("blur")!;
 }
 
 function toggleMenu(ID: string) { document.getElementById(ID)!.classList.toggle("show"); }
