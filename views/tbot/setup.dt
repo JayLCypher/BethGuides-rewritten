@@ -1,11 +1,14 @@
 extends common/layout
+block guidelinks
+	include tbot/guidelinks
+block faqlinks
+	include tbot/faqlinks
 block content
 	include tbot/setup/introsetup
 	include tbot/setup/location
 	include tbot/setup/uninstall
 	include tbot/setup/install
-	include tbot/setup/recommendedspecs
-
+	include tbot/setup/postinstall
 block linksleft
 	include tbot/linksleft
 block linksright

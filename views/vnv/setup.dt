@@ -1,0 +1,15 @@
+extends common/layout
+block guidelinks
+	include vnv/guidelinks
+block faqlinks
+	include vnv/faqlinks
+block content
+	include vnv/setup/introsetup
+	include vnv/setup/location
+	include vnv/setup/uninstall
+	include vnv/setup/install
+	include vnv/setup/postinstall
+block linksleft
+	include vnv/linksleft
+block linksright
+	include vnv/setup/links

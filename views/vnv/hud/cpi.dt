@@ -1,0 +1,8 @@
+// CPI
+section
+	h2#cpi: a.link(href="https://www.nexusmods.com/newvegas/mods/65046", target="_blank") Consistent Pip-Boy Icons
+	h2.install Installation instructions:
+	ul
+		li Download and install the first 2 #[b Main Files] normally (When prompted with a FOMOD installer, simply select #[b Install], rename the 2nd file to match its file name)
+		li Additionally install #[a(href="https://www.nexusmods.com/newvegas/mods/70486", target="_blank") Clean Companion Wheel 256x256]
+	p Thousands of Pip-Boy icons re-made from scratch in HD along with many bug fixes.

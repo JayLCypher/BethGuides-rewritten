@@ -1,0 +1,60 @@
+// INI Tweaks
+section#ini_tweaks
+	h2: a(href="#ini_tweaks") INI Tweaks
+	// Tweaking FalloutCustom.ini
+	h3#custom_ini: a(href="#custom_ini") Tweaking FalloutCustom.ini
+	p In this step, we will configure the game's INI files to increase performance/stability. We will take advantage of JIP LN NVSE's FalloutCustom.ini feature to make our changes, which allows for INI changes to be made safely without editing the default INIs. Because of this, these changes will not take affect until you install JIP LN NVSE in the #[a(href="/vnv/utilities#jip", target="_blank") Utilities]
+	ol
+		li Make sure the #[strong Viva New Vegas] profile is active.
+		li Click the #[img(src="/img/mo2/ini.webp", alt="MO2 INI button")] button at the top of MO2 and select #[strong INI Editor].
+		li Select the #[strong FalloutCustom.ini] tab, which should be blank.
+		ul: li Make sure you are in the #[strong FalloutCustom.ini] tab and NOT the #[strong Custom.ini] tab.
+		li Paste in the following:
+		textarea(readonly="readonly", style="height: 51.5em; width: 95%;", onclick="this.focus();this.select();").
+			[Archive]
+			; List of archives read on startup. Necessary when using decompressed BSAs
+			SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textures2.bsa, Fallout - Meshes.bsa, Fallout - Meshes2.bsa, Fallout - Voices1.bsa, Fallout - Sound.bsa, Fallout - Misc.bsa
+
+			[Audio]
+			; Enables additional worker thread for minor performance improvement. Disable if you encounter audio stutter.
+			bMultiThreadAudio=1
+			; Disables debug logging to save memory and CPU time
+			bUseAudioDebugInformation=0
+			; Increases memory buffers to reduce audio issues
+			iAudioCacheSize=8192
+			iMaxSizeForCachedSound=1024
+
+			[BackgroundLoad]
+			; Forces cell unload on fast travel to lessen memory usage
+			bSelectivePurgeUnusedOnFastTravel=1
+
+			[Controls]
+			; Disables mouse acceleration
+			fForegroundMouseAccelBase=0
+			fForegroundMouseAccelTop=0
+			fForegroundMouseBase=0
+			fForegroundMouseMult=0
+
+			[Display]
+			; Enables Fullscreen mode
+			bFull Screen=1
+			; Forces highest texture quality so the game won't crash if you had it set to anything lower
+			iTexMipMapSkip=0
+
+			[General]
+			; Forces faster cell unload to lessen memory usage
+			bPreemptivelyUnloadCells=1
+			; Spawns additional AI worker threads
+			bUseThreadedAI=1
+			; Enables multithreading for most operations
+			iNumHWThreads=2
+
+			[Grass]
+			; Increases grass draw distance
+			fGrassStartFadeDistance=11200
+
+			[PipBoy]
+			; Fixes flicker when opening Pip-Boy when its light is on
+			fLightEffectFadeDuration=400
+	h3#ini_notes: a(href="#ini_notes") Notes
+	p It is highly recommended to avoid changing any other INI settings not in the guide, and to avoid using tools like BethINI. You will realistically not need any other tweaks than the ones already in the guide.

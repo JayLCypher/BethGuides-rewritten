@@ -1,7 +1,7 @@
 @use "./fontawesome/scss/fontawesome.scss";
 @use "./fontawesome/scss/solid.scss";
 @use "./fontawesome/scss/brands.scss";
-@use "./include_media.scss";
+@use "./_include-media.scss" as *;
 
 // TODO: make colors work across pages.
 /* Default tags */
@@ -38,7 +38,6 @@ body {
 
 a { text-decoration: none; }
 b { font-size: 1.033em; }
-strong { color: $colorStrong; }
 
 code {
 	background-color: rgba(0, 0, 0, 0.233);
@@ -46,7 +45,6 @@ code {
 	line-break: loose;
 	border-radius: 4px;
 	@include media("<=900px") { line-break: anywhere; }
-	
 }
 
 textarea {

@@ -6,10 +6,10 @@ div#sidenavLeft
 			block linksleft
 	div
 		hr
-		ul
-			li: a(href="https://taleoftwowastelands.com/faq", target="_blank") FAQ
-			li: a(href="/vnv/avoid-tools") Tools to Avoid
-			li: a(href="/vnv/avoid-mods") Mods to Avoid
-	include guidelinks
+		ul#sidenavLeftList2
+			block faqlinks
+	div.guideLinks
+		hr
+		block guidelinks
 	include shillinks
 	p

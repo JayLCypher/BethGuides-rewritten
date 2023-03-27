@@ -1,0 +1,14 @@
+li: a(href="#faster_pipboy") Faster Pip-Boy
+li: a(href="#muzzle_lights") No Muzzle Lights
+li: a(href="#anim_pack") Anniversary Anims
+li: a(href="#anim_bugfix") Anniversary Anims Fix
+li: a(href="#inertia") Weapon Inertia
+li: a(href="#skeleton") Compatibility Skeleton
+li: a(href="#improved_lod") Improved LOD Noise
+li: a(href="#pipshading") Pip-Boy Shading Fix NVSE
+li: a(href="#alt") Atmospheric Lighting Tweaks
+li: a(href="#dn") DN Weathers
+li: a(href="#strip_lights") Strip Lights
+li: a(href="#lamplight") A Little More Lamplight
+li: a(href="#moonlight") MoonlightNVSE
+li: a(href="#bloom") High Res Bloom

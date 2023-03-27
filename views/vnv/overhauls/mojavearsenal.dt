@@ -1,0 +1,9 @@
+// Mojave Arsenal
+section
+	h2#mojavearsenal: a.link(href="https://www.nexusmods.com/newvegas/mods/62941", target="_blank") Mojave Arsenal
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Mojave Arsenal]
+		li #[b Optional Files - INI Config - Gun Runners' Arsenal Merged] (select the name that matches the file on Nexus when the installation prompt comes up)
+		blockquote Ignore the warning in MO2 and the greyed out text from the #[b INI Config - Gun Runners' Arsenal Merged].
+	p Adds ammo variants, reloading parts, and weapon mods as loot, provides comprehensive options for configuring and integrating Gun Runners' Arsenal, fixes item naming conventions, and improves recipes.

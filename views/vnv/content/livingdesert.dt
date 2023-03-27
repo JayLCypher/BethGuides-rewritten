@@ -1,0 +1,8 @@
+// The Living Desert
+section
+	h2#tld: a.link.performance(href="https://www.nexusmods.com/newvegas/mods/64623", target="_blank") The Living Desert
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - The Living Desert - Main File 2.3]
+		li Additionally install #[a(href="https://www.nexusmods.com/newvegas/mods/77945", target="_blank") #[b The Living Desert - Essential Vanilla Enhancements Merged Patch]] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Adds hundreds of new NPCs and scripted events that make the world feel much more alive and reactive.

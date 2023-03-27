@@ -1,0 +1,6 @@
+// Climate Control
+section
+	h2#climate: a.link(href="https://www.nexusmods.com/newvegas/mods/77205", target="_blank") Climate Control NVSE
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Climate Control NVSE]
+	p Fixes bugs and adds utilities for weather mods.

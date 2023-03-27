@@ -1,0 +1,8 @@
+// JAM
+section
+	h2#jam: a.link.optional(href="https://www.nexusmods.com/newvegas/mods/66666", target="_blank") Just Assorted Mods
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Just Assorted Mods]
+		li Additionally install #[a(href="https://www.nexusmods.com/newvegas/mods/76357", target="_blank") #[b Clean Just Weapon Wheel]]
+	p Highly configurable set of new modern features such as a quick loot menu, dynamic crosshair, sprinting, and more. Settings can be tweaked using the Mod Configuration Menu found in the in-game pause menu.

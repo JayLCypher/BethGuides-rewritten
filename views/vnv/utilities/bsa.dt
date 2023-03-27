@@ -1,0 +1,20 @@
+// BSA
+section
+	h2#bsa_decompressor: a.link(href="https://www.nexusmods.com/newvegas/mods/65854", target="_blank") BSA Decompressor
+	h2.install Installation instructions:
+	blockquote #[b IMPORTANT:] Make sure you follow these instructions precisely or else you will end up with missing meshes in your game.
+	ol
+		li Download the #[strong Main Files - FNV BSA Decompressor] and extract the contents of the archive anywhere outside of the default Windows folders
+		li From the extracted archive, run #[strong FNV BSA Decompressor.exe]
+		li Under the #[strong Fallout: New Vegas] header, click #[strong Browse] and choose the location of your game's #[strong Root] folder
+		li Click #[strong Decompress], wait for the process the finish, then exit the program once finished
+		li Click the <img src="./img/mo2 ini.webp" alt="mo2 ini button"> button at the top of MO2 and select #[strong INI Editor]
+		
+		li Select the #[strong fallout.ini] tab if its not already selected
+		li Press <kbd>Ctrl</kbd> + <kbd>F</kbd> and search for #[strong SArchiveList=]
+		li Replace the existing line with the following:
+			textarea(readonly="readonly", onclick="this.focus();this.select();") SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textures2.bsa, Fallout - Meshes.bsa, Fallout - Meshes2.bsa, Fallout - Voices1.bsa, Fallout - Sound.bsa, Fallout - Misc.bsa
+	blockquote #[b IMPORTANT:] Make sure the new section is one line when pasted.
+	ol(start="9")
+		li Save and exit
+	p Repackages the BSAs without zlib compression to increase performances and fixes certain sound effects not playing.

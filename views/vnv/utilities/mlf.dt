@@ -1,0 +1,6 @@
+// MLF
+section
+	h2#limit_fix: a.link(href="https://www.nexusmods.com/newvegas/mods/68714", target="_blank") Mod Limit Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - MLF]
+	p Raises the game's file handles limit and improves performance/load times, even if you are far below it.

@@ -1,0 +1,6 @@
+// Follower Tweaks
+section
+	h2#follower_tweaks: a.link(href="https://www.nexusmods.com/newvegas/mods/62180", target="_blank") Follower Tweaks
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Follower Tweaks]
+	p Reworks Boone, ED-E, and Rexes' companion perks to be less intrusive/annoying.

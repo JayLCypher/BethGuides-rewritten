@@ -1,0 +1,23 @@
+extends common/layout
+block guidelinks
+	include vnv/guidelinks
+block faqlinks
+	include vnv/faqlinks
+block content
+	section
+		h1 Appendix
+	section
+		div
+			h2: a.link(href="./changelog") Changelog
+			p Catalog of all changes made to the guide
+		div
+			h2: a.link(href="./faq") Frequently-Asked Questions
+			p Solutions to common problems with the guide
+		div
+			h2: a.link(href="./resources") Resources
+			p Various tutorials and information that may be useful, especially if you plan on adding mods
+block linksleft
+	include vnv/linksleft
+	ul
+		li: a(href="/vnv/resources") Resources
+		li: a(href="/vnv/lod") LOD Guide

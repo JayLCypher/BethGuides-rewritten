@@ -1,0 +1,16 @@
+extends common/layout
+block guidelinks
+	include vnv/guidelinks
+block faqlinks
+	include vnv/faqlinks
+block content
+	include vnv/gameplay/introgameplay
+	include vnv/gameplay/jam
+	include vnv/gameplay/npcsprint
+	include vnv/gameplay/realrecoil
+	include vnv/gameplay/followertweaks
+	include vnv/gameplay/dlcdelay
+block linksleft
+	include vnv/linksleft
+block linksright
+	include vnv/gameplay/links

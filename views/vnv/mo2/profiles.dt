@@ -1,0 +1,13 @@
+// Profiles
+section#profiles
+	h2: a(href="#profiles") Creating Profiles
+	p Mod Organizer 2's "Profiles" feature allows for easy switching between different mod configurations. In this step, we will create a profile for the guide while keeping a strictly-vanilla profile for testing/de-bugging. Profiles can be selected via the drop-down menu above the left pane.
+	ol
+		li Select the #[img(src="/img/mo2/profiles.webp", alt="MO2 profiles")] button at the top of MO2 to open the profiles menu.
+		li Select the #[strong Default] profile, then select #[strong Copy].
+		li Name the new profile #[strong Viva New Vegas].
+		li Select the #[strong Viva New Vegas] profile and make sure both #[strong Use profile-specific Game INI Files] and #[strong Automatic Archive Invalidation] are enabled at the bottom. 
+	blockquote You may get a pop-up called #[strong INI file is read-only] when attempting to make/select a new profile. If so then select #[strong Remember my choice] from the drop-down at the bottom then click #[strong Clear the read-only flag.]
+	ol(start="5")
+		li Exit out of the profiles menu and select the #[strong Viva New Vegas] profile from the drop-down above the left pane.
+		img(src="/img/vnv/profile select.webp", alt="Profile selection")

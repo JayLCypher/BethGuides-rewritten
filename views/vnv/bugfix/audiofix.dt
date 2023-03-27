@@ -1,0 +1,6 @@
+// Audio Fix
+section
+	h2#evaff: a.link(href="https://www.nexusmods.com/newvegas/mods/73526", target="_blank") Elijah Voice Audio Files Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Elijah Voice Files Fix - OGG Encoding]
+	p Fixes audio glitches in Elijah's voice during Dead Money.

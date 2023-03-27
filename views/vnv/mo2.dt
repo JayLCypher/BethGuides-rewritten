@@ -1,0 +1,16 @@
+extends common/layout
+block guidelinks
+	include vnv/guidelinks
+block faqlinks
+	include vnv/faqlinks
+block content
+	include vnv/mo2/intromo2
+	include vnv/mo2/installingmo2
+	include vnv/mo2/configmo2
+	include vnv/mo2/profiles
+	include vnv/mo2/initweaks
+	include vnv/mo2/installationinstructions
+block linksleft
+	include vnv/linksleft
+block linksright
+	include vnv/mo2/links

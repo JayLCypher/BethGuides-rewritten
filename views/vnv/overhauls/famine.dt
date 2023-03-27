@@ -1,0 +1,6 @@
+// Famine
+section
+	h2#famine: a.link.optional(href="https://www.nexusmods.com/newvegas/mods/74985", target="_blank") Famine
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Famine]
+	p Dynamically lowers the amount of loot in the world to create a harsher and less forgiving economy.

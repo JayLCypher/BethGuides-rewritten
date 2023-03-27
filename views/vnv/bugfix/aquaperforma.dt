@@ -1,0 +1,6 @@
+// Aqua Performa
+section
+	h2#aqua: a.link(href="https://www.nexusmods.com/newvegas/mods/78617", target="_blank") Strip Performance Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Strip Performance Fix]
+	p Drastically improves performance on The Strip by getting rid of water LOD.

@@ -1,0 +1,7 @@
+// Fallout Alpha Rendering Tweaks
+section
+
+	h2#alpha_tweaks: a.link(href="https://www.nexusmods.com/newvegas/mods/80316", target="_blank") Fallout Alpha Rendering Tweaks - NVSE
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Fallout Alpha Rendering Tweaks]
+	p Mod aims to fix some alpha rendering issues like broken effects when using Transparency Multisampling.

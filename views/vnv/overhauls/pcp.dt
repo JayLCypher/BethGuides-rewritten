@@ -1,0 +1,6 @@
+// Player Combat Priority
+section
+	h2#player_priority: a.link.optional(href="https://www.nexusmods.com/newvegas/mods/71699", target="_blank") Player Combat Priority
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Player Combat Priority]
+	p Makes enemies focus on the player in combat rather than solely companions.

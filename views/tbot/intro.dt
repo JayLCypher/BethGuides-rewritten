@@ -1,4 +1,8 @@
 extends common/layout
+block guidelinks
+	include tbot/guidelinks
+block faqlinks
+	include tbot/faqlinks
 block content
 	include tbot/introduction/introintroduction
 	include tbot/introduction/overview
@@ -6,9 +10,7 @@ block content
 	include tbot/introduction/additionalmods
 	include tbot/introduction/specs
 	include tbot/introduction/discord
-
 block linksleft
 	include tbot/linksleft
-
 block linksright
 	include tbot/introduction/links

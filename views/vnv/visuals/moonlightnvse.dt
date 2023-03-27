@@ -1,0 +1,6 @@
+// MoonlightNVSE
+section
+	h2#moonlight: a.link(href="https://www.nexusmods.com/newvegas/mods/77683", target="_blank") MoonlightNVSE
+	h2.install Installation instructions:
+	ul: li #[b Main Files - MoonlightNVSE]
+	p Fixes moonlight by making the moon the light caster instead of the sun.

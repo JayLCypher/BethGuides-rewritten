@@ -1,0 +1,6 @@
+// Strip Lights
+section
+	h2#strip_lights: a.link(href="https://www.nexusmods.com/newvegas/mods/78906", target="_blank") Strip Street Light Corrections
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Strip Street Light Corrections]
+	p Corrects several minor issues with the Strip's street lights.

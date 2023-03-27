@@ -1,0 +1,6 @@
+// ALT
+section
+	h2#alt: a.link(href="https://www.nexusmods.com/newvegas/mods/79378", target="_blank") Atmospheric Lighting Tweaks
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Atmospheric Lighting Tweaks - FNV]
+	p Makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.

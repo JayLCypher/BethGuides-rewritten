@@ -1,0 +1,6 @@
+// Crash Logger
+section
+	h2#cobb: a.link(href="https://www.nexusmods.com/newvegas/mods/72317", target="_blank") Crash Logger
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Crash Logger]
+	p A DLL that logs raw crash data.

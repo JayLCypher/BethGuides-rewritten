@@ -1,0 +1,6 @@
+// UPNVSE
+section
+	h2#upnvse: a.link(href="https://www.nexusmods.com/newvegas/mods/71239", target="_blank") Unofficial Patch NVSE Plus
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Unofficial Patch NVSE Plus]
+	p Fixes many bugs like YUP, but takes advantage of NVSE and JIP LN.

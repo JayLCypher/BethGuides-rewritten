@@ -1,0 +1,26 @@
+extends common/layout
+block guidelinks
+	include vnv/guidelinks
+block faqlinks
+	include vnv/faqlinks
+block content
+	include vnv/bugfix/introbugfix
+	include vnv/bugfix/yup
+	include vnv/bugfix/upnvse
+	include vnv/bugfix/tweaks
+	include vnv/bugfix/combatlagfix
+	include vnv/bugfix/iscontrol
+	include vnv/bugfix/vanillairons
+	include vnv/bugfix/nvmim
+	include vnv/bugfix/ils
+	include vnv/bugfix/climatecontrol
+	include vnv/bugfix/audiofix
+	include vnv/bugfix/aquaperforma
+	include vnv/bugfix/fogbasedculling
+	include vnv/bugfix/fart
+	include vnv/bugfix/emf
+	include vnv/bugfix/perfguide
+block linksleft
+	include vnv/linksleft
+block linksright
+	include vnv/bugfix/links

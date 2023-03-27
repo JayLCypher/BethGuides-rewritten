@@ -1,0 +1,6 @@
+// Fog-based Culling
+section
+	h2#fog: a.link(href="https://www.nexusmods.com/newvegas/mods/79516", target="_blank") Fog-based Object Culling
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Fog-based Object Culling]
+	p Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.

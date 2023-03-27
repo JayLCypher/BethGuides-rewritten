@@ -1,4 +1,8 @@
 extends common/layout
+block guidelinks
+	include tbot/guidelinks
+block faqlinks
+	include tbot/faqlinks
 block content
 	include tbot/mo2/intromo2
 	include tbot/mo2/installingmo2
@@ -6,9 +10,7 @@ block content
 	include tbot/mo2/profiles
 	include tbot/mo2/initweaks
 	include tbot/mo2/installationinstructions
-
 block linksleft
 	include tbot/linksleft
-
 block linksright
 	include tbot/mo2/links

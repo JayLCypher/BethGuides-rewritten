@@ -1,0 +1,6 @@
+// High Res Bloom
+section
+	h2#bloom: a.link(href="https://www.nexusmods.com/newvegas/mods/77933", target="_blank") High Resolution Bloom NVSE
+	h2.install Installation instructions:
+	ul: li #[b Main Files - High Resolution Bloom]
+	p Allows for customizable bloom resolution, making it possible to use resolutions other than vanilla's quarter one.

@@ -1,0 +1,10 @@
+// Darn
+section
+	h2#darn: a.link(href="https://www.moddb.com/mods/unofficial-darnified-ui-update/downloads/unofficial-darnified-ui-update-fnv1", target="_blank") DarnUI
+	h2.install Installation instructions:
+	ul
+		li Download the mod and install manually through MO2
+		li Additionally install #[a(href="https://www.nexusmods.com/newvegas/mods/79358", target="_blank") DarnUI Config]
+	p Greatly improves the look and scale of the UI, adds configurable information shown on the corner.
+	blockquote Ignore the warning in MO2 and the greyed out text from the #[b DarnUI Config].
+	blockquote If you do not like the look of DarnUI, you can instead try #[a(href="https://www.moddb.com/mods/vanilla-ui-plus", target="_blank") Vanilla UI Plus]. Installation instructions can be found in the #[a(href="/faq#vuiplus", target="_blank") FAQ].

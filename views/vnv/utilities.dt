@@ -1,0 +1,25 @@
+extends common/layout
+block guidelinks
+	include vnv/guidelinks
+block faqlinks
+	include vnv/faqlinks
+block content
+	include vnv/utilities/introutilities
+	include vnv/utilities/xnvse
+	include vnv/utilities/bsa
+	include vnv/utilities/ESM
+	include vnv/utilities/4gbpatch
+	include vnv/utilities/nvhr
+	include vnv/utilities/jip
+	include vnv/utilities/johnnyguitar
+	include vnv/utilities/crashlogger
+	include vnv/utilities/nvtf
+	include vnv/utilities/mlf
+	include vnv/utilities/knvse
+	include vnv/utilities/consolepaste
+	include vnv/utilities/showoff
+	include vnv/utilities/testing
+block linksleft
+	include vnv/linksleft
+block linksright
+	include vnv/utilities/links

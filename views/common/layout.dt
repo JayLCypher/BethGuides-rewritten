@@ -6,7 +6,7 @@ html(lang="en-US")
 		title #{subtitle} | #{title}
 
 	body
-		include titlebar
+		include common/titlebar
 		include common/sidebarLeft
 		div.content
 			block content

@@ -1,0 +1,6 @@
+// Food Effect Tweaks
+section
+	h2#food_healing: a.link.optional(href="https://www.nexusmods.com/newvegas/mods/75103", target="_blank") Food Effect Tweaks
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Food Effect Tweaks]
+	p Lowers the amount of healing provided by food items, making the distinction between the Survival and Medicine skills more important.

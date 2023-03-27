@@ -1,0 +1,6 @@
+// Uncut
+section
+	h2#uncut: a.link.performance(href="https://www.nexusmods.com/newvegas/mods/79358", target="_blank") Uncut Wasteland
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Uncut Wasteland]
+	p A custom version of the original Uncut Wasteland mod, which restores many pieces of cut scenery and a few NPCs that were cut because of console limitations.

@@ -1,0 +1,6 @@
+// DLC Delay
+section
+	h2#dlc_delay: a.link.optional(href="https://www.nexusmods.com/newvegas/mods/75851", target="_blank") Delay DLC Redux
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Delay DLC Redux]
+	p Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest.

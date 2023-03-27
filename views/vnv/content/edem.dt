@@ -1,0 +1,6 @@
+// DLC Enhancements
+section
+	h2#essential_dlc: a.link(href="https://www.nexusmods.com/newvegas/mods/73803", target="_blank") Essential DLC Enhancements Merged
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Essential DLC Enhancements]
+	p Merge of many gameplay improvements for the DLCs, all updated and fixed.

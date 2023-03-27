@@ -1,0 +1,6 @@
+// Vanilla Iron Sights Realligned
+section
+	h2#sightsalligned: a.link(href="https://www.nexusmods.com/newvegas/mods/77672", target="_blank") Vanilla Iron Sights Realligned
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Vanilla Iron Sights Realligned]
+	p Fixes all the iron sights on vanilla weapon meshes using ISControl Enabler.

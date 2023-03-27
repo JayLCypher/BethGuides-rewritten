@@ -1,0 +1,6 @@
+// ILS
+section
+	h2#ils: a.link(href="https://www.nexusmods.com/newvegas/mods/69833", target="_blank") Improved Lighting Shaders
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Improved Lighting Shaders]
+	p Fixes engine-level lighting bugs and allows for 4x the normal amount of active lights.

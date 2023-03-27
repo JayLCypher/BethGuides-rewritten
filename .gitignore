@@ -14,3 +14,8 @@ dbestoftimes-test-*
 *.o
 *.obj
 *.lst
+.vscode
+
+# SCSS
+public/*/*.css
+public/*/*.js

@@ -1,0 +1,12 @@
+// HD Map
+section
+	h2#localmap: a.link(href="https://www.nexusmods.com/newvegas/mods/77963", target="_blank") High Res Local Maps
+	h2.install Installation instructions:
+	ul: li #[b Main Files - High Res Local Maps]
+	p Increases the resolution of local maps to a configurable target resolution.
+// HD Screen
+section
+	h2#highresscreen: a.link(href="https://www.nexusmods.com/newvegas/mods/77989", target="_blank") High Resolution Screens
+	h2.install Installation instructions:
+	ul: li #[b Main Files - High Resolution Screens]
+	p Increases the render resolution of in-game screens (Pipboy, terminals, character creation menu) to match game's screen resolution.

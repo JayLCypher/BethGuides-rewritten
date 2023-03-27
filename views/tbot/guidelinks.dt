@@ -1,6 +1,4 @@
-extends guidelinks
-block guidelinks
-	a(href="/vnv/", target="_blank", rel="nofollow") Fallout New Vegas
-	a(href="https://themidnightride.github.io/", target="_blank", rel="nofollow") Fallout 4
-	a(href="https://dragonbornsfate.github.io/", target="_blank", rel="nofollow") Skyrim Special Edition
-	a(href="https://gloryofcyrodiil.github.io/", target="_blank", rel="nofollow") Oblivion
+a(href="/vnv/", target="_blank", rel="nofollow") Fallout New Vegas
+a(href="https://themidnightride.github.io/", target="_blank", rel="nofollow") Fallout 4
+a(href="https://dragonbornsfate.github.io/", target="_blank", rel="nofollow") Skyrim Special Edition
+a(href="https://gloryofcyrodiil.github.io/", target="_blank", rel="nofollow") Oblivion

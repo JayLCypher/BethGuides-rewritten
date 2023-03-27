@@ -1,0 +1,8 @@
+// Recoil
+section
+	h2#recoil: a.link(href="https://www.nexusmods.com/newvegas/mods/62153", target="_blank") Real Recoil
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Real Recoil v1.2.1]
+		li Additionally install #[a(href="https://www.nexusmods.com/newvegas/mods/79358", target="_blank") #[b Real Recoil Tweaks]]
+	p Adds a visually smooth, truly dynamic, and realistic recoil system.

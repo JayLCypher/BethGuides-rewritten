@@ -1,0 +1,34 @@
+extends common/layout
+block guidelinks
+	include vnv/guidelinks
+block faqlinks
+	include vnv/faqlinks
+block content
+	section
+		h1 Resources
+		div
+			h2: a.link(href="./avoid-tools") Tools to Avoid
+			p List of many outdated/dangerous tools.
+		div
+			h2: a.link(href="./avoid-mods") Mods to Avoid
+			p List of many outdated/dangerous mods.
+		div
+			h2: a.link(href="https://wastelandsurvivalguide.com/docs/dogma.html", target="_blank") Dangerous Dogma
+			p Bad information floating around the internet that you should be aware of.
+		div
+			h2: a.link(href="./lod") LOD Guide
+			p Guide on how to generate Object LOD with xLODgen.
+		div
+			h2: a.link(href="https://wastelandsurvivalguide.com/docs/xedit.html", target="_blank") xEdit Basics
+			p Introduction to xEdit, which will allow you to understand how plugins work and how you can edit records.
+		div
+			h2: a.link(href="https://wastelandsurvivalguide.com/docs/themethod.html", target="_blank") The Method
+			p Guide on how to use The Method, which is used while creating a modlist in order to patch it properly and hide remaining conflicts that need no intervention.
+		div
+			h2: a.link(href="https://geckwiki.com/index.php/Main_Page", target="_blank") GECK Wiki
+			p Most comprehensive resource for the GECK and scripting.
+block linksleft
+	include vnv/linksleft
+	ul
+		li: a(href="/vnv/resources") Resources
+		li: a(href="/vnv/lod") LOD Guide

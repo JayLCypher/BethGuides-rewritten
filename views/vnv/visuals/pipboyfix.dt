@@ -1,0 +1,6 @@
+// Pipboy Fix
+section
+	h2#pipshading: a.link.optional(href="https://www.nexusmods.com/newvegas/mods/77957", target="_blank") Pip-Boy Shading Fix NVSE
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Pip-Boy Shading Fix]
+	p Fixes Pip-Boy's shading, making it not ignore lights around it.

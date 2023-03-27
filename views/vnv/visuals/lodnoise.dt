@@ -1,0 +1,6 @@
+// Improved LOD Noise
+section
+	h2#improved_lod: a.link(href="https://www.nexusmods.com/newvegas/mods/46451", target="_blank") Improved LOD Noise Texture
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Improved LOD noise Texture]
+	p Improves the generic LOD noise texture.

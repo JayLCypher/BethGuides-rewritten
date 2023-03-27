@@ -1,0 +1,6 @@
+// ISControl Enabler
+section
+	h2#is_control: a.link(href="https://www.nexusmods.com/newvegas/mods/75417", target="_blank") ISControl Enabler
+	h2.install Installation instructions:
+	ul: li #[b Main Files - ISControl ESPless FULL]
+	p Dynamically adds ISControl node system animation support and easy per-weapon sights adjustment.

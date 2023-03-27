@@ -1,0 +1,6 @@
+// NVMIM
+section
+	h2#nvmim: a.link(href="https://www.nexusmods.com/newvegas/mods/74295", target="_blank") New Vegas Mesh Improvement Mod
+	h2.install Installation instructions:
+	ul: li #[b Main Files - New Vegas Mesh Improvement Mod]
+	p Optimizations and fixes for over one thousand meshes throughout the base game and DLCs.

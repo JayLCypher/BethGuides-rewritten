@@ -14,10 +14,11 @@ function keyboardPagination(e) {
     }
 }
 function sidenavActiveLink() {
-    const sidenavleftlist = document.getElementById("sidenavLeftList").children;
+    const aList = Array.prototype.slice.call(document.getElementById("sidenavLeftList").getElementsByTagName("a"), 0);
+    const aList2 = Array.prototype.slice.call(document.getElementById("sidenavLeftList2").getElementsByTagName("a"), 0);
+    const aListFinal = Array.prototype.concat(aList, aList2);
     const currentPath = window.location.pathname;
-    for (const li of sidenavleftlist) {
-        const a = li.querySelector("a");
+    for (const a of aListFinal) {
         if (a.getAttribute("href") == currentPath) {
             a.classList.add("active");
             break;

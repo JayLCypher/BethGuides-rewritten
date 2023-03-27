@@ -1,0 +1,8 @@
+// MCM
+section
+	h2#mcm: a.link(href="https://www.nexusmods.com/newvegas/mods/42507", target="_blank") The Mod Configuration Menu
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - The Mod Configuration Menu]
+		li #[b Update File - MCM BugFix 2] (you can either click #[strong Merge] or rename the mod as the file and install that below the main)
+	p Allows select mods to be configured via a single in-game menu.

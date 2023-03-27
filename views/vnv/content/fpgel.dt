@@ -1,0 +1,6 @@
+// FPGEL
+section
+	h2#fpgel: a.link.optional(href="https://www.nexusmods.com/newvegas/mods/73668", target="_blank") Functional Post Game Ending Lite
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Functional Post Game Ending Lite]
+	p Lets you continue playing after Hoover Dam without altering the game's world.

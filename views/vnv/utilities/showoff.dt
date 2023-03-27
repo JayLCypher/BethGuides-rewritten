@@ -1,0 +1,8 @@
+// ShowOff
+section
+	h2#showoff: a.link(href="https://www.nexusmods.com/newvegas/mods/72541", target="_blank") ShowOff NVSE
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - ShowOff NVSE]
+		li #[b Optional File - ShowOff INI]
+	p NVSE plugin adding new functions and engine-level tweaks &amp; bugfixes.

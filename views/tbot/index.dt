@@ -1,1 +1,3 @@
 extends common/index
+block guidelinks
+	include tbot/guidelinks

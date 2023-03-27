@@ -6,10 +6,10 @@ Section#installing_ttw
 		li Make sure both Mod Organizer 2 and the game are closed.
 		li From the #[a(href="https://taleoftwowastelands.com/dl", target="_blank") TTW Download] page, download the #[strong 3.3.2 Installer] file.
 		li Extract the contents of the #[strong 3.3.2 Installer] archive to a new folder called #[strong TTW Installer] in a safe location #[abbr(title="Do not use any folder falling under UAC such as Program Files, Desktop, Documents, Downloads, etc. Use a simple location like C:/Modding") outside of any default Windows folders.]
-		li Once everything has been extracted, open MO2, select the #[img(style="width:2%", src="./img/mo2 folders.webp", alt="MO2 Folders")] button at the top, and select #[strong Open Mods folder], and create a folder there named #[strong Tale of Two Wastelands].
+		li Once everything has been extracted, open MO2, select the #[img(style="width:2%", src="/img/mo2/folders.webp", alt="MO2 Folders")] button at the top, and select #[strong Open Mods folder], and create a folder there named #[strong Tale of Two Wastelands].
 		li Back in the #[strong TTW Installer] folder, right-click the #[strong TTW Install.exe] and select #[strong Run As Administrator].
 		li In the installer, verify that the automatically set file paths for both your Fallout 3 and Fallout New Vegas installations are correct.
 		li Set the Tale of Two Wastelands install path to the #[code C:\Users\ #[strong YOUR USERNAME] \AppData\Local\ModOrganizer\TTW\mods\Tale of Two Wastelands] you created in step 4.
-		img(src="./img/install.webp", alt="Installation Paths")
+		img(src="/img/tbot/install.webp", alt="Installation Paths")
 		li Ensure your paths look similar to the example above, then select #[strong Install].
 	blockquote The install may take a long time as the .ogg encoding is very CPU-intensive. It takes about 40 minutes on my 5600x but could take several hours or even longer on a slower CPU. It is recommended to leave your computer alone and have any CPU-intensive applications closed during this time so as to not overheat your CPU and cause the TTW installation to fail.

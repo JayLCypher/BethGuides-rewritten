@@ -1,0 +1,6 @@
+// B42 Weapon Inertia
+section
+	h2#inertia: a.link(href="https://www.nexusmods.com/newvegas/mods/64335", target="_blank") B42 Weapon Inertia
+	h2.install Installation instructions:
+	ul: li #[b Main Files - B42 Inertia V1.2]
+	p Gives weapons realistic inertia movement.

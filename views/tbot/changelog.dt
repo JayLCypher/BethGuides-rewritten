@@ -1,4 +1,8 @@
 extends common/layout
+block guidelinks
+	include tbot/guidelinks
+block faqlinks
+	include tbot/faqlinks
 block content
 	section
 		h1 Changelog

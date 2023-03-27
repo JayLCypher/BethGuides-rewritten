@@ -1,0 +1,6 @@
+// Compatibility Skeleton
+section
+	h2#skeleton: a.link(href="https://www.nexusmods.com/newvegas/mods/68776", target="_blank") Compatibility Skeleton
+	h2.install Installation instructions:
+	ul: li #[b Optional File - NVCS Vanilla Weights]
+	p Allows multiple mods that edit the skeleton mesh to work together, required for B42 Weapon Inertia.

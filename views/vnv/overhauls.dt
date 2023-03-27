@@ -1,0 +1,18 @@
+extends common/layout
+block guidelinks
+	include vnv/guidelinks
+block faqlinks
+	include vnv/faqlinks
+block content
+	include vnv/overhauls/introoverhauls
+	include vnv/overhauls/jsue
+	include vnv/overhauls/mojavearsenal
+	include vnv/overhauls/famine
+	include vnv/overhauls/fet
+	include vnv/overhauls/pcp
+	include vnv/overhauls/eve
+	include vnv/overhauls/bcc
+block linksleft
+	include vnv/linksleft
+block linksright
+	include vnv/overhauls/links

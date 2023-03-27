@@ -1,4 +1,4 @@
-li: a(href="/vnv/index") Home
+li: a(href="/vnv/") Home
 li: a(href="/vnv/intro") Introduction
 li: a(href="/vnv/setup") Initial Setup
 li: a(href="/vnv/mo2") MO2

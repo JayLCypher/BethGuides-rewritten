@@ -1,0 +1,14 @@
+// Requirements
+section
+	h3#requirements: a(href="#requirements") Requirements:
+	ul
+		li An English copy of the game with all DLCs from either #[a(href="https://store.steampowered.com/sub/13435/", target="_blank") Steam] or #[a(href="https://www.gog.com/game/fallout_new_vegas_ultimate_edition", target="_blank") GOG]. 
+		ul: li Only the English version of the game is supported for maximum compatibility. The Bethesda.net and Xbox Gamepass versions of the game are also unsupported, as they do not work with xNVSE which is essential for most mods. German release uses a "No Gore" version, making it also incompatible with xNVSE.
+		li At least 12GB of free drive space.
+		li Windows 7 or higher (64-bit).
+		li #[a(href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/", target="_blank") VC++ Runtime Libraries].
+		ul: li Extract the archive and run the included #[strong install_all.bat] as an administrator to install all of the required libraries at once.
+		li A text editor (I recommend #[a(href="https://notepad-plus-plus.org/", target="_blank") Notepad++], but the default Windows notepad will work).
+		li An archiving tool (I recommend #[a(href="https://www.7-zip.org/", target="_blank") 7-Zip]. If you use Windows 11 then #[a(href="https://apps.microsoft.com/store/detail/nanazip/9N8G7TSCL18R?hl=en-us&amp;gl=us", target="_blank") NanaZip] is a better option). 
+		li The latest GPU drivers (Either #[a(href="https://www.nvidia.com/Download/index.aspx", target="_blank") NVIDIA], #[a(href="https://www.amd.com/en/support", target="_blank") AMD] or #[a(href="https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-dch-drivers.html", target="_blank") Intel]). 
+		li #[a(href="https://users.nexusmods.com/register", target="_blank") A Nexus Mods account] .

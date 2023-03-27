@@ -1,0 +1,14 @@
+// ESM
+section
+	h2#fixed_esms: a.link(href="https://www.nexusmods.com/newvegas/mods/77170", target="_blank") Ultimate Edition ESM Fixes
+	h2.install Installation instructions
+	ol
+		li Download the #[strong Main Files - Ultimate Edition ESM Fixes] and extract the contents of the archive anywhere outside of the default Windows folders
+		li Click the #[img(width="24px", height="24px", src="/img/mo2/folders.webp", alt="mo2 folder button")] button next to the profiles bar and select #[strong Open Mods folder]
+		li Create an empty folder called #[strong Fixed ESMs] inside of the Mods folder
+		li From the extracted archive, run #[strong Installer.exe]
+		li Under the #[strong Fallout: New Vegas] header, click #[strong Browse] and choose the location of your game's #[strong Root] folder
+		li Under the #[strong ESM Fixes] header, click #[strong Browse] and choose the #[strong Fixed ESMs] folder you just created 
+		li Click #[strong Install], wait for the process the finish, then exit the program once finished
+		li In Mod Organizer 2, press #[kbd F5] to refresh the left pane and enable the #[strong Fixed ESMs] mod by ticking its checkbox
+	p Optimizes and fixes thousands of records across the base game and DLC plugins to increase performance and stability.

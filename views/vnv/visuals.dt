@@ -1,0 +1,24 @@
+extends common/layout
+block guidelinks
+	include vnv/guidelinks
+block faqlinks
+	include vnv/faqlinks
+block content
+	include vnv/visuals/introvisuals
+	include vnv/visuals/fasterpipboy
+	include vnv/visuals/nomoremuzzlelights
+	include vnv/visuals/anniversaryanims
+	include vnv/visuals/b42inertia
+	include vnv/visuals/compatibilityskeleton
+	include vnv/visuals/lodnoise
+	include vnv/visuals/pipboyfix
+	include vnv/visuals/alt
+	include vnv/visuals/striplights
+	include vnv/visuals/dnweathers
+	include vnv/visuals/littlelamplight
+	include vnv/visuals/moonlightnvse
+	include vnv/visuals/highresbloom
+block linksleft
+	include vnv/linksleft
+block linksright
+	include vnv/visuals/links

@@ -5,7 +5,7 @@ section#ini_tweaks
 	| In this step, we will configure the game's INI files to increase performance/stability. We will take advantage of JIP LN NVSE's FalloutCustom.ini feature to make our changes, which allows for INI changes to be made safely without editing the default INIs. Because of this, these changes will not take affect until you install JIP LN NVSE in the #[a(href="essentials.html#jip", target="_blank") Essentials]
 	ol
 		li Make sure the #[strong The Best of Times] profile is active.
-		li Click the #[img(src="./img/mo2 ini.webp", alt="MO2 INI button")] button at the top of MO2 and select #[strong INI Editor]. 
+		li Click the #[img(src="/img/mo2/ini.webp", alt="MO2 INI button")] button at the top of MO2 and select #[strong INI Editor]. 
 		li Select the #[strong FalloutCustom.ini] tab, which should be blank.
 		ul: li Make sure you are in the #[strong FalloutCustom.ini] tab and NOT the #[strong Custom.ini] tab. 
 		li Paste in the following:

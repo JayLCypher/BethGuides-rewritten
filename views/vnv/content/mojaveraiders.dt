@@ -1,0 +1,9 @@
+// Mojave Raiders
+section
+	h2#raiders: a.link(href="https://www.nexusmods.com/newvegas/mods/64660", target="_blank") Mojave Raiders
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Mojave Raiders]
+		li Additionally install #[a(href="https://www.nexusmods.com/newvegas/mods/79358", target="_blank") Mojave Raiders Tweaks]
+		li Additionally install #[a(href="https://www.nexusmods.com/newvegas/mods/77945", target="_blank") #[b JSawyer Ultimate - Mojave Raiders Patch]] and #[a(href="https://www.nexusmods.com/newvegas/mods/77945", target="_blank") #[b Mojave Raiders - Essential Vanilla Enhancements Merged Patch]] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Major overhaul/balancing of the vanilla raiders, as well adding many new spawn points.

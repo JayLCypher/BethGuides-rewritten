@@ -1,7 +1,10 @@
 extends common/layout
+block guidelinks
+	include tbot/guidelinks
+block faqlinks
+	include tbot/faqlinks
 block content
 	include tbot/essentials/introessentials
-
 	include tbot/essentials/xnvse
 	include tbot/essentials/4gbpatch
 	include tbot/essentials/nvhr
@@ -19,7 +22,6 @@ block content
 	include tbot/essentials/uio
 	include tbot/essentials/perfguide
 	include tbot/essentials/testing
-
 block linksleft
 	include tbot/linksleft
 block linksright

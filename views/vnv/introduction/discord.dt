@@ -1,0 +1,3 @@
+section
+	h2#discord: a(href="#discord") Discord
+	p Have any questions? We have a #[a(href="https://discord.gg/DhX5S27", target="_blank") Discord] dedicated to the guide. If you run into trouble, have any questions, or just want updates on the guide, be sure to check it out!

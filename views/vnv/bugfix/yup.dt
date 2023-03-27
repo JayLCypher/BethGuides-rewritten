@@ -1,0 +1,6 @@
+// YUP
+section
+	h2#yup: a.link(href="https://www.nexusmods.com/newvegas/mods/51664", target="_blank") Yukichigai Unofficial Patch
+	h2.install Installation instructions:
+	ul: li #[b Main Files - YUP - Base Game and All DLC]
+	p Fixes thousands of bugs with both the base game and DLCs.

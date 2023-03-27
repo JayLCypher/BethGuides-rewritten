@@ -1,8 +1,0 @@
-// Titlebar
-//- Need to add transparent class dynamically upon index or otherwise.
-div#titlebar.titlecontainer
-	div#sideButton(onclick="toggleMenu('sidenavLeft');window.addEventListener('resize', function (e) {toggleMenu('sidenavLeft');}, { once: true });"): i.fa-solid.fa-bars
-	img(src="../img/#{shorttitle}/logo.webp", alt="Logo")
-	a(href="/#{shorttitle}") #{title}
-	div.guideLinks
-		block guidelinks

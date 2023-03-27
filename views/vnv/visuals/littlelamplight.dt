@@ -1,0 +1,6 @@
+// A Little More Lamplight
+section
+	h2#lamplight: a.link.performance(href="https://www.nexusmods.com/newvegas/mods/69226", target="_blank") A Little More Lamplight
+	h2.install Installation instructions:
+	ul: li #[b Main Files - A Little More Lamplight]
+	p Enhances the vanilla streetlights and adds new ones around Outer Vegas, Freeside, and more.

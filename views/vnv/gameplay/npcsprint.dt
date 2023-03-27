@@ -1,0 +1,6 @@
+// NPC Sprint
+section
+	h2#npc_sprint: a.link.optional(href="https://www.nexusmods.com/newvegas/mods/68179", target="_blank") NPCs Sprint
+	h2.install Installation instructions:
+	ul: li #[b Main Files - NPCs Sprint In Combat]
+	p Allows for melee-wielding enemies to use the new sprint feature from JAM.

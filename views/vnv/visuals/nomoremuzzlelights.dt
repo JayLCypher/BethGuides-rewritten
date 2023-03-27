@@ -1,0 +1,7 @@
+// No Muzzle Flash Lights
+section
+	h2#muzzle_lights: a.link.optional(href="https://www.nexusmods.com/newvegas/mods/77781", target="_blank") No Muzzle Flash Lights
+	h2.install Installation instructions:
+	ul: li #[b Main Files - No Muzzle Flash Lights]
+	p Disables the lights cast by muzzle flashes, which can greatly improve performance in combat.
+	blockquote This mod does not disable the actual muzzle flashes, but rather the lights the muzzle flashes cast on the environment. It also only disables the effect for NPCs by default, but that can be configured via the included INI file. See the mod's screenshots for details. Like any mod in the guide, it can be skipped if you like the effect and don't mind the performance hit.

@@ -8,7 +8,7 @@ section#installation_instructions
 		| When the guide says to install a mod, it will be formatted as follows: #[strong Main File - Example 1.5]. This is referring to the mod's category on Nexus and file name.
 		br
 		| The guide will list a mod's specific file name, category, and version if you need to do more than just download the latest main file.
-	img(src="img/download example.webp", alt="Download example")
+	img(src="/img/download example.webp", alt="Download example")
 	p Standard mod installation procedure:
 	ol
 		li Unless instructed otherwise by the guide, download a mod's latest main file using the #[strong Mod Manager Download] button.
@@ -21,7 +21,7 @@ section#installation_instructions
 		| If that is the case, do the following:
 	ol
 		li Click the #[strong Manual Download] button (Or whatever the download button is for the respective site).
-		li Once the download has finished, click the #[img(src="./img/mo2 archive.webp", alt="MO2 archive button")] button at the top of MO2.
+		li Once the download has finished, click the #[img(src="/img/mo2/archive.webp", alt="MO2 archive button")] button at the top of MO2.
 		li From the new window, navigate to where the file was downloaded to and double-click it.
 		li Finish the install as you would with a #[strong Mod Manager Download] mod.
 	| When downloading multiple files from the same page, you will be prompted with a box in Mod Organizer 2 with the options #[strong Merge], #[strong Replace], and #[strong Rename].

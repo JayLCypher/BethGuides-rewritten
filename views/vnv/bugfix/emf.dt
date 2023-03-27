@@ -1,0 +1,6 @@
+// Exterior Emittance Fix
+section
+	h2#emittance_fix: a.link(href="https://www.nexusmods.com/newvegas/mods/80443", target="_blank") Exterior Emittance Fix - NVSE
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Exterior Emittance Fix]
+	p Fixes incorrect exterior emittance handling which leads to particles being black.

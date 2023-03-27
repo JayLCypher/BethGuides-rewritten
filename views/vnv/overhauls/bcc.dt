@@ -1,0 +1,6 @@
+// Better Character Creation
+section
+	h2#better_cc: a.link(href="https://www.nexusmods.com/newvegas/mods/70973", target="_blank") Better Character Creation
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Better Character Creation]
+	p Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
