@@ -11,5 +11,6 @@ Currently includes:
 
 TODO:
 
-* Fix images in TBOT
-* Finish adding VNV from Utilities
+* Add The Midnight Ride
+* Add A Dragonborn's Fate
+* Add Glory of Cyrodiil

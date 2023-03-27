@@ -1,4 +1,4 @@
-module dvnv;
+module dvivanewvegas;
 
 import vibe.vibe;
 

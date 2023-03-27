@@ -8,10 +8,10 @@ section
 		li From the extracted archive, run #[strong FNV BSA Decompressor.exe]
 		li Under the #[strong Fallout: New Vegas] header, click #[strong Browse] and choose the location of your game's #[strong Root] folder
 		li Click #[strong Decompress], wait for the process the finish, then exit the program once finished
-		li Click the <img src="./img/mo2 ini.webp" alt="mo2 ini button"> button at the top of MO2 and select #[strong INI Editor]
+		li Click the #[img(src="/img/mo2/ini.webp", alt="mo2 ini button")] button at the top of MO2 and select #[strong INI Editor]
 		
 		li Select the #[strong fallout.ini] tab if its not already selected
-		li Press <kbd>Ctrl</kbd> + <kbd>F</kbd> and search for #[strong SArchiveList=]
+		li Press #[kbd Ctrl] + #[kbd F] and search for #[strong SArchiveList=]
 		li Replace the existing line with the following:
 			textarea(readonly="readonly", onclick="this.focus();this.select();") SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textures2.bsa, Fallout - Meshes.bsa, Fallout - Meshes2.bsa, Fallout - Voices1.bsa, Fallout - Sound.bsa, Fallout - Misc.bsa
 	blockquote #[b IMPORTANT:] Make sure the new section is one line when pasted.

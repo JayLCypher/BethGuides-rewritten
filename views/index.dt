@@ -5,5 +5,8 @@ html(lang="en-US")
 
 	body
 		div
-			h1: a(href="tbot/") D Best of Times
-			h1: a(href="vnv/") D Viva New Vegas
+			h1: a(href="/tbot/") D Best of Times
+			h1: a(href="/vnv/") D Viva New Vegas
+			h1: a(href="/tmr/") D Midnight Ride
+			h1: a(href="/adf/") D Dragonborn's Fate
+			h1: a(href="/goc/") D Glory of Cyrodiil

@@ -1,0 +1,3 @@
+extends common/index
+block guidelinks
+	include adf/guidelinks

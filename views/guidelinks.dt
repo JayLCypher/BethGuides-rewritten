@@ -1,7 +1,8 @@
 div.guideLinks
 	hr
 	ul
-		li: a(href="https://vivanewvegas.github.io/", target="_blank", rel="nofollow") Fallout New Vegas
-		li: a(href="https://themidnightride.github.io/", target="_blank", rel="nofollow") Fallout 4
-		li: a(href="https://dragonbornsfate.github.io/", target="_blank", rel="nofollow") Skyrim Special Edition
-		li: a(href="https://gloryofcyrodiil.github.io/", target="_blank", rel="nofollow") Oblivion
+		li: a(href="/tbot/", target="_blank", rel="nofollow") Tale of Two Wastelands
+		li: a(href="/vnv/", target="_blank", rel="nofollow") Fallout New Vegas
+		li: a(href="/tmr/", target="_blank", rel="nofollow") Fallout 4
+		li: a(href="/adf/", target="_blank", rel="nofollow") Skyrim Special Edition
+		li: a(href="/goc/", target="_blank", rel="nofollow") Oblivion

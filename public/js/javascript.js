@@ -1,9 +1,18 @@
 "use strict";
 document.addEventListener('keyup', keyboardPagination, { once: true });
+document.addEventListener("DOMContentLoaded", transparentTitleBar, { once: true });
 document.addEventListener("DOMContentLoaded", sidenavActiveLink, { once: true });
 document.addEventListener("DOMContentLoaded", sidenavRightBarHide, { once: true });
-if (window.location.pathname == "/") {
-    document.getElementById("titlebar").classList.add("transparent");
+function transparentTitleBar() {
+    const pathNames = ["/vnv/", "/tbot/", "/goc/", "/tmr/", "/adf/"];
+    const pathName = window.location.pathname;
+    for (const path of pathNames) {
+        if (pathName == path) {
+            document.getElementById("titlebar").classList.add("transparent");
+            break;
+        }
+    }
+    document.removeEventListener("DOMContentLoaded", transparentTitleBar);
 }
 function keyboardPagination(e) {
     if (e.code === "ArrowRight") {

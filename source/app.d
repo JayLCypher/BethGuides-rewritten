@@ -1,6 +1,7 @@
 import vibe.vibe;
 import dbestoftimes;
-import dvnv;
+import dvivanewvegas;
+import dgloryofcyrodiil;
 
 void main() {
 	auto settings = new HTTPServerSettings;
@@ -12,6 +13,9 @@ void main() {
 		.get("/", staticTemplate!"index.dt")
 		.registerWebInterface(new DBestOfTimesController)
 		.registerWebInterface(new DVivaNewVegasController)
+		.registerWebInterface(new DMidnightRideController)
+		.registerWebInterface(new DDragonbornsFateController)
+		.registerWebInterface(new DGloryOfCyrodiilController)
 		;
 
 	import std.stdio : writeln;

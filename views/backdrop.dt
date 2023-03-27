@@ -1,3 +1,3 @@
 div#backdrop.welcomeContent
-	h2#title Welcome to #{title}
+	h2#title Welcome to #{title}!
 	a#next.welcomeButton(href="intro", onmouseover="titleGlow()", onmouseleave="titleGlow()"): strong Get Started
