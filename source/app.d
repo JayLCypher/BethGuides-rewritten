@@ -1,6 +1,8 @@
 import vibe.vibe;
 import dbestoftimes;
 import dvivanewvegas;
+import dmidnightride;
+import ddragonbornsfate;
 import dgloryofcyrodiil;
 
 void main() {
