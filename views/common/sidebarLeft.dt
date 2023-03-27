@@ -10,6 +10,7 @@ div#sidenavLeft
 			block faqlinks
 	div.guideLinks
 		hr
-		block guidelinks
+		ul
+			block guidelinks
 	include shillinks
 	p

@@ -1,8 +1,0 @@
-div.guideLinks
-	hr
-	ul
-		li: a(href="/tbot/", target="_blank", rel="nofollow") Tale of Two Wastelands
-		li: a(href="/vnv/", target="_blank", rel="nofollow") Fallout New Vegas
-		li: a(href="/tmr/", target="_blank", rel="nofollow") Fallout 4
-		li: a(href="/adf/", target="_blank", rel="nofollow") Skyrim Special Edition
-		li: a(href="/goc/", target="_blank", rel="nofollow") Oblivion

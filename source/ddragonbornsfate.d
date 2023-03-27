@@ -6,7 +6,7 @@ import vibe.vibe;
 class DDragonbornsFateController {
 	immutable string title = "D Dragonborn's Fate";
 	immutable string shorttitle = "adf";
-	immutable string github = "https://github.com/TheMidnightRide/TheMidnightRide.github.io";
+	immutable string github = "https://github.com/DragonbornsFate/DragonbornsFate.github.io";
 	string description;
 	string subtitle;
 	string previous;

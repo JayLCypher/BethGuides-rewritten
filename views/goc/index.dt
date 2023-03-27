@@ -1,3 +1,9 @@
 extends common/index
 block guidelinks
 	include goc/guidelinks
+block title
+	a.brighten(href="/#{shorttitle}") #{title}
+block content
+	div#backdrop.welcomeContent
+		h2#title Welcome to #{title}!
+		a#next.welcomeButton(href="intro", onmouseover="titleGlow()", onmouseleave="titleGlow()"): strong Guide under construction!

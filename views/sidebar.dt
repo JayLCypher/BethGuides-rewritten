@@ -1,4 +1,7 @@
 // Left Sidebar
 div#sidenavLeft.transparent
-	include guidelinks
+	div.guideLinks
+		hr
+		ul
+			block guidelinks
 	include shillinks
