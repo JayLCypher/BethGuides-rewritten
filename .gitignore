@@ -18,4 +18,5 @@ dbestoftimes-test-*
 
 # SCSS
 public/*/*.css
+public/*/*.css.map
 public/*/*.js
