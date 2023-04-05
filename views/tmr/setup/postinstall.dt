@@ -1,0 +1,38 @@
+// Post-Installation
+section#postInstall
+	h2: a Post-Installation
+	// Key Terminology
+	h3#terms: a Key Terminology
+	p Now that the game is installed, there are two folders from it that will be referred to in the guide often:
+	ul
+		li #[b Root]folder: Where the game is installed
+		ul: li #[code Steam\steamapps\common\Fallout 4]
+		li #[b Data]folder: Where all of the game's assets are located
+		ul: li #[code Steam\steamapps\common\Fallout 4\Data]
+
+	// File Extensions
+	h3#fileExtensions: a Enabling File Extensions
+	p By default, File Explorer will not show file extensions (such as .exe, .dll, or .esp). These extensions are very important when going through the guide, so it is highly recommended to enable visible file extensions:
+	ol
+		li Open File Explorer
+		li Select the #[strong View] tab at the top
+		li Enable #[strong File name extensions] in the #[strong Show] section
+		img(width="60%", src="/img/show file extensions.webp", alt="Show file extensions")
+
+	// INI Files
+	h3#generatingINIs: a Generating Fresh .INI Files
+	ol
+		li Run the game from Steam
+		li Click OK to both pop-ups that say #[strong Detecting Video Hardware]
+		ul: li If there aren't any pop-ups, navigate to #[code Documents\My Games\Fallout 4] and delete all the files ending in #[strong .INI] then retry
+		li Select #[strong Options] then select the #[strong Ultra] preset option
+		li Set the #[strong Resolution] option to your preference (the launcher usually does not set it to your monitor's max resolution)
+		li Click #[strong OK] then #[strong Exit]
+
+	// DPI Fix
+	h3#dpiFix: a Fixing DPI scaling
+	ol
+		li Right click on Fallout4.exe in the root folder
+		li Open properties and navigate to the #[strong Compatibility] tab
+		li Click on #[strong Change high DPI settings]
+		li Set #[strong High DPI scaling override] to #[strong Application]

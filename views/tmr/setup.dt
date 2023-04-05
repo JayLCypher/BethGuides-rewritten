@@ -1,0 +1,15 @@
+extends common/layout
+block guidelinks
+	include tmr/guidelinks
+block faqlinks
+	include tmr/faqlinks
+block content
+	include tmr/setup/introsetup
+	include tmr/setup/location
+	include tmr/setup/uninstall
+	include tmr/setup/install
+	include tmr/setup/postinstall
+block linksleft
+	include tmr/linksleft
+block linksright
+	include tmr/setup/links

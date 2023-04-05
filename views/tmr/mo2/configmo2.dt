@@ -1,0 +1,32 @@
+// MO2
+section#config_mo2
+	h2: a Configuring Mod Organizer 2
+
+	// Initial Setup
+	h3#initial_setup: a Initial Setup
+	ol
+		li Run #[strong ModOrganizer.exe]
+		li You will be prompted with a pop-up called #[strong Creating an instance], in which you should just select #[strong Next]
+		li On the next page, select #[strong Create a global instance]
+		img(src="/img/mo2/global instance.webp", alt="Global instance")
+		li On the next page, select #[strong Fallout 4]
+		li On the next page, keep the #[strong Location] file path default
+	blockquote If you have MO2 installed on an SSD or a HDD with little space, you can check the #[strong Show advanced options] box and change the #[strong Downloads] file path to a different drive with more space. This will not effect download/game performance, and the downloads can be deleted after the mods have been installed.
+	ol(start="6")
+		li On the last page, select #[strong Finish]
+		li MO2 will launch and prompt you with a pop-up called #[strong Show tutorial?], in which you should select #[strong No]
+		li From the pop-up called #[strong Register?], select #[strong Yes]
+		ul: li This pop-up will not show up if you have already registered a different instance of MO2
+
+	// Settings
+	h3#settings: a Configuring Settings
+	ol
+		li Select the #[strong X] in the bottom right of MO2 to close the log window
+		li Select the #[img(src="/img/mo2/settings.webp", alt="MO2 settings")] button at the top of MO2 to open the settings
+		li In the #[strong Theme] tab, you can select a different style of your choosing from the drop-down menu at the top
+		li In the #[strong Nexus] tab, select #[strong Connect to Nexus]
+		img(src="/img/mo2/connect.webp", alt="Connect to Nexus")
+		ul: li This option will not show up if you have already connected your Nexus account on a different MO2 instance
+		li MO2 will open your browser and prompt you to authorize the connection
+		li Once you authorize it, you can close out of your browser and of the MO2 settings
+		li Allow MO2 to restart if it asks

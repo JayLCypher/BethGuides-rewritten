@@ -1,0 +1,14 @@
+extends common/layout
+block guidelinks
+	include bot/guidelinks
+block faqlinks
+	include bot/faqlinks
+block content
+	include bot/ttw/introttw
+	include bot/ttw/installttw
+	include bot/ttw/activatingttw
+	include bot/ttw/hotfixttw
+block linksleft
+	include bot/linksleft
+block linksright
+	include bot/ttw/links

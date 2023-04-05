@@ -1,0 +1,16 @@
+extends common/layout
+block guidelinks
+	include tmr/guidelinks
+block faqlinks
+	include tmr/faqlinks
+block content
+	include tmr/mo2/intromo2
+	include tmr/mo2/installmo2
+	include tmr/mo2/configmo2
+	include tmr/mo2/profiles
+	include tmr/mo2/initweaks
+	include tmr/mo2/installinstructions
+block linksleft
+	include tmr/linksleft
+block linksright
+	include tmr/mo2/links

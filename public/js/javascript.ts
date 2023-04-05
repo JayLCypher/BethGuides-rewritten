@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", sidenavActiveLink, { once: true })
 document.addEventListener("DOMContentLoaded", sidenavRightBarHide, { once: true });
 
 function transparentTitleBar() {
-	const pathNames = ["/vnv/", "/tbot/", "/goc/", "/tmr/", "/adf/"];
+	const pathNames = ["/vnv/", "/bot/", "/goc/", "/tmr/", "/adf/"];
 	const pathName = window.location.pathname!;
 	for (const path of pathNames) {
 		if (pathName == path) { document.getElementById("titlebar")!.classList.add("transparent"); break; }

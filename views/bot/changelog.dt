@@ -1,8 +1,8 @@
 extends common/layout
 block guidelinks
-	include tbot/guidelinks
+	include bot/guidelinks
 block faqlinks
-	include tbot/faqlinks
+	include bot/faqlinks
 block content
 	section
 		h1 Changelog
@@ -67,4 +67,4 @@ block content
 			p
 
 block linksleft
-	include tbot/linksleft
+	include bot/linksleft

@@ -1,0 +1,8 @@
+li: a(href="#uninstall") Uninstall
+li: a(href="#install") Install
+li: a(href="#postInstall") Post-Install
+ul
+	li: a(href="#terms") Key Terms
+	li: a(href="#fileExtensions") File Extensions
+	li: a(href="#generatingINIs") INI Files
+	li: a(href="#dpiFix") DPI Fix

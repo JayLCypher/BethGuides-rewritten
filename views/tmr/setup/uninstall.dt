@@ -1,0 +1,10 @@
+// Uninstall
+section#uninstall
+	h2: a Uninstalling the Game
+	blockquote If you do not have the game installed yet, skip this step.
+	ol
+		li Open Steam and go to your #[strong Library]
+		li Find #[strong Fallout 4] in the list
+		li Right-click on it and select #[strong Manage -&gt;Uninstall]
+		li Navigate to #[code Steam\steamapps\common\] and, if present, delete the #[strong Fallout 4] folder
+		li Navigate to #[code Documents\My Games] and delete the #[strong Fallout 4] folder

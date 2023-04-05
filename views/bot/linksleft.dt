@@ -1,0 +1,8 @@
+li: a(href="/bot/") Home
+li: a(href="/bot/intro") Introduction
+li: a(href="/bot/setup") Initial Setup
+li: a(href="/bot/mo2") MO2
+li: a(href="/bot/ttw") TTW
+li: a(href="/bot/essentials") Essential Mods
+li: a(href="/bot/finish") Final Steps
+li: a(href="/bot/changelog") Changelog

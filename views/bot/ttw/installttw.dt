@@ -10,6 +10,6 @@ Section#installing_ttw
 		li Back in the #[strong TTW Installer] folder, right-click the #[strong TTW Install.exe] and select #[strong Run As Administrator].
 		li In the installer, verify that the automatically set file paths for both your Fallout 3 and Fallout New Vegas installations are correct.
 		li Set the Tale of Two Wastelands install path to the #[code C:\Users\ #[strong YOUR USERNAME] \AppData\Local\ModOrganizer\TTW\mods\Tale of Two Wastelands] you created in step 4.
-		img(src="/img/tbot/install.webp", alt="Installation Paths")
+		img(src="/img/bot/install.webp", alt="Installation Paths")
 		li Ensure your paths look similar to the example above, then select #[strong Install].
 	blockquote The install may take a long time as the .ogg encoding is very CPU-intensive. It takes about 40 minutes on my 5600x but could take several hours or even longer on a slower CPU. It is recommended to leave your computer alone and have any CPU-intensive applications closed during this time so as to not overheat your CPU and cause the TTW installation to fail.

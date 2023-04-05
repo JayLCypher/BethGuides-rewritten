@@ -1,0 +1,12 @@
+li: a(href="/tmr/index") Home
+li: a(href="/tmr/intro") Introduction
+li: a(href="/tmr/setup") Initial Setup
+li: a(href="/tmr/mo2") MO2
+li: a(href="/tmr/utilities") Utilities
+li: a(href="/tmr/bugfix") Bug Fixes
+li: a(href="/tmr/tweaks") Tweaks
+li: a(href="/tmr/hud") User Interface
+li: a(href="/tmr/gameplay") Gameplay
+li: a(href="/tmr/visuals") Visuals
+li: a(href="/tmr/finish") Final Steps
+li: a(href="/tmr/appendix") Appendix

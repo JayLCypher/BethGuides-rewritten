@@ -1,0 +1,27 @@
+// About
+section#about
+	h2: a About the Guide
+	h3#features: a Features:
+	ul
+		li #[b Stability:] The guide includes all essential stability enhancements and no placebo/dangerous mods.
+		li #[b Performance:] Every tool, setting, and mod in the guide has been carefully selected and play-tested to ensure maximum possible performance. With the recommended specs listed below, you can expect ~60 FPS in the heavier areas of Boston.
+		li #[b Better Gameplay:] The guide includes many mods that greatly improve the gameplay without drastically overhauling the core experience or straying away from the game's original intent. The guide is designed for Survival mode, but the lower difficulties will still work fine. Survival mode offers the best balance, especially in the late-game.
+		li #[b Customizability:] The guide is partially modular, some mods are optional as indicated by their yellow name. Load order will be provided and it will work perfectly even if you left out any mods. For information regarding adding your own mods, see the #[a(href="intro.html#additional_mods") Additional Mods] section below.
+
+	// Requirements
+	h3#requirements: a Requirements:
+	ul
+		li An English copy of the game with all DLCs from #[a(href="https://store.steampowered.com/sub/199943/") Steam].
+		ul: li Only the English version of the game is supported for maximum compatibility. The Bethesda.net and Xbox Game Pass versions of the game are also unsupported, as they do not work with F4SE, which is essential for many mods.
+		li At least 37.5 GB of free drive space.
+		li Windows 7 or higher (64-bit).
+		li #[a(href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/", target="_blank") VC++ Runtime Libraries].
+		ul: li Extract the archive and run the included #[strong install_all.bat] as an administrator to install all of the required libraries at once.
+		li A text editor (I recommend #[a(href="https://notepad-plus-plus.org/", target="_blank") Notepad++], but the default Windows notepad will work).
+		li An archiving tool (I recommend #[a(href="https://www.7-zip.org/", target="_blank") 7-Zip]. If you use Windows 11 then #[a(href="ms-windows-store://pdp/?productid=9N8G7TSCL18R", target="_blank") NanaZip] is a better option).
+		li The latest GPU drivers (Either #[a(href="https://www.nvidia.com/Download/index.aspx", target="_blank") NVIDIA], #[a(href="https://www.amd.com/en/support", target="_blank") AMD] or #[a(href="https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-dch-drivers.html", target="_blank") Intel]).
+		li #[a(href="https://users.nexusmods.com/register", target="_blank") A Nexus Mods account].
+
+	// Additional Mods
+	h3#additional_mods: a Additional Mods:
+	p If you are looking to add more mods to your setup, please complete the guide first, or else we will be unable to help you on Discord should you need it. If you do plan on adding mods after you finish the guide reference #[a(href="./avoid-mods", target="_blank") this] list of mods that you should avoid using. I can not stress enough that it is only recommended to add your own mods if you are an experienced modder and know how to manually make conflict resolution patches and sort your load order! You can't just throw a bunch of mods on top of the guide without doing any conflict resolution or use automated tools and expect your game to function as intended!

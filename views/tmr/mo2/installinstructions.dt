@@ -1,0 +1,31 @@
+// Instructions
+section#installation_instructions
+	h2: a Mod Installation Instructions
+	blockquote
+		| If a mod name is colored #[strong.optional yellow] it means that the mod is completely subjective and may not be suited for everyone. It can be skipped without any problems.
+		br
+		| If a mod is colored #[strong.performance red] it means that the mod may be performance intensive on lower-end systems. It can be skipped without any problems.
+
+	p When the guide says to install a mod, it will be formatted as follows: #[strong Main File - Example 1.5]. This is referring to the mod's category on Nexus and file name.
+	p The guide will list a mod's specific file name, category, and version if you need to do more than just download the latest main file.
+	img(src="/img/download example.webp", alt="Download example")
+	br
+	p Standard mod installation procedure:
+	ol
+		li Unless instructed otherwise by the guide, download a mod's latest main file using the #[strong Mod Manager Download] button
+		li Once the download has finished, open #[strong Downloads] tab in MO2 (right pane, below executable selector)
+		li Double click on the mod to install it
+		li Enable the mod on the left pane
+
+	p Sometimes, a mod will not have a #[strong Mod Manager Download], or will be hosted on a site other than Nexus:
+	ol
+		li Click the #[strong Manual Download] button (or whatever the download button is for the respective site)
+		li Once the download has finished, click the #[img(src="/img/mo2/archive.webp", alt="MO2 archive button")] button at the top of MO2
+		li From the new window, navigate to where the file was downloaded to and double-click it
+		li Finish the install as you would with a #[strong Mod Manager Download] mod
+
+	p When downloading multiple files from the same page, you will be prompted with a box in Mod Organizer 2 with the options #[strong Merge], #[strong Replace], and #[strong Rename].
+	ul
+		li You should select the #[strong Rename] option and rename the mod to its respective file name, this will make MO2 install them as separate files for easier management
+		li If you are updating from an old version of a mod, you should select #[strong Replace], this will delete all the files from the old version of the mod and replace them,with the ones from the new version
+		li #[strong Merge] should only be used when you are sure the mod will not be updated and in situations where a hotfix is uploaded as separate file

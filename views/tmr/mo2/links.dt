@@ -1,0 +1,11 @@
+li: a(href="#installing_mo2") Installation
+li: a(href="#config_mo2") Configuration
+ul
+	li: a(href="#initial_setup") Initial Setup
+	li: a(href="#settings") Settings
+li: a(href="#profiles") Profiles
+li: a(href="#ini_tweaks") INI Tweaks
+ul
+	li: a(href="#bethini") BethINI
+	li: a(href="#custom_ini") Custom INI
+li: a(href="#installation_instructions") Installation Instructions

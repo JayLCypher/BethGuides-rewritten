@@ -1,0 +1,8 @@
+// Introduction
+section
+	h1 Initial Setup
+	h3 In this step, we will do a clean installation and configuration of the game, which is required for the guide
+	blockquote
+		| If you run into any issues at any point in the guide, please be sure to check the #[a(href="./faq", target="_blank") FAQ]
+		br
+		| If your issue is not addressed there, join the #[a(href="https://discord.gg/DhX5S27", target="_blank") Discord] for support.

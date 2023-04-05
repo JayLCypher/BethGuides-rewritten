@@ -1,0 +1,26 @@
+// INI Tweaks
+section#ini_tweaks
+	h2: a INI Tweaks
+
+	// BethINI
+	h3#bethini: a Running BethINI
+	p In this step, we will download and run BethINI, which will allow choosing optimized presets and specific more specific options all through an easy GUI.
+	ol
+		li Download #[a(href="https://www.nexusmods.com/fallout4/mods/67", target="_blank") BethINI]
+		li Extract the archive somewhere on your computer such as #[code C:\Modding Tools] (make sure it's not a UAC protected folder)
+		li Run #[strong BethINI.exe]
+		li Select a BethINI Optimized preset depending on your hardware (I recommend High for an average system, do #[b NOT] use Ultra. Lower-end systems can use Medium or Low), then do the following
+		ol
+			li Enable Recommended Tweaks
+			li Enable Windowed Mode and Borderless
+			li Set Anisotropic Filtering to 16x
+			li Select the resolution you want to display the game in
+			li Edit the other settings to your liking, such as the FOV value or if you want to have subtitles
+			li Save and exit
+
+	// Custom INI
+	h3#custom_ini: a Custom INI
+	ol
+		li Download the #[a(href="https://www.nexusmods.com/fallout4/mods/67185", target="_blank") Custom INI]
+		li Head over to your Documents folder in File Explorer, then open this path #[code My Games\Fallout 4]
+		li Download and extract the archive, then paste Fallout4Custom INI file next to the other INIs.

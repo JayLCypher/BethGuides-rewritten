@@ -5,4 +5,4 @@ section#hotfix
 	ol
 		li Download the #[a(href="https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip", target="_blank") 3.3.2 Hotfix].
 		li Install it normally in MO2, renaming appropriately if prompted, and click the checkbox next to it in the left pane to activate it.
-		img(src="/img/tbot/ttw hotfix.webp", alt="TTW Hotfix")
+		img(src="/img/bot/ttw hotfix.webp", alt="TTW Hotfix")
