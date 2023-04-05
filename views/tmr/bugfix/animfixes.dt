@@ -1,0 +1,8 @@
+// Anim Fixes
+section
+	h2#animFixes: a.link(href="https://www.nexusmods.com/fallout4/mods/53597", target="_blank") Misc Anim Tweaks and Fixes
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Misc anim tweaks and fixes]
+		li #[b Update Files - Shredder tweaks] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Small animation tweaks and fixes.

@@ -1,0 +1,6 @@
+// Fixed Gobo Effects
+section
+	h2#goboEffects: a.link(href="https://www.nexusmods.com/fallout4/mods/27445", target="_blank") Fixed Gobo Effects
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Fixed Gobo Effects]
+	p Fixes artefacts, pixelation and color banding in textures that are used for special light effects.

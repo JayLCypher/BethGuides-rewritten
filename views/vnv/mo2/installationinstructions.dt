@@ -9,7 +9,7 @@ section#installation_instructions
 		| When the guide says to install a mod, it will be formatted as follows: #[strong Main File - Example 1.5]. This is referring to the mod's category on Nexus and file name.
 		br
 		| The guide will list a mod's specific file name, category, and version if you need to do more than just download the latest main file.
-	img(src="/img/download example.webp", alt="Download example")
+	img(src="/img/vnv/download example.webp", alt="Download example")
 	p Standard mod installation procedure:
 	ol
 		li Unless instructed otherwise by the guide, download a mod's latest main file using the #[strong Mod Manager Download] button.

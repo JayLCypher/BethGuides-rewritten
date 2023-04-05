@@ -1,0 +1,6 @@
+// Ownership Fixes
+section
+	h2#ownershipFixes: a.link(href="https://www.nexusmods.com/fallout4/mods/56885", target="_blank") Ownership Fixes
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Ownership Fixes]
+	p Fixes incorrect or missing ownership data assigned to objects and crops.

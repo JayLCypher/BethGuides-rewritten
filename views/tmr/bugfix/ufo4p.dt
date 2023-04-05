@@ -1,0 +1,6 @@
+// UFO4P
+section
+	h2#ufo4p: a.link(href="https://www.nexusmods.com/fallout4/mods/4598", target="_blank") Unofficial Fallout 4 Patch
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Unofficial Fallout 4 Patch]
+	p Fixes thousands of bugs with both the base game and DLCs.

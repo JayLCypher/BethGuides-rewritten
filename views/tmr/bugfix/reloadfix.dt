@@ -1,0 +1,6 @@
+// Reload Fix
+section
+	h2#reloadFix: a.link(href="https://www.nexusmods.com/fallout4/mods/68931", target="_blank") Reload Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Reload Fix]
+	p Fixes some reloading issues.

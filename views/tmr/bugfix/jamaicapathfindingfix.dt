@@ -1,0 +1,6 @@
+// Jamaica Plain Pathfinding Fix
+section
+	h2#jamaicaPlainFix: a.link(href="https://www.nexusmods.com/fallout4/mods/21344", target="_blank") Jamaica Plain Pathfinding Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Jamaica Plain Pathfinding Fix - ESP]
+	p Fixes and improves the navmeshing in Jamaica Plain.

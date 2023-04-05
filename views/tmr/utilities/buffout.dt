@@ -1,0 +1,6 @@
+// Buffout
+section
+	h2#buffout: a.link(href="https://www.nexusmods.com/fallout4/mods/64880", target="_blank") Buffout 4 NG
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Buffout 4 NG]
+	p Fixes numerous bugs within the game's engine.

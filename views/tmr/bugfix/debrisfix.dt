@@ -1,0 +1,7 @@
+// Debris Crash Fix
+section
+	h2#debrisFix: a.link(href="https://www.nexusmods.com/fallout4/mods/48078", target="_blank") Weapon Debris Crash Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Weapon Debris Crash Fix]
+	blockquote This mod is only needed for users with NVIDIA GPUs newer than Pascal (10 series).
+	p Fixes crashes with the weapon debris setting enabled caused by different PhysX implementation with new NVIDIA GPUs.

@@ -1,0 +1,8 @@
+// Shadowboost
+section
+	h2#shadowBoost: a.link(href="https://www.nexusmods.com/fallout4/mods/63482", target="_blank") Shadow Boost
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - ShadowBoostFO4]
+		li Additionally install the #[a(href="https://www.nexusmods.com/fallout4/mods/67185", target="_blank") Shadow Boost INI]
+	p Adjusts quality of godrays and distance of shadows, LOD and grass dynamically.

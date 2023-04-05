@@ -1,0 +1,6 @@
+// CC Extender
+section
+	h2#ccExtender: a.link(href="https://www.nexusmods.com/fallout4/mods/47328", target="_blank") Console Commands Extender
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Console Commands Extender]
+	p This mod adds new commands and overhauls existing console commands.

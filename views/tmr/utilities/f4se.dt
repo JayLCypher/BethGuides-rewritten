@@ -1,0 +1,12 @@
+// F4SE
+section
+	h2#f4se: a.link(href="https://www.nexusmods.com/fallout4/mods/42147", target="_blank") F4SE
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Fallout 4 Script Extender (F4SE)] (Manual Download)
+		li From the downloaded archive, extract #[strong everything] to the game's #[strong Root] folder
+	blockquote If you do not know what the #[strong Root] folder is, read the #[strong Key Terminology] section from the #[a(href="./setup#terms", target="_blank") Initial Setup] page.
+	blockquote
+		| After proper install, your #[strong Root Folder] should look like this:
+		br
+		img#f4se_root(src="/img/tmr/root.webp", alt="Screenshot of the root folder showcasing correct F4SE install")

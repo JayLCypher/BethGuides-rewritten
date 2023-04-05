@@ -1,0 +1,6 @@
+// Long Save Bug Fix
+section
+	h2#longSaveFix: a.link(href="https://www.nexusmods.com/fallout4/mods/68681", target="_blank") Long Save Bug Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - GCBugFix Release 0.1]
+	p A bug fix for one of the common causes of long save/autosave times.

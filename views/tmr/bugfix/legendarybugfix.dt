@@ -1,0 +1,6 @@
+// Legendary Drop Bug Fix
+section
+	h2#dropFix: a.link(href="https://www.nexusmods.com/fallout4/mods/61199", target="_blank") Legendary Drop Bug Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Legendary Drop Bugfix]
+	p Fixes a bug, which causes legendary enemies not to generate and drop a legendary item.

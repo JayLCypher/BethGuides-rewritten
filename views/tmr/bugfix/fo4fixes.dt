@@ -1,0 +1,8 @@
+// FO4 Fixes
+section
+	h2#fo4Fixes: a.link(href="https://www.nexusmods.com/fallout4/mods/63005", target="_blank") Fallout 4 Fixes
+	h2.install Installation instructions:
+	ul
+		li #[b Main Filess - Fallout 4 Fixes]
+		li #[b Optional Files - Fallout 4 Consistency Tweaks]
+	p A bug fix and consistency mod.

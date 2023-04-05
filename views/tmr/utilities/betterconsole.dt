@@ -1,0 +1,6 @@
+// Better Console
+section
+	h2#betterConsole: a.link(href="https://www.nexusmods.com/fallout4/mods/26582", target="_blank") Better Console - F4SE
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Better Console]
+	p Makes console menu show extra useful infomation.

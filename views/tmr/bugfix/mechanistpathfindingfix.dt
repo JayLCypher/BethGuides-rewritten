@@ -1,0 +1,6 @@
+// Mechanist's Lair Pathfinding Fix
+section
+	h2#mechanistLairFix: a.link(href="https://www.nexusmods.com/fallout4/mods/68417", target="_blank") Mechanist's Lair Pathfinding Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Mechanist's Lair Pathfinding Fix]
+	p Fixes and improves the navmeshing in the Mechanist's Lair.

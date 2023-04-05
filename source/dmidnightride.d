@@ -40,4 +40,20 @@ class DMidnightRideController {
 		next = "/tmr/utilities";
 		render!("tmr/mo2.dt", title, shorttitle, subtitle, previous, next, github, description);
 	}
+
+	void getUtilities() {
+		description = "Essential stability and performance mods, required for any modded setup.";
+		subtitle = "Utilities";
+		previous = "/tmr/mo2";
+		next = "/tmr/bugfix";
+		render!("tmr/utilities.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getBugfix() {
+		description = "Essential mods that fix bugs, improve performance, and/or improve quality of life.";
+		subtitle = "Utilities";
+		previous = "/tmr/utilities";
+		next = "/tmr/tweaks";
+		render!("tmr/bugfix.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
 }

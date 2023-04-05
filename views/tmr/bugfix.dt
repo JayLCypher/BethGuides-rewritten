@@ -1,0 +1,31 @@
+extends common/layout
+block guidelinks
+	include tmr/guidelinks
+block faqlinks
+	include tmr/faqlinks
+block content
+	include tmr/bugfix/introbugfix
+	include tmr/bugfix/ufo4p
+	include tmr/bugfix/fo4fixes
+	include tmr/bugfix/ownershipfixes
+	include tmr/bugfix/sprintfix
+	include tmr/bugfix/debrisfix
+	include tmr/bugfix/prp
+	include tmr/bugfix/wetnessfix
+	include tmr/bugfix/goboeffects
+	include tmr/bugfix/jamaicapathfindingfix
+	include tmr/bugfix/nwbottlefix
+	include tmr/bugfix/mechanistpathfindingfix
+	include tmr/bugfix/fallingcars
+	include tmr/bugfix/animfixes
+	include tmr/bugfix/longsavefix
+	include tmr/bugfix/mgefcondfix
+	include tmr/bugfix/3pbehaviorfix
+	include tmr/bugfix/jetbugfix
+	include tmr/bugfix/legendarybugfix
+	include tmr/bugfix/apbugfix
+	include tmr/bugfix/reloadfix
+block linksleft
+	include tmr/linksleft
+block linksright
+	include tmr/bugfix/links

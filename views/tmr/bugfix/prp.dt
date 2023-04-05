@@ -1,0 +1,9 @@
+// PRP
+section
+	h2#prp: a.link(href="https://www.nexusmods.com/fallout4/mods/46403", target="_blank") Previsibines Repair Pack
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - PRP Mainline]
+		li You will be prompted with a FOMOD installer, here select #[strong English], then #[strong PPF] and #[strong PRP]
+		li Also get the LOST Audio Tweaks Patch #[a(href="https://www.nexusmods.com/fallout4/mods/63391", target="_blank") here] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Greatly improves FPS throughout the entire game, including interior cells. Also includes many placement or mesh fixes not possible without regenerating previsibines.

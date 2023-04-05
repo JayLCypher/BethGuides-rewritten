@@ -1,0 +1,6 @@
+// Jet Script Bug Fix
+section
+	h2#jetFix: a.link(href="https://www.nexusmods.com/fallout4/mods/48770", target="_blank") Jet Script Bug Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Jet Script Bugfix]
+	p Fixes an issue with Jet that caused your thirst to go down if the chem was used by any NPC.

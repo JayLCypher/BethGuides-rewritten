@@ -6,9 +6,11 @@ section#installation_instructions
 		br
 		| If a mod is colored #[strong.performance red] it means that the mod may be performance intensive on lower-end systems. It can be skipped without any problems.
 
-	p When the guide says to install a mod, it will be formatted as follows: #[strong Main File - Example 1.5]. This is referring to the mod's category on Nexus and file name.
-	p The guide will list a mod's specific file name, category, and version if you need to do more than just download the latest main file.
-	img(src="/img/download example.webp", alt="Download example")
+	p
+	| When the guide says to install a mod, it will be formatted as follows: #[strong Main File - Example 1.5]. This is referring to the mod's category on Nexus and file name.
+	br
+	| The guide will list a mod's specific file name, category, and version if you need to do more than just download the latest main file.
+	img(src="/img/tmr/download example.webp", alt="Download example")
 	br
 	p Standard mod installation procedure:
 	ol

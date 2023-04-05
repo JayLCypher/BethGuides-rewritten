@@ -1,0 +1,6 @@
+// Wetness Shader Fix
+section
+	h2#wetnessFix: a.link(href="https://www.nexusmods.com/fallout4/mods/23389", target="_blank") Wetness Shader Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Wetness Shader Fix]
+	p Fixes the exaggerated shine of specific objects while it's raining.

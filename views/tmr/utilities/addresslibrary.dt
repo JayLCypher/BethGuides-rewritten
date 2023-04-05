@@ -1,0 +1,7 @@
+// Address Library
+section
+	h2#library: a.link(href="https://www.nexusmods.com/fallout4/mods/47327", target="_blank") Address Library for F4SE Plugins
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Address Library]
+	p Resource required for other F4SE plugins.
+	blockquote After installing a mod, make sure you check the box next to it in the left pane of MO2 to enable it.

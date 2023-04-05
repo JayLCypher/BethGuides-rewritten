@@ -1,0 +1,6 @@
+// NW Bottle Fix
+section
+	h2#bottleFix: a.link(href="https://www.nexusmods.com/fallout4/mods/66764", target="_blank") Clean And Simple Nuka World Bottle Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Nuka World Bottle Fix]
+	p Fixes the oversized Nuka World bottles in a clean, simple, and mod-compatible way.

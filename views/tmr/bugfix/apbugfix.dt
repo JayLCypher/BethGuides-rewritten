@@ -1,0 +1,6 @@
+// Armor Penetration Bug Fix
+section
+	h2#penetrationFix: a.link(href="https://www.nexusmods.com/fallout4/mods/67353", target="_blank") Armor Penetration Bug Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Armor Penetration Bug Fix]
+	p Fixes an issue where Armor Penetration stats persist, after unequipping a weapon with armor penetration and prevents it from overwriting itself with wrong values.

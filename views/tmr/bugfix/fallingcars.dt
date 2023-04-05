@@ -1,0 +1,6 @@
+// No More Falling Cars
+section
+	h2#fallingCars: a.link(href="https://www.nexusmods.com/fallout4/mods/68754", target="_blank") Newton's Regards - No More Falling Cars
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Newton's Regards - No More Falling Cars]
+	p Prevents cars from noclicpping through elevated highway decks as soon as they load.

@@ -1,0 +1,6 @@
+// MGEF Condition Fix
+section
+	h2#mgefFix: a.link(href="https://www.nexusmods.com/fallout4/mods/69096", target="_blank") MGEF Condition Bug Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - MGEF Condition Bug Fix]
+	p Fixes the magic effect condition bug that happens when you have a perk/ability for too long.

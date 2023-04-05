@@ -1,0 +1,6 @@
+// Sprint Fix
+section
+	h2#sprintFix: a.link(href="https://www.nexusmods.com/fallout4/mods/47760", target="_blank") Sprint Stutter Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Sprint Stuttering Fix] (first file)
+	p Stops the camera from stuttering while sprinting on uneven surfaces.

@@ -1,0 +1,6 @@
+// 3rd Person Behavior Fixes
+section
+	h2#3rdPersonFixes: a.link(href="https://www.nexusmods.com/fallout4/mods/69243", target="_blank") 3rd Person Behavior Fixes
+	h2.install Installation instructions:
+	ul: li #[b Main Files - 3rd Person Behavior Fixes]
+	p Fixes some glitches related to 3rd person behavior.
