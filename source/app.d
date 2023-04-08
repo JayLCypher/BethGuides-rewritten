@@ -21,7 +21,10 @@ void main() {
 		;
 
 	import std.stdio : writeln;
-	writeln(router.getAllRoutes());
+	foreach(line; router.getAllRoutes()) {
+		writeln(line);
+	}
+	
 
 	auto listener = listenHTTP(settings, router);
 	scope (exit) { listener.stopListening(); }

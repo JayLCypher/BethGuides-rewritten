@@ -1,0 +1,46 @@
+extends tmr/layout
+block content
+	section
+		h1 LOD Guide
+		p Before getting started, there are a few things you should know. First, generating LOD is #[b not] a requirement, but it will add detail in the distance by improving terrain geometry and the amount of things that have LOD, thanks to the resource mods listed below. It becomes a requirement if you installed texture mods that affect objects in LOD or terrain, or if you are using a mod that requires LOD to be generated because of terrain edits. Terrain LOD creates a much larger file size and will increase the amount of time it takes to run xLODGen.
+
+		h2#installingLodgen: a Installing xLODGen
+		ol
+			li Download the latest #[strong xLODGen] file from #[a(href="https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-94-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/", target="_blank") here]
+			li Once the download has finished, extract the contents of the archive to any location of your choice
+			li In MO2, select the #[img(src="/img/mo2/executabes.webp", alt="MO2 Executables")] button at the top of MO2 to open the executables menu
+			li Click the #[strong(style="color:rgb(20, 162, 228)") +] at the top of the window and the select #[strong Add from file...]
+			li From the pop-up, navigate to where xLODGen is installed and select #[strong xLODGenx64.exe]
+			li In the #[b Arguments] box in the right pane, enter #[code -FO4 -O:"C:\Output\"]
+		blockquote This argument will make the files generated through xLODGen appear in a folder called #[b Output] on your #[b C:\] drive (the drive Windows is installed on). You can change this path to whatever you would like if you would prefer the files to be generated elsewhere (Not a UAC protected folder or the game folder).
+		ol(start="9"): li Select #[strong Apply] then #[strong OK].
+
+		h2#installingResources: a Installing LOD Resources
+		ul
+			li: a(href="https://mega.nz/#!BZhlVCAJ!s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4", target="_blank") FO4LODGen Resources
+			li: a(href="https://www.nexusmods.com/fallout4/mods/61884", target="_blank") Far Object LOD Improvement Project
+			li: a(href="https://www.nexusmods.com/fallout4/mods/63191", target="_blank") Far Harbor 3D Tree LODs
+			li: a(href="https://www.nexusmods.com/fallout4/mods/63198", target="_blank") Optimized Vanilla Tree LODs
+			li: a(href="https://www.nexusmods.com/fallout4/mods/56138", target="_blank") HD LOD Textures
+		blockquote Also get the optional LOD Fixes and noise textures of your choice.
+		ul: li: a(href="https://www.nexusmods.com/fallout4/mods/62975", target="_blank") ModernHouseLOD
+
+		h2#settings: a Running xLODGen and Settings
+		p Follow #[a(href="https://www.nexusmods.com/fallout4/articles/4162", target="_blank") this] guide.
+		h2#installation: a Installation
+		ol
+			li In MO2, right-click on the <i>Overwrite</i> folder at the bottom of the left pane and select #[strong All Mods -&gt; Create empty mod above]
+			li Title the mod #[strong FO4LODGen Output]
+			li Navigate to where the LOD files were generated and select both the #[code textures] and #[code meshes] folders
+			li Cut them to the #[strong FO4LODGen Output] mod you just created (Right-click on the mod and select #[b Open in File Explorer])
+
+block linksleft
+	include tmr/linksleft
+	ul
+		li: a(href="/tmr/resources") Resources
+		ul: li: a(href="/tmr/lod") LOD Guide
+block linksright
+	li: a(href="#installingLodgen") Installing
+	li: a(href="#installingResources") Resources
+	li: a(href="#settings") Settings
+	li: a(href="#installation") Installation

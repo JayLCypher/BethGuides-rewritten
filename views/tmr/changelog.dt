@@ -1,0 +1,315 @@
+extends tmr/layout
+block content
+	section
+		h1 Changelog
+		section#changelog
+			h2 #[strong Time formatted in DD/MM/YY]
+
+			h2.install 26/3/23
+			p
+				| #[strong Utilities:] Added Better Console and removed Console Util because it is no longer needed.
+				br
+				| #[strong Tweaks:] Added Remove Ammo from Dropped Guns and removed Fortune Finder 4 Fix (replaced by Perk Up).
+				br
+				| #[strong Bug Fixes:] Removed Leveled Item Framework because the LL injections make it annoying to work with.
+				br
+				| #[strong Bug Fixes:] Added the following mods:
+				ul
+					li Jet Script Bug Fix
+					li Fixed Gobo Effects
+					li Reload Fix
+				| #[strong Gameplay:] Removed Some Assembly Required (replaced by Perennial Power Armor).
+				br
+				| #[strong Gameplay:] Added the following mods:
+				ul
+					li Perk Up
+					li Capped Out
+					li Perennial Power Armor
+					li Streamlined Weapons
+					li Thrive Redone - Better Power Armor - Redux - Fallout 4 Fixes Patch
+					li PRP - LOST Audio Tweaks Patch
+
+			h2.install 19/3/23
+			p
+				| #[strong Bug Fixes:] Removed Fixed Alpha Maps (included in Targeted Textures).
+				br
+				| #[strong Bug Fixes:] Added the following mods:
+				ul
+					li Leveled Item Framework
+					li Jamaica Plain Pathfinding Fix
+					li Mechanist's Lair Pathfinding Fix
+					li Newton's Regards - No More Falling Cars
+					li Armor Penetration Bug Fix
+					li MGEF Condition Bug Fix
+					li 3rd Person Behavior Fixes
+				| #[strong User Interface:] Added Less intrusive tutorial.
+				br
+				| #[strong Gameplay:] Added Better Power Armor - Redux.
+				br
+				| #[strong Visuals:] Removed No More Glowing Mouths (included in Targeted Textures) and added the following mods:
+				ul
+					li Targeted Textures
+					li First-Person Swimming Animations
+					li First-Person Running with Hands Animations
+
+			h2.install 17/3/23
+			p #[strong Utilities:] Removed PluginPreloader and replaced Buffout 4 with Buffout 4 NG.
+
+			h2.install 16/3/23
+			p #[strong Visuals:] Replaced Interiors Enhanced and Commonwealth Climate with Lightweight Lighting.
+
+			h2.install 15/3/23
+			p #[strong Tweaks:] Added Weapon Scrapping Redone and Clothing Scrapping Redone.
+
+			h2.install 20/2/23
+			p #[strong Tweaks:] Removed FOV Slider because lots of users have issues with it.
+
+			h2.install 13/2/23
+			p
+				| #[strong Bug Fixes:] Added Long Save Bug Fix.
+				br
+				| #[strong Utilities:] Added Console Commands Extender and Console Util (soft requirement for FOV Slider).
+				br
+				| #[strong Tweaks:] Added Whose Quest Is It Anyway.
+
+			h2.install 22/1/23
+			p #[strong UI:] Removed the forced removal of PipBoyFX through the guide's custom INI, now only users of FallUI Inventory will have the tweak thanks to the bundled plugin.
+
+			h2.install 23/12/22
+			p #[strong LOD Guide:] Replaced custom FO4LODGen Resources with the official file because FOLIP has specific steps for it's plugins (which weren't present with my version).
+
+			h2.install 17/12/22
+			p
+				| #[strong Whole Guide:] Recreated all pages with the help of Wall_SoGB, the guide is now responsive.
+				br
+				| #[strong Whole Guide:] Reformatted and edited a lot of steps and information.
+				br
+				| #[strong MO2:] Removed TAA and AO tweaks from the guide's Custom INI.
+				br
+				| #[strong Utilities:] Added steps to the High FPS Fix configuration for users who lock their game at higher than 60 FPS.
+				br
+				| #[strong Bug Fixes:] Moved Bullet Counted Reload System to #[b Tweaks] section.
+				br
+				| #[strong Bug Fixes:] Added the following mods:
+				ul
+					li Fallout 4 Fixes
+					li Fixed Alpha Maps
+					li Clean And Simple Nuka World Bottle Fix
+					li Misc anim tweaks and fixes
+				| #[strong Tweaks:] Added UFO4P Patch for Who's The General.
+				br
+				| #[strong Tweaks:] Moved Crafting Highlight Fix to #[b User Interface] section.
+				br
+				| #[strong Tweaks:] Removed No Aggro Impact Landing (replaced by Fallout 4 Fixes).
+				br
+				| #[strong UI:] Added the following mods:
+				ul
+					li MCM Categorizer
+					li Favorites Menu Ex
+				| #[strong Gameplay:] Removed Salvage Beacons.
+				br
+				| #[strong Gameplay:] Added UFO4P Patch for Some Assembly Required.
+				br
+				| #[strong Visuals:] Added UFO4P and LOST Audio Tweaks patches for Interiors Enhanced.
+				br
+				| #[strong Visuals:] Removed the following mods:
+				ul
+					li RobCo Recon Scope Replacer
+					li Flowing Rivers
+					li Clarity
+				| #[strong Visuals:] Added the following mods:
+				ul
+					li Commonwealth Climate
+					li Remove Ironsight Blur
+				| #[strong LOD Guide:] Added the following mods:
+				ul
+					li Far Harbor 3D Tree LODs
+					li Optimized Vanilla Tree LODs
+				| #[strong Finish Line:] Updated LO to reflect all the changes above.
+				br
+				| #[strong Horizon:] Updated guide and its LO to reflect all the changes above.
+
+			h2.install 4/12/22
+			p #[strong Utilities:] Increased minimum shadow distance in the Shadow Boost custom INI.
+
+			h2.install 6/10/22
+			p
+				| #[strong Setup:] Added more steps when running the game launcher.
+				br
+				| #[strong MO2:] Added borderless in BethINI steps.
+
+			h2.install 1/10/22
+			p
+				| #[strong MO2:] Added TAA fix and disabled Pip-Boy FX in the custom INI.
+				br
+				| #[strong Utilities:] Removed godrays performance fix.
+				br
+				| #[strong Utilities:] Added Shadow Boost.
+
+			h2.install 11/8/22
+			p #[strong LOD Guide:] Redirected instructions, added ModernHouseLOD.
+
+			h2.install 18/7/22
+			p #[strong UI:] Added XDI back because i deleted it by mistake.
+
+			h2.install 15/7/22
+			p #[strong Tweaks:] Switched from No PA Battery Pathing to another version merged with an ownership fix.
+
+			h2.install 12/7/22
+			p #[strong HUD:] Added HUD Framework because i forgot it was needed for True Invisibility.
+
+			h2.install 10/7/22
+			p
+				| #[strong LOD Guide:] First revision, taken from my PDF on nexus which is now deleted and replaced with this.
+				br
+				| #[strong Gameplay:] Switched to the newer version of Some Assembly Required (Thanks Feles Noctis).
+				br
+				| #[strong Bug Fixes:] Added Legendary Drop Bug Fix (Thanks Feles Noctis).
+
+			h2.install 6/7/22
+			p
+				| #[strong UI:] Replaced Disable Creation Club with custom INI entry.
+				br
+				| #[strong Visuals:] Added Clarity back.
+				br
+				| #[strong Tweaks:] Added LOST Audio Tweaks
+
+			h2.install 5/7/22
+			p
+				| #[strong Visuals:] Removed Clarity because of PRP 3-way conflict with Interiors Enhanced and it takes too much effort to patch.
+				br
+				| #[strong Visuals:] Replaced Better Coastal Waves with Flowing Rivers.
+				br
+				| #[strong Visuals:] Added Terrain Undersides.
+				br
+				| #[strong MO2:] Added BethINI instructions and disabled profile-specific INIs.
+				br
+				| #[strong MO2:] Added Custom INI.
+				br
+				| #[strong UI:] Added FallUI mods.
+				br
+				| #[strong UI:] Added Disable Creation Club.
+				br
+				| #[strong Gameplay:] Replaced Lunar Overhaul with Thrive Redone because i'm biased.
+				br
+				| #[strong Gameplay:] Added Some Assembly Required.
+				br
+				| #[strong Tweaks:] Replaced Preston No Radiants with Who's The General.
+
+			h2.install 4/7/22
+			p
+				| #[strong Mods to Avoid:] More accurate info.
+				br
+				| #[strong Tools to Avoid:] More accurate info.
+
+			h2.install 3/7/22
+			p
+				| #[strong Introduction:] More accurate info.
+				br
+				| #[strong Bug Fixes:] Added Ownership Fixes.
+				br
+				| #[strong Bug Fixes:] More accurate info.
+				br
+				| #[strong Bug Fixes:] Added Wetness Shader Fix.
+				br
+				| #[strong UI:] Removed DEF_UI in favour of FallUI, which will be added later.
+				br
+				| #[strong UI:] Added MCM Booster and MCM Settings Manager.
+				br
+				| #[strong MO2:] Tweaked shadow distance for better performance with the average CPU.
+				br
+				| #[strong Tweaks:] Replaced Keep Radiants In The Commonwealth with the UFO4P version.
+				br
+				| #[strong Utilities:] Updated info.
+				br
+				| #[strong Visuals:] Removed Commonwealth Climate because of unresolved issue.
+				br
+				| #[strong Final Steps:] Updated to match the changes in the guide and removed Ruddy88's Simple Sorter.
+				br
+				| #[strong Appendix:] More accurate info.
+				br
+				| #[strong Gameplay:] Updated info.
+
+			h2.install 13/10/21
+			p
+				| #[strong Visuals:] Added Commonwealth Climate.
+				br
+				| #[strong Visuals:] Removed Clarity Darker Nights (Incompatible/redundant with Commonwealth Climate).
+				br
+				| #[strong Final Steps:] Updated the load order to reflect the changes.
+
+			h2.install 3/9/21
+			p
+				| #[strong Bug Fixes:] Separated into two sections, Bug Fixes and Tweaks.
+				br
+				| #[strong Bug Fixes:] Replaced Boston FPS Fix with Previs Repair Pack.
+				br
+				| #[strong Tweaks:] Added Preston Garvey No Radiant Settlement Quests.
+				br
+				| #[strong Tweaks:] Added Better Settlement Attack Warnings.
+				br
+				| #[strong Tweaks:] Added No PA Battery Pathing.
+				br
+				| #[strong Tweaks:] Added FOV Slider and Player Height.
+				br
+				| #[strong UI:] Added Immersive HUD.
+				br
+				| #[strong Visuals:] Added Better Coastal Waves.
+				br
+				| #[strong Visuals:] Added Previs Repair Pack - Interiors Enhanced Patch.
+				br
+				| #[strong Gameplay:] Added Lunar Fallout Overhaul.
+				br
+				| #[strong Gameplay:] Added Kat's Power Armor Repair Kits.
+				br
+				| #[strong Gameplay:] Added True Invisibility.
+				br
+				| #[strong Gameplay:] Added Survival Saving - Holotapes Save the Game.
+				br
+				| #[strong Gameplay:] Removed Loot Logic and Reduction and Lore-Based PA Changes (Redundant with Lunar Overhaul).
+				br
+				| #[strong Final Steps:] Updated the Simple Sorter Plugin, Load Order, and Conflict Resolution to reflect previous changes.
+
+			h2.install 20/6/21
+			p
+				| #[strong Bug Fixes:] Removed Previs Repair Pack (Although there is pretty much nothing actually wrong with the mod, it caused countless issues for end users who did not know how to read).
+				br
+				| #[strong Final Steps:] Changed how the guide handles sorting. FO4Edit, Mator's Patching Framework, and the Simple Sorter Script have been removed from the main part of the guide. Instead, the guide now uses a pre-made sorting plugin.
+
+			h2.install 10/5/21
+			p
+				| #[strong Utilities:] Added Weapon Debris Crash Fix.
+				br
+				| #[strong MO2:] Removed the INI settings that disable weapon debris.
+
+			h2.install 3/5/21
+			p #[strong Utilities:] Removed PrivateProfileRedirector (Replaced by Buffout 4).
+
+			h2.install 13/3/21
+			p
+				| #[strong Bug Fixes:] Added Previs Repair Pack.
+				br
+				| #[strong Bug Fixes:] Removed standalone FPS Fix - UF4P Patch (Details below).
+				br
+				| #[strong Bug Fixes:] Added Keep Radiants in the Commonwealth.
+				br
+				| #[strong UI:] Re-added HUDFramework (Forgot that the #[b Use Sorting Mod Component Tags] option in DEF_UI required it, sorry about that!).
+				br
+				| #[strong Visuals:] Added No Holotape Tease.
+				br
+				| #[strong Visuals:] Added Clarity - Darker Nights.
+				br
+				| #[strong Visuals:] Added Interiors Enhanced.
+				br
+				| #[strong Visuals:] Added No More Glowing Mouths.
+				br
+				| #[strong Final Steps:] Added a conflict resolution FOMOD which includes the old standalone FPS Fix patch, along with new patches for Keep Radiants in Commonwealth and Previs Repair/Interiors Enhanced.
+				br
+				| #[strong Final Steps:] Updated the load order to reflect all previous changes.
+
+			h2.install 2/16/21
+			p #[strong Whole Guide:] Site redesign.
+
+block linksleft
+	include tmr/linksleft
+	ul: li: a(href="/tmr/changelog") Changelog

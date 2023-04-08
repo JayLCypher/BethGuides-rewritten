@@ -1,0 +1,32 @@
+extends tmr/layout
+block content
+	section
+		h1 Frequently Asked Questions
+
+		// DLC
+		h3#dlc #[b Why should I not use the High Resolution Texture Pack DLC?]
+		p The texture pack DLC provides a very marginal visual increase for a potentially major performance decrease. It is simply not worth the trade-off.
+
+		// Textures
+		h3#textures #[b Why are there no big visual mods in the guide? Can I add my own?]
+		p The headroom you have for visual mods highly depends on hardware, especially VRAM. Including big mods would raise the requirements of the guide too much to still call it vanilla+. The game can also suffer a lot from replacing assets with mods which are usually loose files. So for a proper visual overhaul you will also need to know how to pack files into archives.
+
+		// Sim Settlements
+		h3#simSettlements #[b Can I safely add Sim Settlements 2 to the guide?]
+		p Yes, but it needs a few minor tweaks. First, make sure you grab all the mod's requirements. Second, grab the #[a(href="https://www.nexusmods.com/fallout4/mods/48254", target="_blank") SS2 - XDI Patch]. Lastly, install the #[a(href="https://www.nexusmods.com/fallout4/mods/57947", target="_blank") PRP - Sim Settlements 2 Upgrade Kit].
+
+		// DLC Cleaning
+		h3#cleandlc #[b Why does the guide not clean the DLC plugins?]
+		p Cleaning DLCs is #[i not] necessary, and it won't lead to any performance/stability gains.
+
+		// MO2 Popup
+		h3#mo2Popup #[b When installing multiple mods from the same page through MO2, should I select Merge, Rename, or Replace?]
+		p Read the #[strong Mod Installation Instructions] section from the #[a(href="./mo2#installation_instructions", target="_blank") MO2] page.
+
+		// App Error
+		h3#appError #[b Why do I get a #[code Application Load Error 5:0000065434] message when I try to launch the game?]
+		p Run your game directly through Steam once. You may also need to restart Steam and/or Mod Organizer 2. If that still doesn't work, place a copy of your #[strong Steam.exe] (not a shortcut) into the game's #[strong Root] folder.
+
+		// MCM Error
+		h3#mcmError #[b Why do I get a #[code Wrong HUDMenu.swf found] error in the FallUI HUD MCM?]
+		p You did not enable #[strong recommended tweaks] as instructed in the #[strong BethINI] section from the #[a(href="./mo2#bethini", target="_blank") MO2] page. If this does not fix it then you did not disable #[strong profile-specific INI files] as instructed in the #[strong Profiles] section of the same page.

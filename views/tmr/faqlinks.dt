@@ -1,4 +1,4 @@
 // Lower Left Sidebar
 li: a(href="/tmr/faq") FAQ
-li: a(href="/tmr/avoid-tools") Tools to Avoid
-li: a(href="/tmr/avoid-mods") Mods to Avoid
+li: a(href="/tmr/avoid_tools") Tools to Avoid
+li: a(href="/tmr/avoid_mods") Mods to Avoid

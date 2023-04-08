@@ -1,6 +1,6 @@
 li: a(href="#lighting") Lightweight Lighting
-li: a(href="#targetedTextures") Targeted Textures
-li: a(href="#laserWeapons") Laser Weaps Reposition
+li: a(href="#targeted_textures") Targeted Textures
+li: a(href="#laser_weaps") Laser Weaps Reposition
 li: a(href="#holotape") No Holotape Tease
 li: a(href="#removeBlur") Remove Blur
 li: a(href="#terrain") Terrain Undersides

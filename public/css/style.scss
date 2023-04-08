@@ -104,7 +104,6 @@ blockquote {
 	box-shadow: 0 0.3em 0.7em hsl(0deg 0% 0% / 15%);
 
 	a {
-		color: rgb(51, 122, 183);
 		text-decoration: none;
 		font-size: 1.09em;
 		&:hover { text-decoration: underline; }
@@ -122,7 +121,6 @@ section {
 	}
 
 	a {
-		color: rgb(51, 122, 183);
 		font-size: 1.025em;
 
 		&:hover {
@@ -163,12 +161,12 @@ section {
 }
 
 .link {
-	color: rgb(51, 122, 183) !important;
+	color: rgb(51, 122, 183);
 	font-size: 1.025em;
 
 	&:hover {
-		color: hsl(208, 80%, 70%) !important;
-		text-decoration-line: underline !important;
+		color: hsl(208, 80%, 70%);
+		text-decoration-line: underline;
 	}
 }
 
@@ -306,6 +304,7 @@ section {
 #sidenavLeft {
 	display: flex;
 	flex-direction: column;
+	overflow-y: hidden;
 	width: 13em;
 	height: 100%;
 	position: fixed;
@@ -453,7 +452,7 @@ h1, h2 {
 }
 
 .optional {
-	color: #fada78 !important;
+	color: #fada78;
 
 	&::after {
 		display: inline-flex;

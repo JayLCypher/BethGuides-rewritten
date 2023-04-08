@@ -1,0 +1,254 @@
+extends tmr/layout
+block content
+	section
+		h1 Horizon
+		h2 Creating a Separator in MO2
+		ol
+			li Right-click the empty space in the left pane of MO2 and select #[strong Create Separator]
+			li Name the separator #[strong Horizon]
+
+	// Horizon
+	section
+		h2#horizon: a.link(href="https://www.nexusmods.com/fallout4/mods/17374", target="_blank") Horizon
+		h2.install Installation instructions:
+		ul
+			li #[b Main Files - Horizon 1.8.7]
+			li You will be prompted with a FOMOD installer, click #[b DLC (All-in-one)], click #[b Next], if you're interested in the hardest difficulty, click #[b Desolation Mode (Hardcore)], then click #[b Next] twice and then #[b Install]
+			li #[b Optional File - Horizon v1.8 Fixes ESP]
+		p Comprehensive Game Overhaul.
+
+	// Blur
+	section
+		h2#blur: a.link.optional(href="https://docs.google.com/spreadsheets/d/1rcSjf9cjxQl-prOiUzQi9T-eDYdZAbkfeAJBPalTIl8", target="_blank") Blur Removal - Fix
+		h2.install Installation instructions:
+		ul: li #[b Get the patch from HDPR and install the mod through MO2]
+		p Fixes a corrupted IMAD in the Blur Removal addon.
+		blockquote
+			| Only install this if you chose one of the Blur Removal plugins in the Horizon FOMOD.
+			br
+			| #[b HDPR:] In the #[b Discord Patches] tab, use #[b Ctrl+F] to find the patch.
+
+	// Fallout 4 Fixes
+	section
+		h2#fo4Fixes Fallout 4 Fixes
+		h2.install Instructions:
+		ul
+			li Disable the mod
+			li Disable the Fallout 4 Consistency Tweaks
+		p Not compatible.
+
+	// Ownership Fixes - Horizon Patch
+	section
+		h2#ownership: a.link(href="https://www.nexusmods.com/fallout4/mods/46958", target="_blank") Ownership Fixes - Horizon Patch
+		h2.install Installation instructions:
+		ul: li #[b Main Files - Ownership Fixes - Horizon Patch]
+		p Fixes conflicts between Ownership Fixes and Horizon's Addons (Loot Respawn and Enhanced Settlements).
+
+	// PRP Lite
+	section
+		h2#prpfx: a.link(href="https://www.nexusmods.com/fallout4/mods/64405", target="_blank") Previsibines Repair Pack Lite (PRPFX)
+		h2.install Installation instructions:
+		ul
+			li #[b Disable Previsibines Repair Pack]
+			li #[b Disable PRP - LOST Audio Tweaks Patch]
+			li #[b Main Files - PRPFX Boston Commons]
+			li #[b Main Files - PRPFX Corvega]
+			li #[b Main Files - PRPFX Financial District]
+		p Avoids the compatibility issues PRP has with the current version of Horizon.
+
+	// Previs Hangman
+	section
+		h2#prpHang: a.link(href="https://www.nexusmods.com/fallout4/mods/56173", target="_blank") Horizon Patch - Hangman's Alley FPS Fix for Enhanced Settlements
+		h2.install Installation instructions:
+		ul: li #[b Main Files - Horizon Hangman's Ally FPS Fix]
+		p Fixes Previsibines for the Hangman's Alley settlement while keeping Enhanced Settlements changes intact.
+
+	// Previs Bunker
+	section
+		h2#prpBunk: a.link(href="https://www.nexusmods.com/fallout4/mods/56172", target="_blank") Horizon Patch - Bunker Hill FPS Fix for Enhanced Settlements
+		h2.install Installation instructions:
+		ul: li #[b Main Files - Bunker Hill FPS Fix]
+		p Fixes Previsibines for the Bunker Hill settlement while keeping Enhanced Settlements changes intact.
+
+	// Anim Fixes - Horizon Patch
+	section
+		h2#animFixes: a.link(href="https://www.nexusmods.com/fallout4/mods/46958", target="_blank") Misc Anim Tweaks and Fixes - Horizon Patch
+		h2.install Installation instructions:
+		ul: li #[b Main Files - Misc Anim Tweaks and Fixes (Shredder Tweaks) - Horizon Patch]
+		p Fixes a conflict between Misc Anim Tweaks and Fixes and Horizon.
+
+	// Legendary Drop Fix
+	section
+		h2#dropFix Legendary Drop Fix
+		h2.install Instructions:
+		ul: li Disable the mod
+		p Compatible but not needed.
+
+	// Raw Input - Horizon Patch
+	section
+		h2#input: a.link(href="https://www.nexusmods.com/fallout4/mods/46958", target="_blank") Raw Input - Horizon Patch
+		h2.install Installation instructions:
+		ul: li Main Files - Raw Input - Horizon Patch
+		p Fixes conflicts between Raw Input and Horizon.
+
+	// Keep Radiants in the Commonwealth - Horizon Patch
+	section
+		h2#kric: a.link(href="https://www.nexusmods.com/fallout4/mods/54859", target="_blank") Keep Radiants in the Commonwealth - Horizon Patch
+		h2.install Installation instructions:
+		ul: li #[b Main Files - Keep Radiants in the Commonwealth]
+		p Fixes conflicts between Keep Radiants in the Commonwealth and Horizon's Enhanced Settlements Addon.
+
+	// BCR Patch - Horizon Lever-Action Shotgun
+	section
+		h2#bcr: a.link(href="https://www.nexusmods.com/fallout4/mods/45120", target="_blank") BCR Patch - Horizon Lever-Action Shotgun
+		h2.install Installation instructions:
+		ul: li #[b Main Files - BCR-Horizon Lever-Action Shotgun]
+		p Brings BCR's functionality to Horizon's Lever-Action Shotgun.
+
+	// Weapon Scrapping Redone
+	section
+		h2#weaponScrap Weapon Scrapping Redone
+		h2.install Instructions:
+		ul: li Disable the mod
+		p Not compatible.
+
+	// Clothing Scrapping Redone
+	section
+		h2#clothingScrap Clothing Scrapping Redone
+		h2.install Instructions:
+		ul: li Disable the mod
+		p Not compatible.
+
+	// Tutorial
+	section
+		h2#tutorial Less Intrusive Tutorial
+		h2.install Instructions:
+		ul: li Disable the mod
+		p Not compatible.
+
+	// True Invisibility - Horizon Patch
+	section
+		h2#trueInvis: a.link(href="https://www.nexusmods.com/fallout4/mods/46958", target="_blank") True Invisibility - Horizon Patch
+		h2.install Installation instructions:
+		ul: li #[b Main Files - True Invisibility - Horizon Patch]
+		p Brings True Invisibility's changes in line with Horizon.
+
+	// Better Power Armor
+	section
+		h2#bpaRedux Better Power Armor - Redux
+		h2.install Installation instructions:
+		ul
+			li #[b Disable the mod]
+			li #[b Disable Better Power Armor - Redux - Fallout 4 Fixes Patch]
+		p Not compatible.
+
+	// Thrive Redone
+	section
+		h2#thrive Thrive Redone
+		h2.install Installation instructions:
+		ul: li #[b Disable the mod]
+		p Not compatible.
+
+	// Perk Up
+	section
+		h2#perkUp Perk Up
+		h2.install Installation instructions:
+		ul: li #[b Disable the mod]
+		p Not compatible.
+
+	// Capped Out
+	section
+		h2#cappedOut Capped Out
+		h2.install Installation instructions:
+		ul: li #[b Disable the mod]
+		p Not compatible.
+
+	// Perennial Power Armor
+	section
+		h2#perennialPA Perennial Power Armor
+		h2.install Installation instructions:
+		ul: li #[b Disable the mod]
+		p Not compatible.
+
+	// Streamlined Weapons
+	section
+		h2#streamlinedWeapons Streamlined Weapons
+		h2.install Installation instructions:
+		ul: li #[b Disable the mod]
+		p Not compatible.
+
+	// Power Armor Repair Kits
+	section
+		h2#park Power Armor Repair Kits
+		h2.install Installation instructions:
+		ul: li #[b Disable the mod]
+		p Not compatible.
+
+	// Encounter Zone Recalculation
+	section
+		h2#zoneRecalc Encounter Zone Recalculation
+		h2.install Installation instructions:
+		ul: li #[b Disable the mod]
+		p Not compatible.
+
+	// Complex Vendors
+	section
+		h2#vendors Complex Vendors
+		h2.install Installation instructions:
+		ul
+			li #[b Disable the mod]
+			li #[b Disable Complex Vendors - UFO4P Patch]
+		p Not compatible.
+
+	// FallUI
+	section
+		h2#fallui FallUI
+		h2.install Installation instructions:
+		ul: li #[b Move the entire FallUI series to the Horizon separator in the left pane of MO2]
+		p FallUI needs to overwrite Horizon's UI files.
+
+	// Load Order
+	section
+		h2#loadOrder: a.link(href="https://www.nexusmods.com/fallout4/mods/67185", target="_blank") Load Order
+		h2.install Installation instructions:
+		ol
+			li Download the #[strong Load Order Horizon] file manually
+			li Once it has finished downloading, click the #[img(width="2%", src="/img/mo2/folders.webp", alt="MO2 folders")] button at the top of MO2 and select #[strong Open Profile folder]
+			li Extract the #[strong loadorder.txt] from the downloaded archive to the folder you opened and overwrite when prompted
+			li Once the file is extracted, click #[strong F5] while you are on MO2 without any menu open
+		p Automatically ensures your load order is correct for the guide. This will still work if you didn't install certain mods, but if you added your own mods they will be sorted to the bottom of the load order and need to be manually moved back to their proper position. If you do not know how to check where any mods you have added should go in the load order, it may be best to not add any mods not in the guide.
+
+block linksleft
+	include tmr/linksleft
+	ul
+		li: a(href="/tmr/resources") Resources
+		ul: li: a(href="/tmr/horizon") Horizon
+
+block linksright
+	li: a(href="#horizon") Horizon
+	li: a(href="#blur") Blur Removal Fix
+	li: a(href="#fo4Fixes") Fallout 4 Fixes
+	li: a(href="#ownership") Ownership Fixes
+	li: a(href="#prpfx") Previsibines Repair Pack Lite
+	li: a(href="#prpHang") Hangman's Alley FPS Fix
+	li: a(href="#prpBunk") Bunker Hill FPS Fix
+	li: a(href="#animFixes") Misc anim tweaks and fixes
+	li: a(href="#dropFix") Legendary Drop Fix
+	li: a(href="#input") Raw Input
+	li: a(href="#kric") Keep Radiants in the Commonwealth
+	li: a(href="#bcr") Bullet Counted Reload
+	li: a(href="#weaponScrap") Weapon Scrapping Redone
+	li: a(href="#clothingScrap") Clothing Scrapping Redone
+	li: a(href="#tutorial") Less Intrusive Tutorial
+	li: a(href="#trueInvis") True Invisibility
+	li: a(href="#bpaRedux") Better Power Armor
+	li: a(href="#thrive") Thrive Redone
+	li: a(href="#perkUp") Perk Up
+	li: a(href="#cappedOut") Capped Out
+	li: a(href="#perennialPA") Perennial Power Armor
+	li: a(href="#streamlinedWeapons") Streamlined Weapons
+	li: a(href="#park") Power Armor Repair Kits
+	li: a(href="#zoneRecalc") Encounter Zone Recalculation
+	li: a(href="#vendors") Complex Vendors
+	li: a(href="#fallui") FallUI
+	li: a(href="#loadOrder") Load Order

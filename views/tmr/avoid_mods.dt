@@ -1,0 +1,23 @@
+extends tmr/layout
+block content
+	section
+		h1 Mods to Avoid
+		p #[strong ENBoost:] Hacky memory sharing between processes that is not needed. ENBoost also needs a lot of system-specific configuration to work properly and can degrade performance without proper tweaking.
+		p #[strong FO4FI FPS Fix:] Causes crashes in some locations.
+		p #[strong Fallout 4 Official HD Texture Pack DLC:] Almost twice the size of the base game on its own, not worth the extra VRAM usage considered how close it looks to vanilla.
+		p #[strong Armor and Weapon Keywords Community Resource:] Extremely bloated and buggy, makes tons of out-of-scope/undocumented changes.
+		p #[strong Armorsmith Extended:] Old and buggy, not to mention extraordinarily overpowered.
+		p #[strong FO4FI FPS Fix:] Causes crashes in some locations.
+		p #[strong VIS/VIS-G:] Requires patches with any mods that change/add literally any items, also makes random changes to item names to make them more "realistic" for some reason.
+		p #[strong Functional Displays:] Causes crashes, deleting the "meshes" folder can fix this.
+		p #[strong Scrap Everything/Settlement Cleaning Mods:] Breaks precombineds in settlements.
+		p #[strong Pip-Boy Flashlight:] The shadow option from this will severely affect performance.
+		p #[strong Damage Threshold Framework:] Occasionally causes crashes due to calculation errors.
+		p #[strong Tactical Reload:] Will cause crashes with weapons that are not specifically patched for it. Before using it, make sure any weapon mods you use have patches from #[a(href="https://www.nexusmods.com/fallout4/mods/52619", target="_blank") here].
+		p #[strong The Beantown Interiors Project:] Breaks precombineds, can accelerate save bloat due to the massive amounts of items in each interior.
+		p #[strong South of the Sea:] Very buggy and will cause crashes due to deleted nav-meshes. A reworked version is available #[a(href="https://www.nexusmods.com/fallout4/mods/63152", target="_blank") here].
+		p #[strong NAC X:] Bloated, riddled with bugs and performance intensive.
+		p #[strong Anything made by Sinitar:] Sinitar knows nothing about modding, his modding "guides" are broken and full of bad information. If you have a few hours and want more information about Sinitar's lies, scamming, and lack of modding knowledge, check out #[a(href="https://docs.google.com/document/d/1F1-6lF8dI4i2Zz8iT-bv_Ci1VO9MSU4MiSUrT5JqgHA/edit", target="_blank") this] #[i twenty-eight] page essay that goes into excruciating detail about it.
+		p #[strong Anything made by PredCaliber:] Same as above, another scam artist that knows nothing about modding.
+		p #[strong Any mods that edit timescale:] Vanilla AI packages and scripts are based on the vanilla timescale, and can break and/or run when they aren't supposed to if the timescale is changed.
+		p This list is far from comprehensive. There are still tons of mods not listed here that will break your game. This is why it is very important to have some modding knowledge before adding any mods. Always view every mod you install with #[a(href="https://www.nexusmods.com/fallout4/mods/2737", target="_blank") FO4Edit] to check for conflicts.

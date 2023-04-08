@@ -1,0 +1,25 @@
+extends tmr/layout
+block content
+	section
+		h1 Resources
+			h2: a.link(href="./avoid-tools") Tools to Avoid
+			p List of many outdated/dangerous tools.
+			h2: a.link(href="./avoid-mods") Mods to Avoid
+			p List of many outdated/dangerous mods.
+			h2: a.link(href="./lod") LOD Guide
+			p Guide on how to generate LOD with xLODgen.
+			h2: a.link(href="https://wastelandsurvivalguide.com/docs/xedit.html") xEdit Basics
+			p Introduction to xEdit, which will allow you to understand how plugins work and how you can edit records.
+			h2: a.link(href="./horizon") Horizon Conversion Guide
+			p Guide on how to convert The Midnight Ride to work with the Horizon overhaul mod.
+			h2: a.link(href="https://tes5edit.github.io/docs/") Tome of xEdit
+			p Most comprehensive tutorial for xEdit, which is an essential tool if you plan on adding any mods.
+			h2: a.link(href="https://github.com/LivelyDismay/Learn-To-Mod/blob/19f7c8d14daddadc1a6c0ec5c1ac9189878a9fd6/lessons/Conflict%20Basics.md") LivelyDismay's Learn to Mod
+			p More streamlined xEdit tutorial that focuses on conflicts, which are crucial to understand for any modded setup.
+			h2: a.link(href="https://www.youtube.com/watch?v=1naNojdx0ek&amp;list=PL2g2oK5KhZT0WUOw0Y_8HFudZbgfmcdEl") Bethesda Modding School
+			p Comprehensive tutorials on how to make various types of mod in the Creation Kit, made by the author of Sim Settlements.
+			h2: a.link(href="https://www.youtube.com/watch?v=Ipgx3xmzEaw&amp;list=PL2g2oK5KhZT3L25H0FqJzSnFib9VmymQS") Creation Kit Tutorials
+			p Playlist of many YouTube videos from various mod authors that explain how to use the Creation Kit.
+block linksleft
+	include tmr/linksleft
+	ul: li: a(href="/tmr/resources") Resources

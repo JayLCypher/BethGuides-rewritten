@@ -88,4 +88,76 @@ class DMidnightRideController {
 		next = "/tmr/finish";
 		render!("tmr/visuals.dt", title, shorttitle, subtitle, previous, next, github, description);
 	}
+
+	void getFinish() {
+		description = "Final steps necessary before playing the game.";
+		subtitle = "Final Steps";
+		previous = "/tmr/visuals";
+		next = "/tmr/appendix";
+		render!("tmr/finish.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getAppendix() {
+		description = "Links for the changelog, FAQ, and various resources.";
+		subtitle = "Appendix";
+		previous = "/tmr/finish";
+		next = "";
+		render!("tmr/appendix.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getChangelog() {
+		description = "The fully modular guide updates in form of changelogs.";
+		subtitle = "Changelog";
+		previous = "/tmr/appendix";
+		next = "";
+		render!("tmr/changelog.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getFaq() {
+		description = "Solutions to many common problems with the guide.";
+		subtitle = "FAQ";
+		previous = "/tmr/appendix";
+		next = "";
+		render!("tmr/faq.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getResources() {
+		description = "Various resources in addition to the guide";
+		subtitle = "Resources";
+		previous = "/tmr/appendix";
+		next = "";
+		render!("tmr/resources.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getLod() {
+		description = "Guide on how to generate LOD with xLODgen.";
+		subtitle = "LOD Guide";
+		previous = "/tmr/resources";
+		next = "";
+		render!("tmr/lod.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getHorizon() {
+		description = "Optional Horizon section of TMR.";
+		subtitle = "Horizon";
+		previous = "/tmr/resources";
+		next = "";
+		render!("tmr/horizon.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getAvoidTools() {
+		description = "List of many popular modding tools that are outdated/broken.";
+		subtitle = "Resources";
+		previous = "/tmr/resources";
+		next = "";
+		render!("tmr/avoid_tools.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getAvoidMods() {
+		description = "List of many popular mods that are outdated/broken.";
+		subtitle = "Resources";
+		previous = "/tmr/resources";
+		next = "";
+		render!("tmr/avoid_mods.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
 }
