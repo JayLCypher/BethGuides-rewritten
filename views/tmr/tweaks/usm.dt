@@ -1,0 +1,6 @@
+// Unlimited Survival Mode
+section
+	h2#unlimitedSurvival.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/26163", target="_blank") Unlimited Survival Mode
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Unlimited Survival Mode - F4SE]
+	p Restores the game features disabled in Survival mode, such as fast travel and saving. Fully configurable.

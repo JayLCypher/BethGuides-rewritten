@@ -1,0 +1,51 @@
+// FallUI Inventory
+section
+	h2#falluiInventory.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/48758", target="_blank") FallUI - Inventory
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - FallUI - Inventory]
+		li You will be prompted with a FOMOD installer, click #[b Next] twice and #[strong Install]
+	p Optimized inventory interface for PC.
+
+// FallUI Boxes
+section
+	h2#falluiBoxes.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/48958", target="_blank") FallUI - Confirm Boxes
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - FallUI - Confirm Boxes]
+		li You will be prompted with a FOMOD installer, click #[b Next] and select the style you prefer, then #[strong Install]
+	p Overhaul of all confirm box interfaces.
+
+// FallUI Sleep
+section
+	h2#falluiSleep.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/49070", target="_blank") FallUI - Sleep and Wait
+	h2.install Installation instructions:
+	ul: li #[b Main Files - FallUI - Sleep and Wait]
+	p Overhaul of the sleeping and waiting menu.
+
+// FallUI Bench
+section
+	h2#falluiBench.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/49300", target="_blank") FallUI - Workbench
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - FallUI - Workbench]
+		li You will be prompted with a FOMOD installer, click #[b Install]
+	p Optimized workbench interface for PC.
+
+// FallUI Map
+section
+	h2#falluiMap.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/49920", target="_blank") FallUI - Map
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - FallUI - Map]
+		li You will be prompted with a FOMOD installer, click #[b Next] twice and then #[b Install]
+	p Overhaul of the map menu.
+
+// FallUI HUD
+section
+	h2#falluiHud.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/51813", target="_blank") FallUI - HUD
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - FallUI - HUD]
+		li You will be prompted with a FOMOD installer, click #[b Install]
+	p A highly configurable HUD.

@@ -1,0 +1,6 @@
+// MCM Manager
+section
+	h2#mcmManager: a.link(href="https://www.nexusmods.com/fallout4/mods/56195", target="_blank") MCM Settings Manager
+	h2.install Installation instructions:
+	ul: li #[b Main Files - MCM Settings Manager]
+	p Allows you to save, load, transfer, import and export all your MCM settings at once.

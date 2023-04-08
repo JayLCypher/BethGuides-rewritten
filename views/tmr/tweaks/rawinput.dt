@@ -1,0 +1,9 @@
+// Raw Input
+section
+	h2#input.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/27019", target="_blank") Raw Input
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - RAW INPUT - NMM Installer]
+		li You will be prompted with a FOMOD installer, where you should select the ADS sensitivity percent you prefer
+		ul: li This is completely up to personal preference, but I use the #[strong 100%] option
+	p Disables mouse acceleration, normalizes sensitivity, and more input-related fixes.

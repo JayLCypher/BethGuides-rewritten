@@ -1,0 +1,7 @@
+// HoloHUD
+section
+	h2#holoHud: a.link(href="https://www.nexusmods.com/fallout4/mods/29969", target="_blank") Power Armor HoloHUD
+	h2.install Installation instructions:
+	ul: li #[b Main Files - PA HoloHUD]
+	p Cleans up the HUD while in power armor.
+	blockquote If you use an ultrawide aspect ratio, download and install the #[b PA HoloHUD - Ultrawide] file instead.

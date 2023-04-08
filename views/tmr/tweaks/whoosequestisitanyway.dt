@@ -1,0 +1,6 @@
+// Whose Quest Is It Anyway
+section
+	h2#whoseQuest: a.link(href="https://www.nexusmods.com/fallout4/mods/51979", target="_blank") Whose Quest Is It Anyway
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Whose Quest Is It Anyway]
+	p Swap the "quest items can't be removed" message with something a little more informative.

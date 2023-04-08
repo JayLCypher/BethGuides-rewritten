@@ -1,0 +1,6 @@
+// Remove Ammo from Dropped Guns
+section
+	h2#dropAmmo.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/64426", target="_blank") Remove Ammo from Dropped Guns
+	h2.install Installation instructions:
+	ul: li #[b Main Files - AmmoRemover v1.0.5]
+	p Removes ammo from guns on corpses and adds it to the corpse's inventory.

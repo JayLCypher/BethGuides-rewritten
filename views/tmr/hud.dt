@@ -1,0 +1,20 @@
+extends tmr/layout
+block content
+	include tmr/hud/introhud
+	include tmr/hud/craftingfix
+	include tmr/hud/xdi
+	include tmr/hud/mcm
+	include tmr/hud/hudframework
+	include tmr/hud/fme
+	include tmr/hud/holohud
+	include tmr/hud/fallui
+	include tmr/hud/mcmboost
+	include tmr/hud/mcmmanager
+	include tmr/hud/mcmcategorize
+	include tmr/hud/lit
+block linksright
+	include tmr/hud/links
+
+
+
+

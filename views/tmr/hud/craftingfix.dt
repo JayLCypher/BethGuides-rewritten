@@ -1,0 +1,6 @@
+// Crafting Highlight Fix
+section
+	h2#crafting: a.link(href="https://www.nexusmods.com/fallout4/mods/27479", target="_blank") Crafting Highlight Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Crafting Highlight Fix]
+	p Replaces the full opacity item highlight during crafting with a much more clear outline.

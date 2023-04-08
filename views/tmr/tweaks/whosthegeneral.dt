@@ -1,0 +1,9 @@
+// Who's The General
+section
+	h2#whosGeneral.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/59019", target="_blank") Who's The General
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Who's The General - Minutemen Quest Cleanup]
+		li Also get the UFO4P Patch #[a(href="https://www.nexusmods.com/fallout4/mods/63391", target="_blank") here] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li #[b Optional Files - 1 - Keep Radiants in the Commonwealth Patch] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p A mod for players who dislike being asked to report back to Preston Garvey.

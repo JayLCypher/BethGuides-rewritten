@@ -1,0 +1,6 @@
+// MCM
+section
+	h2#mcm: a.link(href="https://www.nexusmods.com/fallout4/mods/21497", target="_blank") Mod Configuration Menu
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Mod Configuration Menu 1.39]
+	p Adds an easy way to configure mods through the in-game pause menu.

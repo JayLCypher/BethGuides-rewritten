@@ -1,0 +1,6 @@
+// MCM Booster
+section
+	h2#mcmBooster: a.link(href="https://www.nexusmods.com/fallout4/mods/56997", target="_blank") MCM Booster
+	h2.install Installation instructions:
+	ul: li #[b Main Files - MCM Booster]
+	p Reduces the MCM loading time.

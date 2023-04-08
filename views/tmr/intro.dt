@@ -1,15 +1,9 @@
-extends common/layout
-block guidelinks
-	include tmr/guidelinks
-block faqlinks
-	include tmr/faqlinks
+extends tmr/layout
 block content
 	include tmr/introduction/introintroduction
 	include tmr/introduction/overview
 	include tmr/introduction/about
 	include tmr/introduction/requirements
 	include tmr/introduction/discord
-block linksleft
-	include tmr/linksleft
 block linksright
 	include tmr/introduction/links

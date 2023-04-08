@@ -1,0 +1,6 @@
+// Clothing Scrapping Redone
+section
+	h2#clothingScrap: a.link(href="https://www.nexusmods.com/fallout4/mods/69715", target="_blank") Clothing Scrapping Redone
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Clothing Scrapping Redone]
+	p Makes clothing scrapping return a wider range of materials based on what they are actually made of and with balanced amounts.

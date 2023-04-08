@@ -1,8 +1,4 @@
-extends common/layout
-block guidelinks
-	include tmr/guidelinks
-block faqlinks
-	include tmr/faqlinks
+extends tmr/layout
 block content
 	include tmr/utilities/introutilities
 	include tmr/utilities/f4se
@@ -12,20 +8,5 @@ block content
 	include tmr/utilities/ccextender
 	include tmr/utilities/betterconsole
 	include tmr/utilities/highfpsfix
-block linksleft
-	include tmr/linksleft
 block linksright
 	include tmr/utilities/links
-
-
-
-
-
-
-
-
-
-
-
-
-

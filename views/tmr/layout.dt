@@ -1,0 +1,9 @@
+extends common/layout
+block guidelinks
+	include tmr/guidelinks
+block faqlinks
+	include tmr/faqlinks
+block content
+block linksleft
+	include tmr/linksleft
+block linksright

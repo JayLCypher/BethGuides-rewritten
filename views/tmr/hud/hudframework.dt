@@ -1,0 +1,6 @@
+// HUDFramework
+section
+	h2#hudFramework: a.link(href="https://www.nexusmods.com/fallout4/mods/20309", target="_blank") HUDFramework
+	h2.install Installation instructions:
+	ul: li #[b Main Files - HUDFramework 1.0f]
+	p HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.

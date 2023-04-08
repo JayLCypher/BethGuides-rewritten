@@ -1,0 +1,6 @@
+// Keep Radiants
+section
+	h2#keepRadiants: a.link(href="https://www.nexusmods.com/fallout4/mods/56089", target="_blank") Keep Radiants in the Commonwealth UFO4P Version
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Keep Radiants In The Commonwealth UFO4P Version]
+	p Prevents radiant quests from being generated in DLC areas.

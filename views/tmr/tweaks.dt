@@ -1,0 +1,16 @@
+extends tmr/layout
+block content
+	include tmr/tweaks/introtweaks
+	include tmr/tweaks/paof
+	include tmr/tweaks/rawinput
+	include tmr/tweaks/usm
+	include tmr/tweaks/lostaudio
+	include tmr/tweaks/keepradiants
+	include tmr/tweaks/whosthegeneral
+	include tmr/tweaks/bcrs
+	include tmr/tweaks/whoosequestisitanyway
+	include tmr/tweaks/wsr
+	include tmr/tweaks/csr
+	include tmr/tweaks/removeammo
+block linksright
+	include tmr/tweaks/links

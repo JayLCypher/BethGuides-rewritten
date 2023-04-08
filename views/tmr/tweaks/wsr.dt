@@ -1,0 +1,6 @@
+// Weapon Scrapping Redone
+section
+	h2#weaponScrap: a.link(href="https://www.nexusmods.com/fallout4/mods/56895", target="_blank") Weapon Scrapping Redone
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Weapon Scrapping Redone]
+	p Makes weapon scrapping return a wider range of materials based on what they are actually made of and with balanced amounts.

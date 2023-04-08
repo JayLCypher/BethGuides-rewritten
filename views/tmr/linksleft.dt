@@ -1,4 +1,4 @@
-li: a(href="/tmr/index") Home
+li: a(href="/tmr/") Home
 li: a(href="/tmr/intro") Introduction
 li: a(href="/tmr/setup") Initial Setup
 li: a(href="/tmr/mo2") MO2

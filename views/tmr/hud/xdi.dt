@@ -1,0 +1,6 @@
+// XDI
+section
+	h2#xdi: a.link(href="https://www.nexusmods.com/fallout4/mods/27216", target="_blank") Extended Dialogue Interface
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Extended Dialogue Interface 1.3.6]
+	p Removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.

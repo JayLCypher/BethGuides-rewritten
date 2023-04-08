@@ -1,0 +1,6 @@
+// Less Intrusive Tutorial
+section
+	h2#intrusiveTutorial.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/66180", target="_blank") Less Intrusive Tutorial
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Less intrusive tutorial]
+	p Converts the combat related message boxes to messages. They will no longer pause the game and interrupt your gameplay while in combat. This includes the low on health and crippled limb pop-ups.

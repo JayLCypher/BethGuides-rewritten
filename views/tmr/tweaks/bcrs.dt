@@ -1,0 +1,8 @@
+// Bullet Counted Reload System
+section
+	h2#bcr: a.link(href="https://www.nexusmods.com/fallout4/mods/41178", target="_blank") Bullet Counted Reload System
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Bullet Counted Reload - v2.00]
+		li #[b Optional Files - BCR- Lever Action Rifle v1.02] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Allows reloading the lever-action rifle based on the amount of shots fired.

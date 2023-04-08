@@ -1,0 +1,6 @@
+// MCM Categorizer
+section
+	h2#mcmCategorizer.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/66311", target="_blank") MCM Categorizer
+	h2.install Installation instructions:
+	ul: li #[b Main Files - MCM Categorizer]
+	p Allows you to add your own categories into MCM for easier navigation.

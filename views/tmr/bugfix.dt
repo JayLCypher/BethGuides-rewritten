@@ -1,8 +1,4 @@
-extends common/layout
-block guidelinks
-	include tmr/guidelinks
-block faqlinks
-	include tmr/faqlinks
+extends tmr/layout
 block content
 	include tmr/bugfix/introbugfix
 	include tmr/bugfix/ufo4p
@@ -25,7 +21,5 @@ block content
 	include tmr/bugfix/legendarybugfix
 	include tmr/bugfix/apbugfix
 	include tmr/bugfix/reloadfix
-block linksleft
-	include tmr/linksleft
 block linksright
 	include tmr/bugfix/links

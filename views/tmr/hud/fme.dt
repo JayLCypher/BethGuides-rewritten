@@ -1,0 +1,6 @@
+// FME
+section
+	h2#fme: a.link(href="https://www.nexusmods.com/fallout4/mods/66690", target="_blank") Favorites Menu Ex
+	h2.install Installation instructions:
+	ul: li #[b Main Files - FavoritesMenuEx]
+	p Turns the vanilla favourites menu into a wheel customizable through MCM.

@@ -1,0 +1,9 @@
+// LOST Audio Tweaks
+section
+	h2#audioTweaks: a.link(href="https://www.nexusmods.com/fallout4/mods/38448", target="_blank") LOST Audio Tweaks
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - LOST Audio Tweaks]
+		li #[b Main Files - LOST Audio Tweaks - No RAO Replacer] (select the name that matches the file on Nexus when the installation prompt comes up)
+	blockquote Make sure the #[b No RAO Replacer] mod is loaded below the main one.
+	p Fixes many audio issues and annoyances.

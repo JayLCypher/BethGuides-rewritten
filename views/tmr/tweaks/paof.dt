@@ -1,0 +1,6 @@
+// Power Armor Ownership Fix
+section
+	h2#paFix: a.link(href="https://www.nexusmods.com/fallout4/mods/52315", target="_blank") Power Armor Ownership Fix
+	h2.install Installation instructions:
+	ul: li #[b Optional Files - PA Ownership Fix (with No PA Battery Pathing)]
+	p When you take over a Power Armor that belonged to someone else and insert a fusion core, it will no longer be considered stolen. Also stops you from having to path all the way around power armor when putting in a battery, as this can often result in getting stuck in terrain.

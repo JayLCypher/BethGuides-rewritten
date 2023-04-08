@@ -219,7 +219,10 @@ section {
 		}
 	}
 
-	h2 {
+	h1 {
+		color: #DCDCDC;
+		font-size: 1.8em;
+		word-wrap: break-word;
 		text-align: center;
 		margin-top: auto;
 		display: flex;
@@ -448,7 +451,25 @@ h1, h2 {
 	font-size: 1.5em;
 }
 
-.optional { color: #fada78 !important; }
+.optional {
+	color: #fada78 !important;
+
+	&::after {
+		display: inline-flex;
+		position: absolute;
+		transform: translateY(-0.4em);
+		content: "Optional";
+		text-shadow: 0 0.05em 0.2em rgb(0 0 0 / 50%);
+		box-shadow: 0 0.15em 6pt hsl(0deg 0% 0% / 30%);
+		color: #fada78;
+		background-image: linear-gradient(to top, hsl(45, 93%, 12.5%), hsl(45, 93%, 15%));
+		border: 2pt solid hsl(45, 93%, 25%);
+		border-radius: 12pt;
+		font-size: 0.7em;
+		padding: 0.25em 0.5em 0.25em 0.5em;
+		margin-left: 1em;
+	}
+}
 .performance { color: #d16759 !important; }
 
 #shillinks { margin-top: auto; }
