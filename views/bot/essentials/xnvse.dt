@@ -10,4 +10,4 @@ section
 	p An updated version of the original NVSE, which extends the scripting capabilities of the game.
 	blockquote After proper install, your  #[strong Root Folder] should look like this:
 		br
-		img#xnvse_root(src="/img/root.webp", alt="Screenshot of the root folder showcasing correct xNVSE install")
+		img#xnvse_root(src="/img/bot/root.webp", alt="Screenshot of the root folder showcasing correct xNVSE install")

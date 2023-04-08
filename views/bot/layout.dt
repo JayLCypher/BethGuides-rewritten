@@ -1,0 +1,9 @@
+extends common/layout
+block guidelinks
+	include bot/guidelinks
+block faqlinks
+	include bot/faqlinks
+block content
+block linksleft
+	include bot/linksleft
+block linksright

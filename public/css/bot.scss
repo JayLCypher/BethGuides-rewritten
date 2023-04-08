@@ -2,8 +2,10 @@ $colorStrong: #1aa656;
 $colorInput: #a1fa83;
 $colorQuote: #12733b;
 $colorHeader1: #23da71;
+$colorLink: rgb(51, 122, 183);
 strong { color: $colorStrong }
 textarea, select, input[type] { border: 2pt solid $colorInput; }
 blockquote { border-left: 0.5em solid $colorQuote; }
 h1 { color: $colorHeader1; }
 .install { color: $colorHeader1; }
+section a, .link { color: $colorLink; }
