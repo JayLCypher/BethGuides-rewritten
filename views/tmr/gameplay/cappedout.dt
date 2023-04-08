@@ -1,0 +1,6 @@
+// Capped Out
+section
+	h2#cappedOut.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/62868", target="_blank") Capped Out - A Loot and Levelled List Rebalance
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Capped Out - A loot and levelled list rebalance]
+	p Brings a logical and measured approach to container and NPC levelled lists.

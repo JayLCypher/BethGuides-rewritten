@@ -1,0 +1,8 @@
+// Complex Vendors
+section
+	h2#vendors.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/47364", target="_blank") Complex Vendors
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Complex Vendors]
+		li Also get the UFO4P Patch #[a(href="https://www.nexusmods.com/fallout4/mods/63391", target="_blank") here] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Makes most vendors only buy items related to what they sell (for example doctors will only buy medical supplies).

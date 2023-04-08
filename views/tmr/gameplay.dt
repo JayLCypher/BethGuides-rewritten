@@ -1,0 +1,16 @@
+extends tmr/layout
+block content
+	include tmr/gameplay/introgameplay
+	include tmr/gameplay/invis
+	include tmr/gameplay/bpa
+	include tmr/gameplay/thrive
+	include tmr/gameplay/perkup
+	include tmr/gameplay/cappedout
+	include tmr/gameplay/ppa
+	include tmr/gameplay/streamlinedweapons
+	include tmr/gameplay/repairkits
+	include tmr/gameplay/zonerecalc
+	include tmr/gameplay/automatron
+	include tmr/gameplay/complexvendors
+block linksright
+	include tmr/gameplay/links

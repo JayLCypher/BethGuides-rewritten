@@ -1,8 +1,4 @@
-extends common/layout
-block guidelinks
-	include vnv/guidelinks
-block faqlinks
-	include vnv/faqlinks
+extends vnv/layout
 block content
 	section
 		h1 Frequently Asked Questions
@@ -77,5 +73,3 @@ block content
 				li Right-click on the #[strong Stewie Tweaks Essentials INI] mod (From the #[a(href="/bugfix#custom_ini", target="_blank") Bug Fixes] section) in the left pane of MO2 and select #[strong Open in Explorer].
 				li Navigate to #[code nvse/plugins/] and open #[strong nvse_stewie_tweaks.ini] in a text editor.
 				li Use #[kbd Ctrl] + #[kbd F] to find and set #[strong bUltrawideSupport] to #[strong 1].
-block linksleft
-	include vnv/linksleft

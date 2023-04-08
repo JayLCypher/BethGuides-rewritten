@@ -1,0 +1,8 @@
+// Repair Kits
+section
+	h2#park.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/53558", target="_blank") Power Armor Repair Kits
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Kat's Power Armor Repair Kits]
+		li You will be prompted with a FOMOD installer, click next and select #[b Far Harbor - VIM] and #[b Nuka World], then click #[b Install]
+	p Changes the system for repairing power armor to use repair kits craftable at the chemistry station.

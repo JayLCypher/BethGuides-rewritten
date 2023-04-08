@@ -65,11 +65,19 @@ class DMidnightRideController {
 		render!("tmr/tweaks.dt", title, shorttitle, subtitle, previous, next, github, description);
 	}
 
-		void getHud() {
+	void getHud() {
 		description = "Mods that vastly improve the vanilla user interface without making any drastic stylistic changes.";
 		subtitle = "User Interface";
 		previous = "/tmr/tweaks";
 		next = "/tmr/gameplay";
 		render!("tmr/hud.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getGameplay() {
+		description = "Simple gameplay changes/additions that make the game feel more balanced and modern.";
+		subtitle = "Gameplay";
+		previous = "/tmr/hud";
+		next = "/tmr/visuals";
+		render!("tmr/gameplay.dt", title, shorttitle, subtitle, previous, next, github, description);
 	}
 }

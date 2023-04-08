@@ -1,0 +1,8 @@
+// Streamlined Weapons
+section
+	h2#streamlinedWeapons.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/67182", target="_blank") Streamlined Weapons - A Vanilla Attachment Rebalance
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Streamlined Weapons]
+		li #[b Optional Files - Misc Anim Tweaks and Fixes - Shredder Tweaks - Patch]
+	p Full balancing of vanilla weapon mods and weapon records where needed.

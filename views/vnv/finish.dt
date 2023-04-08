@@ -1,11 +1,5 @@
-extends common/layout
-block guidelinks
-	include vnv/guidelinks
-block faqlinks
-	include vnv/faqlinks
+extends vnv/layout
 block content
 	include vnv/finish/introfinish
-block linksleft
-	include vnv/linksleft
 block linksright
 	include vnv/finish/links

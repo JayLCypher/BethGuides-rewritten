@@ -1,8 +1,4 @@
-extends common/layout
-block guidelinks
-	include vnv/guidelinks
-block faqlinks
-	include vnv/faqlinks
+extends vnv/layout
 block content
 	include vnv/bugfix/introbugfix
 	include vnv/bugfix/yup
@@ -20,7 +16,5 @@ block content
 	include vnv/bugfix/fart
 	include vnv/bugfix/emf
 	include vnv/bugfix/perfguide
-block linksleft
-	include vnv/linksleft
 block linksright
 	include vnv/bugfix/links

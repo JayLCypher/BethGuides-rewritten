@@ -1,8 +1,4 @@
-extends common/layout
-block guidelinks
-	include vnv/guidelinks
-block faqlinks
-	include vnv/faqlinks
+extends vnv/layout
 block content
 	p
 	section
@@ -10,5 +6,3 @@ block content
 		include vnv/avoidmods/partone
 		include vnv/avoidmods/projectnevada
 		include vnv/avoidmods/parttwo
-block linksleft
-	include vnv/linksleft

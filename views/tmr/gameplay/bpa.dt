@@ -1,0 +1,12 @@
+// Better Power Armor
+section
+	h2#bpaRedux: a.link(href="https://www.nexusmods.com/fallout4/mods/61146", target="_blank") Better Power Armor - Redux
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Better Power Armor - Redux]
+		li Also get the Fallout 4 Fixes Patch #[a(href="https://www.nexusmods.com/fallout4/mods/63391", target="_blank") here] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Does multiple things:
+	ul
+		li Your Power Armor will now fully absorb the damage of ballistic and laser weapon types.
+		li Each armor part will work individually and absorb the damage of the body part it covers.
+		li When one power armor part breaks, only this body part that was covered will take damage.

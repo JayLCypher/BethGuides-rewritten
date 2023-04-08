@@ -1,0 +1,6 @@
+// Automatron
+section
+	h2#automatron: a.link(href="https://www.nexusmods.com/fallout4/mods/28891", target="_blank") Decreased Automatron Encounters
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Rust Devil Redux]
+	p Lowers the rate of Automatron's random encounters to be that of vanilla random encounters.

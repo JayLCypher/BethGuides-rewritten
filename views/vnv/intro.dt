@@ -1,8 +1,4 @@
-extends common/layout
-block guidelinks
-	include vnv/guidelinks
-block faqlinks
-	include vnv/faqlinks
+extends vnv/layout
 block content
 	include vnv/introduction/introintroduction
 	include vnv/introduction/overview
@@ -11,7 +7,5 @@ block content
 	include vnv/introduction/additionalmods
 	include vnv/introduction/specs
 	include vnv/introduction/discord
-block linksleft
-	include vnv/linksleft
 block linksright
 	include vnv/introduction/links

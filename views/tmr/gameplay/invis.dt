@@ -1,0 +1,8 @@
+// Invisibility
+section
+	h2#trueInvis: a.link(href="https://www.nexusmods.com/fallout4/mods/47549", target="_blank") True Invisibility Redux
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - True Invisibility 3.2 FOMOD]
+		li You will be prompted with a FOMOD installer, click #[b Install]
+	p Completely overhauls the invisibility system, all fully configurable via an MCM.

@@ -1,8 +1,4 @@
-extends common/layout
-block guidelinks
-	include vnv/guidelinks
-block faqlinks
-	include vnv/faqlinks
+extends vnv/layout
 block content
 	include vnv/utilities/introutilities
 	include vnv/utilities/xnvse
@@ -19,7 +15,5 @@ block content
 	include vnv/utilities/consolepaste
 	include vnv/utilities/showoff
 	include vnv/utilities/testing
-block linksleft
-	include vnv/linksleft
 block linksright
 	include vnv/utilities/links

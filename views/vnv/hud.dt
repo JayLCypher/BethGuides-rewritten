@@ -1,8 +1,4 @@
-extends common/layout
-block guidelinks
-	include vnv/guidelinks
-block faqlinks
-	include vnv/faqlinks
+extends vnv/layout
 block content
 	include vnv/hud/introhud
 	include vnv/hud/uio
@@ -10,7 +6,5 @@ block content
 	include vnv/hud/darn
 	include vnv/hud/cpi
 	include vnv/hud/highdef
-block linksleft
-	include vnv/linksleft
 block linksright
 	include vnv/hud/links

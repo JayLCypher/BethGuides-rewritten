@@ -1,8 +1,4 @@
-extends common/layout
-block guidelinks
-	include vnv/guidelinks
-block faqlinks
-	include vnv/faqlinks
+extends vnv/layout
 block content
 	include vnv/content/introcontent
 	include vnv/content/uncutwasteland
@@ -10,7 +6,5 @@ block content
 	include vnv/content/edem
 	include vnv/content/mojaveraiders
 	include vnv/content/livingdesert
-block linksleft
-	include vnv/linksleft
 block linksright
 	include vnv/content/links

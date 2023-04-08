@@ -1,0 +1,9 @@
+// Thrive
+section
+	h2#thrive.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/56277", target="_blank") Thrive Redone
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Thrive Redone]
+		li You will be prompted with a FOMOD installer, click #[b Install]
+		li #[b Miscellaneous Files - Thrive Redone - Better Power Armor - Redux - Fallout 4 Fixes Patch] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Fixes balance issues with the original game and makes the survival aspect of it more challenging, removing shortcuts and silly mechanics.

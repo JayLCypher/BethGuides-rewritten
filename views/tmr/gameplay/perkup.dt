@@ -1,0 +1,6 @@
+// Perk Up
+section
+	h2#perkUp.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/62843", target="_blank") Perk Up - Lightweight Perk Overhaul
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Capped Out - Perk Up]
+	p Fixes bugged perks, making underused perks viable and automating low skill actions.

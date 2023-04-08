@@ -1,0 +1,6 @@
+// Perennial Power Armor
+section
+	h2#perennialPA.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/63220", target="_blank") Perennial Power Armor - Lightweight Power Armor Rebalance
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Perennial Power Armor]
+	p A lightweight vanilla friendly rebalance and QOL tweak for all base game and DLC Power armor.

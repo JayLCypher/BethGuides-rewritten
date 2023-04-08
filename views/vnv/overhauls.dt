@@ -1,8 +1,4 @@
-extends common/layout
-block guidelinks
-	include vnv/guidelinks
-block faqlinks
-	include vnv/faqlinks
+extends vnv/layout
 block content
 	include vnv/overhauls/introoverhauls
 	include vnv/overhauls/jsue
@@ -12,7 +8,5 @@ block content
 	include vnv/overhauls/pcp
 	include vnv/overhauls/eve
 	include vnv/overhauls/bcc
-block linksleft
-	include vnv/linksleft
 block linksright
 	include vnv/overhauls/links
