@@ -1,0 +1,16 @@
+extends tmr/layout
+block content
+	include tmr/visuals/introvisuals
+	include tmr/visuals/lightning
+	include tmr/visuals/targettextures
+	include tmr/visuals/laserweaps
+	include tmr/visuals/noholotapes
+	include tmr/visuals/removeisblur
+	include tmr/visuals/terrainunderside
+	include tmr/visuals/firstperson
+block linksright
+	include tmr/visuals/links
+
+
+
+

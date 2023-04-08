@@ -1,0 +1,6 @@
+// Laser Weapons 1st Person Reposition
+section
+	h2#laser_weaps: a.link(href="https://www.nexusmods.com/fallout4/mods/23102", target="_blank") Laser Weapons 1st Person Reposition
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Institute and standard lasers]
+	p Makes the laser weapons take up less space in 1st person.

@@ -1,0 +1,13 @@
+// First-Person Swimming
+section
+	h2#swimAnims.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/62123", target="_blank") First-Person Swimming Animations
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Swimming Loose Files 1.0 Redo]
+	p Simply adds arms to the first person swimming animations.
+
+// First-Person Running
+section
+	h2#runAnims.optional: a.link(href="https://www.nexusmods.com/fallout4/mods/62240", target="_blank") First-Person Running with Hands Animations
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Running Hands Loose Files 1.1]
+	p Simply adds arms to the first person running animations.

@@ -1,0 +1,6 @@
+// No Holotape Tease
+section
+	h2#holotape: a.link(href="https://www.nexusmods.com/fallout4/mods/6731", target="_blank") No Holotape Tease
+	h2.install Installation instructions:
+	ul: li #[b Main Files - No Holotape Tease - Texture Replacement]
+	p Changes the color of some debris textures to prevent them from looking like holotapes.

@@ -1,0 +1,8 @@
+li: a(href="#lighting") Lightweight Lighting
+li: a(href="#targetedTextures") Targeted Textures
+li: a(href="#laserWeapons") Laser Weaps Reposition
+li: a(href="#holotape") No Holotape Tease
+li: a(href="#removeBlur") Remove Blur
+li: a(href="#terrain") Terrain Undersides
+li: a(href="#swimAnims") First-Person Swimming
+li: a(href="#runAnims") First-Person Running

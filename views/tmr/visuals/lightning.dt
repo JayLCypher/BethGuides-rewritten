@@ -1,0 +1,6 @@
+// Lightweight Lighting
+section
+	h2#lighting: a.link(href="https://www.nexusmods.com/fallout4/mods/57680", target="_blank") Lightweight Lighting
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Lightweight Lighting]
+	p Lightweight lighting aims to be an all in one simple lighting overhaul while being as compatible as can be with no cell edits.

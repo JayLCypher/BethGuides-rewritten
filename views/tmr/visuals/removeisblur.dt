@@ -1,0 +1,6 @@
+// Remove Blur
+section
+	h2#removeBlur: a.link(href="https://www.nexusmods.com/fallout4/mods/2304", target="_blank") Remove Ironsight Blur
+	h2.install Installation instructions:
+	ul: li #[b Main Files - RemoveBlur]
+	p Removes the blurring effect in weapon sights.

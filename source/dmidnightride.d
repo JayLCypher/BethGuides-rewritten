@@ -80,4 +80,12 @@ class DMidnightRideController {
 		next = "/tmr/visuals";
 		render!("tmr/gameplay.dt", title, shorttitle, subtitle, previous, next, github, description);
 	}
+
+	void getVisuals() {
+		description = "Various mods to improve the game's visuals without making any drastic stylistic changes or decreasing performance/stability.";
+		subtitle = "Visuals";
+		previous = "/tmr/gameplay";
+		next = "/tmr/finish";
+		render!("tmr/visuals.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
 }

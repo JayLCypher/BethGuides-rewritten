@@ -1,0 +1,6 @@
+// Terrain Undersides
+section
+	h2#terrain: a.link(href="https://www.nexusmods.com/fallout4/mods/50837", target="_blank") Terrain Undersides
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Terrain Undersides]
+	p Block sun rays shining through the ground.

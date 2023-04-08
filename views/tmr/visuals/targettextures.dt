@@ -1,0 +1,6 @@
+// Targeted Textures
+section
+	h2#targeted_textures: a.link(href="https://www.nexusmods.com/fallout4/mods/62958", target="_blank") Targeted Textures - Vanilla Textures Upscaled Fixed and Sized
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Targeted Textures]
+	p Fixes numerous texture sizing, coloration and specular errors, with the help of AI upscaling and other sources from around the Nexus.
