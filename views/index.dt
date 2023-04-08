@@ -3,10 +3,32 @@ html(lang="en-US")
 	head
 		include globalheaders
 
-	body
-		div
-			h1: a(href="/bot/") D Best of Times
-			h1: a(href="/vnv/") D Viva New Vegas
-			h1: a(href="/tmr/") D Midnight Ride
-			h1: a(href="/adf/") D Dragonborn's Fate
-			h1: a(href="/goc/") D Glory of Cyrodiil
+	body(style="display: block; margin: 0; padding: 0; font-weight: 400;line-height: 1.25em;
+		font-family: arial, helvetica, sans-serif;
+		color: rgb(220, 220, 220);
+		background-color: rgb(64, 64, 64);
+		font-size: 0.75em;
+		")
+		header
+			h1 Bethesda Games Guides
+			a(href="https://discord.gg/viva-new-vegas-659108573485465620", target="_blank", id="discord"): i.fab.fa-discord(alt="Discord", aria-hidden="true")
+
+		section.container
+			div.column.column1
+				a.blur(href="/vnv/")
+					h2 Viva New Vegas
+					p Fallout New Vegas
+			div.column.column2
+				a.blur(href="/bot/")
+					h2 The Best of Times
+					p Tale of Two Wastelands
+			div.column.column3
+				a.blur(href="/tmr/")
+					h2 The Midnight Ride
+					p Fallout 4
+			div.column.column4
+				a.blur(href="/adf/")
+					h2 A Dragonborn's Fate
+					p Skyrim Special Edition
+		footer
+			p ModdingLinked © 2023
