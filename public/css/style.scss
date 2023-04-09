@@ -200,9 +200,11 @@ section {
 		overflow: scroll;
 		position: relative;
 		box-sizing: border-box;
+		font-size: unset;
+		line-height: unset;
 
 		.column {
-			flex-basis: 25%;
+			flex-basis: 20%;
 			flex-grow: 1;
 			background-size: cover;
 			background-position: center;
@@ -260,6 +262,7 @@ section {
 		.column2 { background-image: url(/img/bot/background.webp); }
 		.column3 { background-image: url(/img/tmr/background.webp); }
 		.column4 { background-image: url(/img/adf/background.webp); }
+		.column5 { background-image: url(/img/goc/background.webp); }
 	}
 }
 

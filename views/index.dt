@@ -30,5 +30,9 @@ html(lang="en-US")
 				a.blur(href="/adf/")
 					h2 A Dragonborn's Fate
 					p Skyrim Special Edition
+			div.column.column5
+				a.blur(href="/goc/")
+					h2 Glory of Cyrodiil
+					p Oblivion
 		footer
 			p ModdingLinked © 2023
