@@ -1,0 +1,22 @@
+// INI Tweaks
+section#ini_tweaks
+	h2: a(href="#ini_tweaks") INI Tweaks
+	// BethINI
+	h3#bethini: a(href="#bethini") Running BethINI
+	p In this step, we will download and run BethINI, which will allow choosing optimized presets and more specific options all through an easy GUI.
+	ol
+		li Download #[a(href="https://www.nexusmods.com/skyrimspecialedition/mods/4875", target="_blank") BethINI].
+		li Extract the archive somewhere on your computer such as #[code C:\Modding Tools](Make sure it's not a UAC protected folder).
+		li Run #[strong BethINI.exe].
+		li Select a BethINI Optimized preset depending on your hardware (I recommend High for an average system, do #[b NOT] use Ultra. Lower-end systems can use Medium or Low), then do the following.
+		ol
+			li Enable Recommended Tweaks
+			li Enable Windowed Mode and 64-bit Render Targets
+			li Select the resolution you want to display the game in
+			li Edit the other settings to your liking (Support won't be provided if they are broken or not ideal)
+			li Save and exit
+	// Custom INI
+	h3#custom_ini: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/81286", target="_blank") Custom INI
+	ol
+		li Head over to your Documents folder in file explorer, then open this path #[code My Games\Skyrim Special Edition]
+		li Download and extract the archive, then paste SkyrimCustom.ini next to the other INIs.

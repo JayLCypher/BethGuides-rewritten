@@ -1,0 +1,9 @@
+extends adf/layout
+block content
+	include adf/intro/introintroduction
+	include adf/intro/overview
+	include adf/intro/about
+	include adf/intro/recommendedspecs
+	include adf/intro/discord
+block linksright
+	include adf/intro/links

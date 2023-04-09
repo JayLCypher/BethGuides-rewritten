@@ -1,0 +1,29 @@
+// About
+section#about
+	h2: a(href="#about") About the Guide
+	h3#features: a(href="#features") Features:
+	ul
+		li #[b Stability:] The guide includes all essential stability enhancements and no placebo/dangerous mods.
+		li #[b Performance:] Every tool, setting, and mod in the guide has been carefully selected and play-tested to ensure maximum possible performance. No 4k texture mods, no ENBs, no poorly scripted weather mods, or any other un-optimized/broken mods.
+		li #[b Better Gameplay:] The guide includes many mods that greatly improve the gameplay, without drastically overhauling the core experience or straying away from the game's lore. The gameplay section is headlined by #[a(href="https://www.nexusmods.com/skyrimspecialedition/users/67410746", target="_blank") SimonMagus616's] lightweight gameplay overhaul mods. The guide is specifically designed to fit and play-style and difficulty.
+		li #[b Customizability:] The guide is partially modular, some mods are optional as indicated by their yellow name. Load order will be provided and it will work perfectly even if you left out any mods. For information regarding adding your own mods, see the #[a(href="./intro#additional_mods") Additional Mods] section below.
+
+	// Requirements
+	h3#requirements: a(href="#requirements") Requirements:
+	ul
+		li An English copy of the game with all DLCs from #[a(href="https://store.steampowered.com/agecheck/app/489830/", target="_blank") Steam].
+		ul
+			li Only the English version of the game is supported for maximum compatibility. Bethesda.net, Xbox Game Pass, and pirated versions of the game are also unsupported, as they do not work with SKSE which is essential for many mods.
+			li The guide is tailored for the basic version of the game. In case you bought the extra Creation Club content you will need to disable it.
+		li At least 15 GB of free drive space.
+		li Windows 7 or higher (64-bit).
+		li: a(href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/", target="_blank") VC++ Runtime Libraries.
+		ul
+			li Extract the archive and run the included #[strong install_all.bat] as an administrator to install all of the required libraries at once.
+		li A text editor (I recommend #[a(href="https://notepad-plus-plus.org/", target="_blank") Notepad++], but the default Windows notepad will work).
+		li An archiving tool (I recommend #[a(href="https://www.7-zip.org/", target="_blank") 7-Zip]. If you use Windows 11 then #[a(href="https://apps.microsoft.com/store/detail/nanazip/9N8G7TSCL18R?hl=en-us&amp;gl=us", target="_blank") NanaZip] is a better option).
+		li The latest GPU drivers (Either #[a(href="https://www.nvidia.com/Download/index.aspx", target="_blank") NVIDIA], #[a(href="https://www.amd.com/en/support", target="_blank") AMD] or #[a(href="https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-dch-drivers.html", target="_blank") Intel]).
+		li: a(href="https://users.nexusmods.com/register", target="_blank") A Nexus Mods account.
+	// Additional Mods
+	h3#additional_mods: a(href="#additional_mods") Additional Mods:
+	p If you are looking to add more mods to your setup, please wait until #[b after] you have completed the guide, or else we will be unable to help you on Discord should you need it. Unfortunately, I do not have the time or energy to provide support for setups that install extra mods on top of the guide. If you do plan on adding mods after you finish the guide, please reference #[a(href="./avoid_mods", target="_blank") this] list of mods that you should avoid using. I can not stress enough that it is only recommended to add your own mods if you are an experienced modder and know how to manually make conflict resolution patches and sort your load order! You can't just throw a bunch of mods on top of the guide without doing any conflict resolution or use automated tools and expect your game to function as intended! A reminder that I will #[u not] support setups that have added any mods.

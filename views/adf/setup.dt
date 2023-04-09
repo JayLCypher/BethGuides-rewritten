@@ -1,0 +1,8 @@
+extends adf/layout
+block content
+	include adf/setup/introsetup
+	include adf/setup/recommended
+	include adf/setup/uninstall
+	include adf/setup/postinstall
+block linksright
+	include adf/setup/links

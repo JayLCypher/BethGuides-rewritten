@@ -1,0 +1,9 @@
+extends common/layout
+block guidelinks
+	include adf/guidelinks
+block faqlinks
+	include adf/faqlinks
+block content
+block linksleft
+	include adf/linksleft
+block linksright

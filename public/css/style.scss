@@ -108,6 +108,12 @@ blockquote {
 		font-size: 1.09em;
 		&:hover { text-decoration: underline; }
 	}
+
+	.optional::after, .performance::after {
+		position: inherit !important;
+		margin: 0.2em 0.4em 0.2em 0.4em;
+		transform: translateY(-0.3em);
+	}
 }
 
 header {
@@ -585,7 +591,24 @@ h1, h2 {
 		margin-left: 1em;
 	}
 }
-.performance { color: #d16759 !important; }
+.performance {
+	color: #d16759;
+	&::after {
+		display: inline-flex;
+		position: absolute;
+		transform: translateY(-0.4em);
+		content: "Performance Hit";
+		text-shadow: 0 0.05em 0.2em rgb(0 0 0 / 50%);
+		box-shadow: 0 0.15em 6pt hsl(0deg 0% 0% / 30%);
+		color: #d16759;
+		background-image: linear-gradient(to top, hsl(7, 57%, 12.5%), hsl(7, 57%, 18%));
+		border: 2pt solid hsl(7, 57%, 25%);
+		border-radius: 12pt;
+		font-size: 0.7em;
+		padding: 0.25em 0.5em 0.25em 0.5em;
+		margin-left: 1em;
+	}
+}
 
 #shillinks { margin-top: auto; }
 #shillinks a, #paypal {

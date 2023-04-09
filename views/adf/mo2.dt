@@ -1,0 +1,10 @@
+extends adf/layout
+block content
+	include adf/mo2/intromo2
+	include adf/mo2/installing
+	include adf/mo2/config
+	include adf/mo2/profiles
+	include adf/mo2/initweaks
+	include adf/mo2/installmods
+block linksright
+	include adf/mo2/links

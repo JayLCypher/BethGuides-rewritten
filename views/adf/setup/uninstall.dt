@@ -1,0 +1,40 @@
+// Uninstall
+section#uninstall
+	h2: a Uninstalling the Game
+	blockquote If you do not have the game installed yet, skip this step.
+	ol
+		li Open Steam and go to your #[strong Library].
+		li Find #[strong The Elder Scrolls V: Skyrim Special Edition ]in the list.
+		li Right-click on it and select #[strong Manage -&gt;Uninstall].
+		li Navigate to #[code Steam\steamapps\common\] and, if present, delete the #[strong Skyrim Special Edition ]folder.
+		li Navigate to #[code Documents\My Games] and delete the #[strong Skyrim Special Edition ]folder.
+
+	// Install
+	section#install
+		h2: a(href="#install") Installing the Game
+		blockquote It is strongly recommended to install the game outside of any default Windows folders (Such as #[code Program Files (x86)]), as the the strict Windows file protections of these folders can break certain mods/tools. Instead, we will use a tool called Steam Library Setup Tool to create a new Steam library folder outside of any default Windows folders. If you already have Steam installed outside of any default windows folders then skip this step and simply install the game to your custom Steam library.
+		ol
+			li Completely exit out of Steam using Task Manager or System Tray.
+			li Download the #[strong steam_library_setup_tool-3.2.exe ]file from #[a(href="https://github.com/LostDragonist/steam-library-setup-tool/releases") here].
+			li Once downloaded, run the file and add a new entry by clicking #[strong Add Row].
+			li Type the chosen path under #[strong Path], e.g #[code C:\Games\Steam]
+			li Click #[strong Accept ]then #[strong Yes ]if prompted to create a new folder.
+			li The tool will ask to exit, select #[strong OK].
+			img(width="50%", src="/img/steamlibrarysetuptool.webp", alt="steam library setup tool")
+			li Open Steam and go to your #[strong Library].
+			li Find #[strong The Elder Scrolls V: Skyrim Special Edition ]in the list and select #[strong Install].
+			li Under #[strong Choose location for install:], select the library folder created with the tool
+			img(size="60%", src="/img/steamlocationpicker.webp", alt="example steam install locations")
+		
+		blockquote If you still do not see your new library, restart your PC.
+		ol(start="10")
+			li Select #[strong Next] then wait for the install to finish.
+
+		// Downgrading
+		section#downgrade
+			h2: a(href="#downgrade") Downgrading to 1.5.97
+			p In order to ensure compatibility with the widest amount of mods (Atleast for now) you will need to downgrade your game version, this also removes the need to worry about updates:
+			blockquote Make sure to download the right file! You only need #[strong Best of Both Worlds]
+			ol
+				li Download the #[strong Optional Files - BestOfBoth_1.6.640.0-1.5.97.0.exe] from #[a(href="https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=318087&amp;game_id=1704", target="_blank") here]
+				li Run the executable file you just downloaded, then click #[strong Start Patching] and close it when it's done.

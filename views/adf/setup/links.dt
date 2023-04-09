@@ -1,0 +1,10 @@
+li: a(href="#location") Location
+li: a(href="#uninstall") Uninstall
+li: a(href="#install") Install
+li: a(href="#downgrade") Downgrading
+li: a(href="#post_install") Post-Install
+ul
+	li: a(href="#terms") Key Terms
+	li: a(href="#file_extensions") File Extensions
+	li: a(href="#generating_inis") INI Files
+	li: a(href="#dpi_fix") DPI Fix
