@@ -1,0 +1,6 @@
+// Sprint Sneak Movement Speed Fix
+section
+	h2#speed_fix: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/86631", target="_blank") Sprint Sneak Movement Speed Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Sprint Sneak Movement Speed Fix]
+	p Fixes the game applying wrong movement speed if the character draws, sheathes or shouts while sprinting or sneaking.

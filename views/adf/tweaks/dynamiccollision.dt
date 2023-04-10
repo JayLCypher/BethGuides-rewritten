@@ -1,0 +1,6 @@
+// Dynamic Collision
+section
+	h2#dynamic_collision: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/76783", target="_blank") Dynamic Collision Adjustment
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Dynamic Collision Adjustment]
+	p Adjusts the character controller collision while sneaking and swimming so you can fit under objects.

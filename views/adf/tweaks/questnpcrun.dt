@@ -1,0 +1,6 @@
+// Quest NPCs Run
+section
+	h2#npcs_run: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/21103", target="_blank") Quest NPCs Run
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Quest NPCs Run]
+	p Makes slow walking quest NPCs you follow run.

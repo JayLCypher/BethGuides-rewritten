@@ -1,0 +1,7 @@
+// Address Library
+section
+	h2#address_lib: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/32444", target="_blank") Address Library
+	h2.install Installation instructions:
+	ul: li #[b Main Files - All in one (Special Edition)]
+	p Resource required for other SKSE plugins.
+	blockquote After installing a mod, make sure you check the box next to it in the left pane of MO2 to enable it.

@@ -1,0 +1,6 @@
+// Tavern AI Fix
+section
+	h2#tavern_fix: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/23107", target="_blank") Tavern AI Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - TavernAIFix]
+	p Fixes couple of things in the behavior of tavern workers.

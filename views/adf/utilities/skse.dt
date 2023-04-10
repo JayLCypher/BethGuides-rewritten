@@ -1,0 +1,12 @@
+// SKSE
+section
+	h2#skse: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/30379", target="_blank") SKSE
+	h2.install Installation instructions:
+	ol
+		li #[b Old Files - Skyrim Script Extender (SKSE64) 2.0.20] (manual download)
+		li From the downloaded archive, extract #[strong everything] to the game's #[strong Root] folder 
+	blockquote If you do not know what the #[strong Root] folder is, read the #[strong Key Terminology] section from the #[a(href="./setup#terms", target="_blank") Initial Setup] page.
+	blockquote
+		| After proper install, your #[strong Root Folder] should look like this:
+		br
+		img#skse_root(src="/img/adf/root.webp", alt="Screenshot of the root folder showcasing correct SKSE install")

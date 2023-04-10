@@ -1,0 +1,8 @@
+// Enhanced Invisibility
+section
+	h2#invisibility: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/61950", target="_blank") Enhanced Invisibility
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Enhanced Invisibility]
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+	p SKSE plugin that improves and fixes bugs with Invisibility effects.

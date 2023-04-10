@@ -1,0 +1,6 @@
+// Crash Logger
+section
+	h2#crash_logger: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/59818", target="_blank") Crash Logger
+	h2.install Installation instructions:
+	ul: li #[b Main Files - CrashLogger]
+	p Generates crash logs.

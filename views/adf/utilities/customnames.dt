@@ -1,0 +1,6 @@
+// Names Customized
+section
+	h2#names_custom: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/27776", target="_blank") Improvement Names Customized
+	h2.install Installation instructions:
+	ul: li Old Files - Improvement Names Customized SSE
+	p Replace vanilla customization strings with your own custom strings.

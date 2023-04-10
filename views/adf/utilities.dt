@@ -1,0 +1,21 @@
+extends adf/layout
+block content
+	include adf/utilities/introutilities
+	include adf/utilities/skse
+	include adf/utilities/addresslib
+	include adf/utilities/crashlog
+	include adf/utilities/displaytweaks
+	include adf/utilities/scaleform
+	include adf/utilities/whosequest
+	include adf/utilities/customnames
+	include adf/utilities/papyrusextender
+	include adf/utilities/papyrusutil
+	include adf/utilities/spid
+	include adf/utilities/kid
+	include adf/utilities/jcontainers
+	include adf/utilities/recursionmon
+	include adf/utilities/papyrustweaks
+	include adf/utilities/mic
+	include adf/utilities/thefloor
+block linksright
+	include adf/utilities/links

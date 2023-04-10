@@ -1,0 +1,6 @@
+// Journal Limit Fix
+section
+	h2#journal_fix: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/56130", target="_blank") Quest Journal Limit Bug Fixer
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Quest Journal Limit Bug Fixer]
+	p An utility to bring back quests that disappeared due to quest journal limit bug.

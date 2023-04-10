@@ -1,0 +1,6 @@
+// Floors Sandboxing
+section
+	h2#sandboxing: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/4524", target="_blank") Multiple Floors Sandboxing
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Multiple Floors Sandboxing]
+	p Allows NPCs to climb stairs around them and explore their surroundings more.

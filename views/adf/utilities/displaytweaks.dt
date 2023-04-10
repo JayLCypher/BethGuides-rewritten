@@ -1,0 +1,17 @@
+// Display Tweaks
+section
+	h2#display_tweaks: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/34705", target="_blank") Display Tweaks
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - SSE Display Tweaks]
+		li Once the mod has been installed, double-click on it in the left pane of MO2
+		li In the #[strong INI-Files] tab, select #[code SKSE/Plugins/SSEDisplayTweaks.ini]
+		li Change the following options:
+		ul
+			li Set #[strong FramerateLimit] to a value you want the game FPS to be locked to (line 204)
+			| If you set FramerateLimit to a value higher than 60:
+			ul
+				li Set #[strong DynamicUpdateBudget] to #[strong true] (line 542)
+				li Set #[strong BudgetMaxFPS] to the same value as FramerateLimit (line 561)
+	p All-in-one solution for smooth FPS-unlocked gameplay, also includes many fixes and tweaks.
+	blockquote If you don't mind something more complex you can find a more in-depth methods to lock your FPS on #[a(href="https://performance.moddinglinked.com/sse.html", target="_blank") this] guide by Wall_SoGB.

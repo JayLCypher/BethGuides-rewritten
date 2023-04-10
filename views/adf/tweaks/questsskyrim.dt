@@ -1,0 +1,8 @@
+// Quests in Skyrim
+section
+	h2#quests: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/18416", target="_blank") Quests Are In Skyrim
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - QuestsAreInSkyrim_USSEP_1_3]
+		li Also get the USSEP Patch #[a(href="https://www.nexusmods.com/skyrimspecialedition/mods/78228", target="_blank") here]
+	p Fixes base-game radiant quests being generated in DLC areas.

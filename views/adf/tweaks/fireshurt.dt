@@ -1,0 +1,13 @@
+// Fires Hurt RE
+section
+	h2#fire_hurts: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/67473", target="_blank") Fires Hurt RE
+	h2.install Installation instructions:
+	ul: li #[b Main Files - FiresHurtRE]
+	p Now fires, campfires, embers, steam &amp; magic pillars will hurt.
+
+// Fire Hurts NG
+section
+	h2#fire_hurts_ng: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/74064", target="_blank") Fire Hurts NG
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Fire Hurts NG]
+	p Optimizes the previous mod and makes it compatible with all game versions.

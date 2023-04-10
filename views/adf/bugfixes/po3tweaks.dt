@@ -1,0 +1,9 @@
+// PO3 Tweaks
+section
+	h2#po3_tweaks: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/51073", target="_blank") powerofthree's Tweaks
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - powerofthree's Tweaks]
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+		li Also get the custom INI #[a(href="https://www.nexusmods.com/skyrimspecialedition/mods/81286", target="_blank") here]
+	p A collection of engine-level fixes and tweaks similar to the previous two mods.

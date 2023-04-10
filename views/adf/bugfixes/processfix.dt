@@ -1,0 +1,8 @@
+// Process Position Fix
+section
+	h2#ai_fix: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/69326", target="_blank") NPC AI Process Position Fix - NG
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - NPC AI Process Position Fix - NG]
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+	p Fixes NPC AI not updating while the player sleeps/waits.

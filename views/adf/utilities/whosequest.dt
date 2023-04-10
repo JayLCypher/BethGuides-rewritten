@@ -1,0 +1,6 @@
+// Whose Quest Is It
+section
+	h2#whose_quest: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/23581", target="_blank") Whose Quest Is It Anyway
+	h2.install Installation instructions:
+	ul: li Old Files - Whose Quest Is It Anyway
+	p Swaps the "Quest items cannot be removed..." message for a more descriptive message informing you which quest the item belongs to.

@@ -1,0 +1,6 @@
+// To Your Face
+section
+	h2#tyf: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/24720", target="_blank") To Your Face SE - AE - VR
+	h2.install Installation instructions:
+	ul: li #[b Main Files - To Your Face SE]
+	p Prevents NPCs from making random greetings unless they are in front of the player.

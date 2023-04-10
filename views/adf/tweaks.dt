@@ -1,0 +1,18 @@
+extends adf/layout
+block content
+	include adf/tweaks/introtweaks
+	include adf/tweaks/questsskyrim
+	include adf/tweaks/timing
+	include adf/tweaks/questnpcrun
+	include adf/tweaks/bountypreview
+	include adf/tweaks/sopp
+	include adf/tweaks/encounterzones
+	include adf/tweaks/toyourface
+	include adf/tweaks/enhancedinvis
+	include adf/tweaks/fireshurt
+	include adf/tweaks/animalsswim
+	include adf/tweaks/dynamiccollision
+	include adf/tweaks/lockpickangel
+	include adf/tweaks/jumping
+block linksright
+	include adf/tweaks/links

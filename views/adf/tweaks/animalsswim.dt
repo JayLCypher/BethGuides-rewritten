@@ -1,0 +1,6 @@
+// Animals Swim
+section
+	h2#animals_swim: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/78267", target="_blank") Animals Swim (Sort of)
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Animals Swim (Sort Of)]
+	p Rabbits (and other animals) won't walk at the bottom of the sea anymore, they will float near the surface instead.

@@ -1,0 +1,6 @@
+// Encounter Zones Unlocked
+section
+	h2#unlocked: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/19608", target="_blank") Encounter Zones Unlocked
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Encounter Zones Unlocked SE]
+	p Prevents the game from locking an area's encounter zone level when you first enter it.

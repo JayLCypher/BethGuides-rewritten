@@ -1,0 +1,6 @@
+// Remember Lockpick Angle
+section
+	h2#lockpick: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/26838", target="_blank") Remember Lockpick Angle - Updated
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Remember Lockpick Angle]
+	p After breaking a lock-pick, the new lock-pick is placed at the same angle where the last one broke.

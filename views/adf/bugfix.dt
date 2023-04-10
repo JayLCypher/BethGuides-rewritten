@@ -1,0 +1,21 @@
+extends adf/layout
+block content
+	include adf/bugfixes/introbugfixes
+	include adf/bugfixes/ussep
+	include adf/bugfixes/scripts
+	include adf/bugfixes/enginefix
+	include adf/bugfixes/soundfix
+	include adf/bugfixes/eggs
+	include adf/bugfixes/po3tweaks
+	include adf/bugfixes/enchfix
+	include adf/bugfixes/processfix
+	include adf/bugfixes/combatmusic
+	include adf/bugfixes/journalfix
+	include adf/bugfixes/skyoverhaul
+	include adf/bugfixes/aurorafix
+	include adf/bugfixes/barterfix
+	include adf/bugfixes/tavernai
+	include adf/bugfixes/sprintsneak
+	include adf/bugfixes/animatedreload
+block linksright
+	include adf/bugfixes/links

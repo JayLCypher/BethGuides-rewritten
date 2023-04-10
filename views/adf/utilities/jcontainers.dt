@@ -1,0 +1,6 @@
+// JContainers
+section
+	h2#jcontainer: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/16495", target="_blank") JContainers
+	h2.install Installation instructions:
+	ul: li #[b Main Files - JContainers SE] (first file)
+	p Extends Papyrus scripts with JSON.

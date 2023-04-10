@@ -1,0 +1,8 @@
+// Sky Overhaul
+section
+	h2#sky_overhaul: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/73336", target="_blank") Moons and Stars - Sky Overhaul SKSE
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Moons And Stars - Sky Overhaul SKSE]
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+	p DLL plugin to fix moons and stars movement and phases.

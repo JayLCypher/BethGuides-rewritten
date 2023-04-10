@@ -1,0 +1,6 @@
+// Enchantment Equip Fix
+section
+	h2#equip_fix: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/42839", target="_blank") Enchantment Equip Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Equip Enchantment Fix for 1.5.39 - 1.6.353]
+	p Fixes enchantments not properly applying when weapons/armors are equipped automatically.

@@ -1,0 +1,6 @@
+// Barter Limit Fix
+section
+	h2#barter_fix: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/77173", target="_blank") Barter Limit Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Barter Limit Fix]
+	p SKSE plugin that fixes trading with merchants with more than 32,767 gold.

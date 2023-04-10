@@ -1,0 +1,8 @@
+// Timing is Everything
+section
+	h2#timing: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/25464", target="_blank") Timing is Everything
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Timing is Everything SE]
+		li Also get the #[b Settings Loader] #[a(href="https://www.nexusmods.com/skyrimspecialedition/mods/57754", target="_blank") here]
+	p Allows you to customize the starting conditions for various quests.

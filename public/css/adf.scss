@@ -1,4 +1,5 @@
 $colorHeader1: #8587eb;
+$colorInstall: #8587eb;
 $colorQuote: #5b5381;
 $colorStrong: #7375cc;
 $colorLink: rgb(85, 170, 255);
@@ -8,3 +9,4 @@ strong { color: $colorStrong; }
 section h2 a { color: $colorLinkBlank; }
 section a, .link { color: $colorLink; }
 h1 { color: $colorHeader1; }
+.install { color: $colorInstall; }

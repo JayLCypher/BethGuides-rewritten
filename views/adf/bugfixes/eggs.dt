@@ -1,0 +1,20 @@
+// Bug Fixes
+section
+	h2#bug_fixes: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/33261", target="_blank") Bug Fixes
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Bug Fixes SSE (Special Edition)]
+	p A collection of engine bug fixes.
+
+// Scrambled Bugs
+section
+	h2#scrambled: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/43532", target="_blank") Scrambled Bugs
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Scrambled Bugs (Special Edition)]
+		li #[b Optional Files - Script Effect Archetype Crash Fix] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+		li #[b Optional Files - Vendor Respawn Fix] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+		li #[b Miscellaneous Files - Underfilled Soul Gems - Soul Gem Too Small] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li Also get the #[b custom config] #[a(href="https://www.nexusmods.com/skyrimspecialedition/mods/81286", target="_blank") here]
+	p Fixes many common bugs at an engine level, fully configurable.

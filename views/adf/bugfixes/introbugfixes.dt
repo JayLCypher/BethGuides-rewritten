@@ -1,0 +1,6 @@
+section
+	h1 Bug Fixes
+	h2 Creating a Separator in MO2
+	ol
+		li Right-click the empty space in the left pane of MO2 and select #[strong Create Separator].
+		li Name the separator #[strong Bug Fixes].

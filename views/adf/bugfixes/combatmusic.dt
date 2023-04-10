@@ -1,0 +1,6 @@
+// Combat Music Fix
+section
+	h2#music_fix: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/67015", target="_blank") Combat Music Fix
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Combat Music Fix SKSE - SSE]
+	p Simple SKSE plugin to fix the never-ending combat music bug.

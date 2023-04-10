@@ -1,0 +1,6 @@
+// Scaleform Translation++
+section
+	h2#scaleform: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/22603", target="_blank") Scaleform Translation Plus Plus
+	h2.install Installation instructions:
+	ul: li Old Files - ScaleformTranslationPP (last file)
+	p Enables native translation nesting present within SkyUI.

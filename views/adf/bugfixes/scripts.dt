@@ -1,0 +1,13 @@
+// Script Optimizations
+section
+	h2#micro_opt: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/54061", target="_blank") Vanilla Script (micro)Optimizations
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Vanilla Script microOptimizations]
+	p Rewriting many of the vanilla game scripts with the goal of increasing efficiency.
+
+// Scripting Enhancements
+section
+	h2#vse: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/68139", target="_blank") Vanilla Scripting Enhancements
+	h2.install Installation instructions:
+	ul: li #[b Main Files - BSA Version]
+	p Optimize certain vanilla scripts with PO3 Extender to reduce script lag when using lots of mods.

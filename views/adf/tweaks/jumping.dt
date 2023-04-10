@@ -1,0 +1,6 @@
+// Better Jumping
+section
+	h2#jumping: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/18967", target="_blank") Better Jumping SE
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Better Jumping SE]
+	p Allows to jump while sprinting.

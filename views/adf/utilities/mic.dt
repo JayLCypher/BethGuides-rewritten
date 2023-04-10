@@ -1,0 +1,6 @@
+// More Informative Console
+section
+	h2#moreinfoconsole: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/19250", target="_blank") More Informative Console
+	h2.install Installation instructions:
+	ul: li #[b Main Files - More Informative Console 1.1.0 SE]
+	p This mod edits the UI to show a great deal of additional information on NPCs, items, and other objects when the console is opened.

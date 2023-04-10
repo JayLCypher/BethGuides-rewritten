@@ -1,0 +1,8 @@
+// Papyrus Tweaks
+section
+	h2#papyrustweaks: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/77779", target="_blank") Papyrus Tweaks NG
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Papyrus Tweaks 4.1.0]
+		li #[b Miscellaneous Files - INI file for reference]
+	p Collection of fixes, tweaks and performance improvements for Skyrim's script engine. 100% configurable.

@@ -1,0 +1,6 @@
+// Animated Static Reload Fix
+section
+	h2#static_reload_fix: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/69331", target="_blank") Animated Static Reload Fix - NG
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Animated Static Reload Fix - NG]
+	p Fixes static object loop animations not re-activated after loading a save.

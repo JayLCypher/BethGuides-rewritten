@@ -1,0 +1,6 @@
+// PapyrusUtil
+section
+	h2#papyrusutil: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/13048", target="_blank") PapyrusUtil
+	h2.install Installation instructions:
+	ul: li #[b Main Files - PapyrusUtil SE - Scripting Utility Functions]
+	p SKSE plugin adding several new scripts with native functions.

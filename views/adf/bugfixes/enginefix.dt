@@ -1,0 +1,16 @@
+// Engine Fixes
+section
+	h2#engine_fixes: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/17230", target="_blank") Engine Fixes
+	h2.install Installation instructions:
+	ol
+		li Download and install the #[b Main Files - (Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97] normally through MO2
+		li Download the #[b Main Files - (Part 2) Engine Fixes - skse64 Preloader and TBB Lib 2020.3] file using the #[strong Manual Download] button
+		li From the downloaded archive, extract #[strong everything] to the game's #[strong Root] folder
+		li Once the files are installed, right-click on the #[strong SSE Engine Fixes] mod in the left pane of MO2 and select #[strong Open in Explorer]
+		li Navigate to #[code SKSE\Plugins] and open #[strong EngineFixes.toml] in a text editor (such as notepad)
+		li Set #[strong CleanSKSECosaves ]to #[strong true] (line 5)
+		li Set #[strong MaxStdio ]to #[strong 8192] (line 11)
+		li Set #[strong RegularQuicksaves ]to #[strong true] (line 13)
+		li Set #[strong SleepWaitTime ]to #[strong true] (line 18)
+		li Set #[strong SaveGameMaxSize ]to #[strong true] (line 66)
+	p Fixes numerous bugs within the game's engine.

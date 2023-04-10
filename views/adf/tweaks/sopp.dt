@@ -1,0 +1,8 @@
+// Simple Offence Suppression
+section
+	h2#suppression: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/41764", target="_blank") Simple Offence Suppression
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Simple Offence Suppression SE]
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+	p Prevents friendly NPCs from turning hostile on you if you accidentally hit them during combat.

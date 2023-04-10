@@ -1,0 +1,6 @@
+// Recursion Monitor
+section
+	h2#recursion: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/76867", target="_blank") Recursion Monitor
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Recursion Fix]
+	p Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag.

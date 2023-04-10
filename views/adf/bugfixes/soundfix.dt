@@ -1,0 +1,6 @@
+// Sound Fix
+section
+	h2#sound_fix: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/71567", target="_blank") Sound Fix for Large Sector Drives
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Sound Fix for Large Sector Drives]
+	p Fixes a bug that causes audio to not play most of the time when the game is installed to a drive with a sector size other than 512.

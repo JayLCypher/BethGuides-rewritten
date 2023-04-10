@@ -1,0 +1,6 @@
+// Bounty Preview
+section
+	h2#bounty_preview: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/33877", target="_blank") Bounty Preview
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Bounty Preview]
+	p Allows you to preview bounty missions from innkeepers and either accept or reject them.

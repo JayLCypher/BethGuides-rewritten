@@ -1,0 +1,8 @@
+// Papyrus Extender
+section
+	h2#p3_extender: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/22854", target="_blank") powerofthree's Papyrus Extender
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Papyrus Extender]
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+	p SKSE plugin that extends scripting functionality.
