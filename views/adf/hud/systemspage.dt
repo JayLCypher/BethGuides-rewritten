@@ -1,0 +1,7 @@
+// System Page
+section
+	h2#system_page: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/76927", target="_blank") Stay At The System Page NG
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Stay At The System Page]
+	p Changes the pause menu to default to the system page rather than the quests page.
+	blockquote This mod does not completely work with controllers. If you plan on using a controller, it is best to skip it.

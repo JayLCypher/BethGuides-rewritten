@@ -1,0 +1,6 @@
+// Twilight
+section
+	h2#twilight: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/82665", target="_blank") Twilight
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Twilight]
+	p SKSE plugin which simulates twilight (dawn and dusk) for any weather.

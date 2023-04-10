@@ -1,0 +1,6 @@
+// Aetherius
+section
+	h2#aetherius.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/26686", target="_blank") Aetherius - A Race Overhaul
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Aetherius - A Race Overhaul]
+	p Complete overhaul of human, elf, and beast races designed to balance the races and add powerful new gameplay options.

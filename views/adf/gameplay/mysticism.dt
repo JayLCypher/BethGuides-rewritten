@@ -1,0 +1,9 @@
+// Mysticism
+section
+	h2#mysticism.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/27839", target="_blank") Mysticism - A Magic Overhaul
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Mysticism - A Magic Overhaul]
+		li #[b Optional Files - Mysticism - Jump Spell Addon] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li #[b Optional Files - Mysticism - Survival Spells Addon] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Complete overhaul of the magic system, designed to balance existing spells and add powerful new magical effects.

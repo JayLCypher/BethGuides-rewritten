@@ -1,0 +1,8 @@
+// Manbeast
+section
+	h2#manbeast.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/44746", target="_blank") Manbeast - A Werewolf Overhaul
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Manbeast - A Werewolf Overhaul]
+		li Also get the #[b USSEP Patch] #[a(href="https://www.nexusmods.com/skyrimspecialedition/mods/78228", target="_blank") here]
+	p Complete overhaul of the Werewolf system designed to balance existing mechanics and add powerful new abilities.

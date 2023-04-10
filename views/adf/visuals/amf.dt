@@ -1,0 +1,13 @@
+// Assorted Mesh Fixes
+section
+	h2#assortedfixes: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/32117", target="_blank") Assorted mesh fixes
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Assorted mesh fixes]
+	p Fixes various issues with vanilla Skyrim meshes.
+
+// Assorted - SMIM - Blended
+section
+	h2#assorted-smim-blended: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/45597", target="_blank") Assorted Mesh Fixes - SMIM - Really Blended Roads Patch
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Assorted Mesh Fixes - SMIM - Really Blended Roads Patch]
+	p Patch between Assorted Mesh Fixes, SMIM and Really Blended Roads.

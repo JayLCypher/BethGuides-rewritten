@@ -1,0 +1,6 @@
+// BTPS
+section
+	h2#btps: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/64339", target="_blank") Better Third Person Selection
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Better Third Person Selection (AE - SE)]
+	p Overhauls 3rd person object selection.

@@ -1,0 +1,13 @@
+// Dialogue Controls
+section
+	h2#dialoguecontrols: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/1429", target="_blank") Better Dialogue Controls
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Better Dialogue Controls]
+	p Fixes annoyances with how dialogue controls.
+
+// MessageBox Controls
+section
+	h2#msg_box: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/1428", target="_blank") Better MessageBox Controls
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Better MessageBox Controls]
+	p Allows for better control over message boxes.

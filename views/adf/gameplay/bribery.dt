@@ -1,0 +1,6 @@
+// Sensible Bribes
+section
+	h2#bribes.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/55450", target="_blank") Sensible Bribes
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Sensible Bribes]
+	p Calculation of the bribe amount switched from using your level to your speechcraft.

@@ -1,0 +1,6 @@
+// Blade and Blunt
+section
+	h2#blade.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/34549", target="_blank") Blade and Blunt - A Combat Overhaul
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Blade and Blunt - A Combat Overhaul]
+	p Complete overhaul of the combat designed to increase difficulty and encourage active resource management.

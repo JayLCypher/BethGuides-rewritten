@@ -1,0 +1,6 @@
+// Horse Stamina
+section
+	h2#horse_hud: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/47076", target="_blank") Horse Stamina HUD
+	h2.install Installation instructions:
+	ul: li Old Files - Horse Stamina HUD (1.5.97)
+	p Displays your horse's current stamina when riding.

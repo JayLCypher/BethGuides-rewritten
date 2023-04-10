@@ -1,0 +1,6 @@
+// MCM Helper
+section
+	h2#mcmhelper: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/53000", target="_blank") MCM Helper
+	h2.install Installation instructions:
+	ul: li #[b Miscellaneous Files - MCM Helper SE (1.5.97 BACKPORT)]
+	p Requirement for many mods, also simplifies the creation of Mod Configuration Menus and extends them with powerful new features.

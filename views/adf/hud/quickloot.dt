@@ -1,0 +1,6 @@
+// QuickLoot
+section
+	h2#quickloot: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/69980", target="_blank") QuickLoot EE
+	h2.install Installation instructions:
+	ul: li #[b Main Files - QuickLoot EE]
+	p Adds a Fallout 4-style quick loot system.

@@ -1,0 +1,6 @@
+// Soft Shadows
+section
+	h2#soft_shadows: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/74632", target="_blank") Soft Shadows
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Soft Shadows]
+	p SKSE plugin which dynamically adjusts the look of shadows depending on lighting conditions.

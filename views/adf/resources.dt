@@ -1,0 +1,17 @@
+extends adf/layout
+block content
+	section
+		h1 Resources
+		h2: a.link(href="./avoid_tools") Tools to Avoid
+		p List of many outdated/dangerous tools.
+		h2: a.link(href="./avoid_mods") Mods to Avoid
+		p List of many outdated/dangerous mods.
+		h2: a.link(href="https://wastelandsurvivalguide.com/docs/xedit.html") xEdit Basics
+		p Introduction to xEdit, which will allow you to understand how plugins work and how you can edit records.
+		h2: a.link(href="https://wastelandsurvivalguide.com/docs/themethod.html") The Method
+		p Guide on how to use The Method, which is used while creating a modlist in order to patch it properly and hide remaining conflicts that need no intervention.
+		h2: a.link(href="https://www.youtube.com/watch?v=Ipgx3xmzEaw&amp;list=PL2g2oK5KhZT3L25H0FqJzSnFib9VmymQS") Creation Kit Tutorials
+		p Playlist of many YouTube videos from various mod authors that explain how to use the Creation Kit.
+block linksleft
+	include adf/linksleft
+	ul: li: a(href="/adf/resources") Resources

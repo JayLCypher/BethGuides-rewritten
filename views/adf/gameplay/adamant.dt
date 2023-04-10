@@ -1,0 +1,8 @@
+// Adamant
+section
+	h2#adamant.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/30191", target="_blank") Adamant - A Perk Overhaul
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Adamant - A Perk Overhaul]
+		li #[b Optional Files - Adamant - Smithing Addon] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Complete overhaul of the perk trees designed to balance existing skills and add powerful new perks.

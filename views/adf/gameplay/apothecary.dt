@@ -1,0 +1,13 @@
+// Apothecary
+section
+	h2#apothecary.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/52130", target="_blank") Apothecary - An Alchemy Overhaul
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Apothecary - An Alchemy Overhaul]
+		li #[b Main Files - Apothecary - Food and Drink Addon] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li #[b Miscellaneous Files - Apothecary - Fishing Patch] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li #[b Miscellaneous Files - Apothecary - Food and Drink Addon - Survival Mode Patch] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li #[b Miscellaneous Files - Apothecary - Food and Drink Addon - USSEP Patch] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li #[b Miscellaneous Files - Apothecary - Rare Curios Patch] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li #[b Miscellaneous Files - Apothecary - Saints and Seducers Patch] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Complete overhaul of the alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects.

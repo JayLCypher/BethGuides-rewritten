@@ -1,0 +1,20 @@
+extends adf/layout
+block content
+	include adf/gameplay/introgameplay
+	include adf/gameplay/aetherius
+	include adf/gameplay/mysticism
+	include adf/gameplay/adamant
+	include adf/gameplay/mundus
+	include adf/gameplay/arena
+	include adf/gameplay/bladeblunt
+	include adf/gameplay/scion
+	include adf/gameplay/manbeast
+	include adf/gameplay/apothecary
+	include adf/gameplay/pilgrim
+	include adf/gameplay/thaumaturgy
+	include adf/gameplay/handtohand
+	include adf/gameplay/bribery
+	include adf/gameplay/fees
+	include adf/gameplay/vestige
+block linksright
+	include adf/gameplay/links

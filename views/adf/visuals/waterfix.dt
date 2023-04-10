@@ -1,0 +1,8 @@
+// Water Fixes
+section
+	h2#waterfixes: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/63862", target="_blank") Water Effects Brightness and Reflection Fix
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Water Effects Brightness and Reflection Fix]
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+	p Fixes bright water effects at night and neon green reflections.

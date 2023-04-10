@@ -1,0 +1,6 @@
+// Dynamic Fees
+section
+	h2#fees.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/45677", target="_blank") Dynamic Mercenary Fees
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Dynamic Mercenary Fees]
+	p Makes mercenaries ask for more or less money for their services depending on their level, your and their race and how good you are at bartering.

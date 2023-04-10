@@ -1,0 +1,8 @@
+// Blended Roads
+section
+	h2#blended_roads: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/8834", target="_blank") Blended Roads
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Blended Roads]
+		li You will be prompted with a FOMOD installer, select #[strong Really Blended Roads] in both sections and then #[strong Install]
+	p Better blends roads into the landscape textures to avoid seams and gives them 3D meshes to look more natural.

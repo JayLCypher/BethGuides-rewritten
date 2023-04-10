@@ -59,9 +59,89 @@ class DDragonbornsFateController {
 
 	void getTweaks() {
 		description = "Essential mods that fix bugs, improve performance, and/or improve quality of life.";
-		subtitle = "Bug Fixes";
+		subtitle = "Tweaks";
 		previous = "/adf/bugfix";
 		next = "/adf/hud";
 		render!("adf/tweaks.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getHud() {
+		description = "Mods that vastly improve the vanilla user interface without making any drastic stylistic changes.";
+		subtitle = "User Interface";
+		previous = "/adf/tweaks";
+		next = "/adf/gameplay";
+		render!("adf/hud.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getGameplay() {
+		description = "Mods that vastly improve vanilla gameplay experience, while still remaining closer to vanilla.";
+		subtitle = "Gameplay";
+		previous = "/adf/hud";
+		next = "/adf/visuals";
+		render!("adf/gameplay.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getVisuals() {
+		description = "Mods that vastly improve vanilla visuals.";
+		subtitle = "Visuals";
+		previous = "/adf/gameplay";
+		next = "/adf/finish";
+		render!("adf/visuals.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getFinish() {
+		description = "Final steps necessary before playing the game.";
+		subtitle = "Final Steps";
+		previous = "/adf/visuals";
+		next = "/adf/appendix";
+		render!("adf/finish.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getAppendix() {
+		description = "Links for the changelog, FAQ, and various resources.";
+		subtitle = "Appendix";
+		previous = "/adf/finish";
+		next = "";
+		render!("adf/appendix.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getFaq() {
+		description = "Solutions to many common problems with the guide.";
+		subtitle = "FAQ";
+		previous = "/adf/appendix";
+		next = "";
+		render!("adf/faq.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getChangelog() {
+		description = "Catalog of all changes made to the guide.";
+		subtitle = "Changelog";
+		previous = "/adf/appendix";
+		next = "";
+		render!("adf/changelog.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getResources() {
+		description = "Resources that may help further modding or learning about modding Bethesda games.";
+		subtitle = "Resources";
+		previous = "/adf/appendix";
+		next = "";
+		render!("adf/resources.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getAvoidTools() {
+		description = "List of many popular modding tools that are outdated/broken.";
+		subtitle = "Tools to Avoid";
+		previous = "/adf/resources";
+		next = "";
+		render!("adf/avoid_tools.dt", title, shorttitle, subtitle, previous, next, github, description);
+	}
+
+	void getAvoidMods() {
+		description = "List of many popular mods that are outdated/broken.";
+		subtitle = "Mods to Avoid";
+		previous = "/adf/resources";
+		next = "";
+		render!("adf/avoid_mods.dt", title, shorttitle, subtitle, previous, next, github, description);
 	}
 }

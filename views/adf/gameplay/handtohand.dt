@@ -1,0 +1,10 @@
+// Hand to Hand
+section
+	h2#hth.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/59790", target="_blank") Hand to Hand - An Adamant Addon
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Hand to Hand - An Adamant Addon]
+		li #[b Optional Files - Hand to Hand - Locksmith Addon] (select the name that matches the file on Nexus when the installation prompt comes up)
+		li #[b Optional Files - Hand to Hand - Trainers and Skill Books Addon] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Addon for Adamant - A Perk Overhaul that merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.
+	blockquote The Locksmith Addon will make a change to the Remember Lockpick Angle mod so it now requires a perk before the game will remember lockpick position.

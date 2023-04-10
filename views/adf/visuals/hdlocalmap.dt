@@ -1,0 +1,6 @@
+// HD Local Map
+section
+	h2#hd_map: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/74722", target="_blank") HD Local Map
+	h2.install Installation instructions:
+	ul: li #[b Main Files - HD Local Map]
+	p SKSE plugin which makes local maps use the full screen resolution.

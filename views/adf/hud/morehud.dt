@@ -1,0 +1,9 @@
+// MoreHUD
+section
+	h2#morehud: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/12688", target="_blank") MoreHUD
+	h2.install Installation instructions:
+	ol
+		li #[b Optional Files - moreHUD SE Light Master- Pre AE]
+		li Also get the #[b Settings Loader] #[a(href="https://www.nexusmods.com/skyrimspecialedition/mods/55503", target="_blank") here]
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+	p Adds many new configurable elements to the HUD to show more useful info.

@@ -1,0 +1,6 @@
+// Arena
+section
+	h2#arena.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/33487", target="_blank") Arena - An Encounter Zone Overhaul
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Arena - An Encounter Zone Overhaul]
+	p Complete overhaul of the encounter zones designed to increase difficulty and provide an organic sense of progression.

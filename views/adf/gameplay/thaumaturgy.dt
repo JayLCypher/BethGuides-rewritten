@@ -1,0 +1,6 @@
+// Thaumaturgy
+section
+	h2#thaumaturgy.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/57138", target="_blank") Thaumaturgy - An Enchanting Overhaul
+	h2.install Installation instructions:
+	ul: li #[b Main Files - Thaumaturgy - An Enchanting Overhaul]
+	p Complete overhaul of the enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments.

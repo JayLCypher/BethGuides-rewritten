@@ -1,0 +1,8 @@
+// Pilgrim
+section
+	h2#pilgrim.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/54099", target="_blank") Pilgrim - A Religion Overhaul
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Pilgrim - A Religion Overhaul]
+		li You will be prompted with a FOMOD installer, click #[strong Install]
+	p Complete overhaul of the religion system that adds dozens of new deities and with powerful shrine effects.

@@ -1,0 +1,8 @@
+// Simplicity of Sea
+section
+	h2#sos: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/56520", target="_blank") Simplicity of Sea
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Water Mod]
+		li You will be prompted with a FOMOD installer, select #[strong 2K Textures] and then #[strong Install]
+	p A light-weight water mod. Includes ENB-compatible displacement maps. An optional ESP only edits water records.

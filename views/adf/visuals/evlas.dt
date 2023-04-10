@@ -1,0 +1,8 @@
+// EVLaS
+section
+	h2#evlas.performance: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/63725", target="_blank") Enhanced Volumetric Lighting and Shadows (EVLaS)
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - EVLaS]
+		li #[b Optional Files - EVLaS Skyrim Underside]
+	p SKSE plugin that improves volumetric lighting and shadows by synchronizing them with Skyrim's sun and moon(s)

@@ -1,0 +1,8 @@
+// Vestige
+section
+	h2#vestige.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/85301", target="_blank") Vestige - An Artifact Overhaul
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Vestige - An Artifact Overhaul]
+		li You will be prompted with a FOMOD installer, click #[strong Next] and then #[strong Install]
+	p Comprehensive overhaul and rebalance of Skyrim's Artifacts and Guild Items.

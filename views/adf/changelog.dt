@@ -1,0 +1,329 @@
+extends adf/layout
+block content
+	section
+		h1 Changelog
+		section#changelog
+			h2 #[strong Time formatted in DD/MM/YY]
+			h2.install 19/3/23
+			p
+				| #[strong Bug Fixes:] Added Animated Static Reload Fix - NG.
+				br
+				| #[strong Gameplay:] Added Vestige - An Artifact Overhaul.
+
+			h2.install 14/3/23
+			p #[strong Bug Fixes:] Added the following mods:
+			ul
+				li Script Effect Archetype Crash Fix
+				li Vendor Respawn Fix
+				li Sprint Sneak Movement Speed Fix
+
+			h2.install 9/2/23
+			p
+				| #[strong Setup:] Added steps to delete the Patch BSA and fix some dialogue.
+				br
+				| #[strong Visuals:] Added Twilight and EVLaS (again).
+			h2.install 18/1/23
+			p #[strong Utilities:] Added more specific steps for the FPS cap in Display Tweaks in order to prevent Papyrus issues.
+			h2.install 28/11/22
+			p
+				| #[strong Whole Guide:] Recreated all pages with the help of Wall_SoGB, the guide is now responsive.
+				br
+				| #[strong Whole Guide:] Reformatted and edited a lot of steps and information.
+				br
+				| #[strong Whole Guide:] Removed steps for AE DLC owners, support will not be provided.
+				br
+				| #[strong Utilities:] Switched from .net to crash logger.
+				br
+				| #[strong Utilities:] Added the following mods:
+			ul
+				li Improvement Names Customized
+				li Keyword Item Distributor
+				li More Informative Console
+				li Multiple Floors Sandboxing
+			p
+				| #[strong Bug Fixes:] Added Scrambled Bugs Custom Config.
+				br
+				| #[strong Bug Fixes:] Added the following mods:
+			ul
+				li Sound Fix for Large Sector Drives
+				li Moons and Stars - Sky Overhaul SKSE
+				li Aurora Fix
+				li Barter Limit Fix
+			p
+				| #[strong Tweaks:] Removed Realistic Conversations and All Thieves Guild Jobs Concurrently.
+				br
+				| #[strong Tweaks:] Added USSEP Patch for Quests Are In Skyrim.
+				br
+				| #[strong Tweaks:] Added the following mods:
+			ul
+				li To Your Face SE - AE - VR
+				li Enhanced Invisibility
+				li Fires Hurt RE
+				li Fire Hurts NG
+				li Animals Swim (Sort of)
+				li Dynamic Collision Adjustment
+				li Remember Lockpick Angle - Updated
+				li Better Jumping SE
+			p
+				| #[strong UI:] Moved Whose Quest Is It Anyway to the #[b Utilities] section.
+				br
+				| #[strong Gameplay:] Added Adamant and Mysticism addons.
+				br
+				| #[strong Gameplay:] Added USSEP Patch for Scion and Manbeast.
+				br
+				| #[strong Visuals:] Removed the following mods:
+			ul
+				li EVLaS (Perf intensive and underside should be generated with DynDOLOD instead)
+				li Cathedral Weathers (No longer preferred)
+				li Lux (Needs an ENB such as Patrician to look right, not recommended for non-ENB users)
+			p #[strong Visuals:] Added the following mods:
+			ul
+				li Soft Shadows
+				li HD Local Map
+			p #[strong Finish Line:] Updated LO to reflect all the changes above.
+
+			h2.install 14/11/22
+			p
+				| #[strong Utilities:] Switched to the Nexus release of SKSE64.
+				br
+				| #[strong Utilities:] Added Recursion Monitor and Papyrus Tweaks NG.
+
+			h2.install 13/11/22
+			p
+				| #[strong MO2:] Switched to global instance (Don't worry about this if you already have the guide installed).
+				br
+				| #[strong UI:] Switched from Stay At The System Page to Stay At The System Page NG.
+
+			h2.install 28/9/22
+			p
+				| #[strong Whole Guide:] Now using 1.5.97 for better compatibility and to prevent issues when the game updates.
+				br
+				| #[strong Utilities:] Switched from Crash Logger to .NET.
+				br
+				| #[strong Tweaks:] Edited the guide's PO3 Tweaks config file so now you can wait while standing.
+				br
+				| #[strong UI:] Switched from QuickLoot RE to QuickLoot EE.
+
+			h2.install 11/7/22
+			p #[strong Utilities:] Added JContainers because BTPS needs it and I forgot.
+
+			h2.install 8/7/22
+			p
+				| #[strong Utilities:] Added brightness templates for Lux.
+				br
+				| #[strong UI:] Fixed SkyUI Notes Fix version.
+
+			h2.install 6/7/22
+			p
+				| #[strong Utilities:] Added SPID.
+				br
+				| #[strong Gameplay:] Added missing patches for Apothecary.
+				br
+				| #[strong Bug Fixes:] Corrected Scrambled Bugs configuration instructions.
+				br
+				| #[strong Whole Guide:] Converted to 1.6.353, no more downgrading needed.
+				br
+				| #[strong Bug Fixes:] Added Unofficial CC Patch and notes for users who might own the extra CC content.
+				br
+				| #[strong Resources:] Added sections for mods and tools to avoid.
+				br
+				| #[strong Bug Fixes:] Added fixes for full AE owners.
+				br
+				| #[strong Finish Line: ]Updated load order.
+				br
+				| #[strong Visuals:] Updated Lux FOMOD instructions.
+
+			h2.install 5/7/22
+			p
+				| #[strong Tweaks:] Added All Thieves Guild Jobs Concurrently - USSEP Patch (Moved from Finish Line section).
+				br
+				| #[strong Visuals:] Added the following mods: Security Overhaul SKSE - Lock Variations, Security Overhaul SKSE - Regional Locks, Security Overhaul SKSE - Add-ons.
+				br
+				| #[strong UI:] Added Wider MCM Menu for SkyUI.
+				br
+				| #[strong MO2:] Added Custom INI.
+
+			h2.install 4/7/22
+			p
+				| #[strong Whole Guide:] Moved Visuals section below Gameplay.
+				br
+				| #[strong Bug Fixes:] Added the following mods: Vanilla Script (micro)Optimizations, Engine Fixes (Moved from Utilities), Bug Fixes, Combat Music Fix and Quest Journal Limit Bug Fixer.
+				br
+				| #[strong Bug Fixes:] Switched from NPC AI Process Pos Fix to NPC AI Process Pos Fix NG.
+				br
+				| #[strong FAQ:] More accurate info.
+				br
+				| #[strong Final Steps:] Switched from CR FOMOD to single patch.
+				br
+				| #[strong Final Steps:] Updated info.
+				br
+				| #[strong Gameplay:] Too many changes, check commit.
+				br
+				| #[strong UI:] Too many changes, check commit.
+				br
+				| #[strong Introduction:] More accurate info.
+				br
+				| #[strong MO2:] Added BethINI instructions and disabled profile-specific INIs.
+				br
+				| #[strong Tweaks:] Replaced quest delay mods with Timing is Everything and the setting loader for it.
+				br
+				| #[strong Setup:] Switched from full AE patcher to Best of Both Worlds versions to ensure USSEP compatibility without API trick.
+				br
+				| #[strong Utilities:] Moved Engine Fixes to Bug Fix section and updated configuration instructions.
+				br
+				| #[strong Utilities:] Added Display Tweaks configuration instructions.
+				br
+				| #[strong Utilities:] Added PapyrusUtil.
+				br
+				| #[strong Utilities:] Removed SKSE INI.
+				br
+				| #[strong Visuals:] Too many changes, check commit.
+
+			h2.install 11/11/21
+			p
+				| #[strong Installation: ]Added instructions for downgrading game version to pre-Anniversary edition.
+				br
+				| #[strong Tweaks:] Removed No Kill Cams (Was too subjective to warrant including, especially since kill cams aren't buggy like in NV).
+				br
+				| #[strong Visuals:] Added Security Overhaul SKSE.
+				br
+				| #[strong Gameplay:] Changed instructions to download old version of SunHelm (Pre-Anniversary update version).
+				br
+				| #[strong Gameplay:] Moved Encounter Zones Unlocked to Tweaks (Just a better fit IMO).
+
+			h2.install 9/10/21
+			p
+				| #[strong User Interface: ]Added Recleaned Menu.
+				br
+				| #[strong Visuals:] Replaced Realistic Water Two + Better Water for RW2 with Cathedral Waters (Much simpler and just as effective IMO, fits the guide better).
+
+			h2.install 16/8/21
+			p
+				| #[strong Utilities:] Added powerofthree's Papyrus Extender (Now required for SunHelm).
+				br
+				| #[strong Gameplay:] Added instructions to also install the Food and Drink addon from Apothecary.
+				br
+				| #[strong Visuals:] Removed support for ELE, instead adding a note about not selecting the ELFX Enhancer setting in the ELFX FOMOD if you have a weaker PC or don't like the "realistically" dark interiors.
+				br
+				| #[strong Gameplay:] Removed support for EnaiRim (Didn't feel like maintaining it anymore, especially since most people use SimonRim. EnaiRim only required one minor patch with Scarcity that was more of a consistency patch than a necessity, so in theory it is still incredibly easy to swap Simon for Enai).
+				br
+				| #[strong Final Steps Line: ]Updated the load order and conflict resolution to reflect these changes (Important thing to note: although neither Realistic Water 2 and SunHelm have been removed, the patch for the two has been removed from the FOMOD. This is because it is no longer necessary as of SunHelm v3.0.0. SunHelm v3 also requires a new save).
+
+			h2.install 9/7/21
+			p
+				| #[strong Bug Fixes:] Added instructions to enable a couple features in SSE Engine Fixes' config.
+				br
+				| #[strong Bug Fixes:] Added NPC Position Process Fix.
+				br
+				| #[strong Bug Fixes:] Added Tavern AI Fix.
+				br
+				| #[strong Tweaks:] New section, separated Bug Fixes and QOL Improvements basically.
+				br
+				| #[strong Tweaks:] Added Bounty Preview.
+				br
+				| #[strong Tweaks:] Added All Thieves Guild Jobs Concurrently.
+				br
+				| #[strong Tweaks:] Added Simple Offence suppression.
+				br
+				| #[strong Tweaks:] Added Disable Cinematic Kills.
+				br
+				| #[strong UI:] Added Roboto Font Replacer.
+				br
+				| #[strong UI:] Added Smaller Vanilla Cursors.
+				br
+				| #[strong UI:] Added Horse Stamina HUD.
+				br
+				| #[strong Visuals:] Added ELFX Fixes.
+				br
+				| #[strong Visuals:] Added Dimmer Fog.
+				br
+				| #[strong Visuals:] Added Blended Roads.
+				br
+				| #[strong Visuals:] Realistic Water Two.
+				br
+				| #[strong Visuals:] Better Water for Realistic Water Two.
+				br
+				| #[strong Gameplay:] (Both sections) Added SunHelm.
+				br
+				| #[strong SimonRim: ]Added Apothecary.
+				br
+				| #[strong EnaiRim:] Added Tonics Heal Over Time.
+				br
+				| #[strong Bug Fixes:] Removed 1st Person Sneak Stutter Fix (Too specific of a fix to warrant including).
+				br
+				| #[strong Bug Fixes:] Removed Minimalistic AutoSave Mod (Didn't like the sudden stuttering when autosaving, instead opting for the setting in SSE Engine Fixes that makes F5 create an autosave).
+				br
+				| #[strong UI:] Removed MoreHUD Inventory Edition (Didn't have any useful info IMO).
+				br
+				| #[strong Gameplay:] Removed M'aiq's Tweaks Better Sneaking (Ended up making sneak to easy/awkward).
+				br
+				| #[strong Gameplay:] Removed Alchemy Potions and Food Adjustments (Replaced by Apothecary in SimonRim and Tonics Heal Over Time in EnaiRim).
+
+			h2.install 23/6/21
+			p #[strong Visuals:] Added back ELFX as an alternative to ELE, since I know some people (Myself included) much prefer how it looks to ELE despite its potential performance impact. ELFX will be recommended for higher-end PCs and ELE will be for lower-end ones.
+
+			h2.install 21/6/21
+			p
+				| #[strong Bug Fixes:] Added powerofthree's tweaks.
+				br
+				| #[strong Visuals:] Swapped ELFX with ELE.
+				br
+				| #[strong Gameplay:] Separated the gameplay section into two sections, one for EnaiRim and one for SimonRim.
+				br
+				| #[strong Gameplay:] Swapped Arena and Morrowloot Misc with Open World Loot (Plus OWL - Vanilla Progression).
+				br
+				| #[strong Final Steps:] Conflict resolution and load order updated to reflect previous changes.
+
+			h2.install 3/5/21
+			p
+				| #[strong Utilities:] Added .NET Script Framework.
+				br
+				| #[strong Bug Fixes:] Added Scrambled Bugs.
+				br
+				| #[strong Bug Fixes:] Removed Enchanting Adjustments and Price-Charge Bug Fix (Engine level fix included in Scrambled Bugs).
+
+			h2.install 6/3/21
+			p
+				| #[strong Bug Fixes:] Changed Realistic Conversations to the "longer pause" version.
+				br
+				| #[strong Gameplay:] Exchanged Mysticism for Odin.
+				br
+				| #[strong Gameplay:] Exchanged Vokrii - Mysticism patch for the Vokrii - Odin patch.
+
+			h2.install 3/3/21
+			p
+				| #[strong Utilities:] Added Scaleform Translation Plus Plus.
+				br
+				| #[strong Bug Fixes:] Added Quest NPCs Run.
+				br
+				| #[strong HUD:] Added SkyUI Flashing Savegame Fix.
+				br
+				| #[strong HUD:] Added MoreHUD + MoreHUD Inventory.
+				br
+				| #[strong HUD:] Removed Better Book Names (moreHUD essentially does the same thing).
+				br
+				| #[strong Gameplay:] Swapped out ChocolateNoodle's Little Balance Mods for Economy Overhaul and Speechcraft Improvements.
+				br
+				| #[strong Gameplay:] Added Scarcity, M'aiq's Tweaks (Stealth file), and Alchemy Potions and Food Adjustments.
+				br
+				| #[strong Final Steps:] Updated conflict resolution and load order to reflect previous changes.
+
+			h2.install 23/2/21
+			p
+				| #[strong Bug Fixes:] Added Miscellaneous Tweaks Collection (Just the Better Horses file).
+				br
+				| #[strong HUD:] Added both Better MessageBox and Better Dialogue Controls.
+				br
+				| #[strong Gameplay:] Removed Apocalypse (Too ambitious of a mod to be included in a Vanilla Plus guide).
+				br
+				| #[strong Gameplay:] Removed MorrowLoot Ultimate (After play-testing, unleveling the game sounds a lot better in theory than it is in practice. Someone also made a great point about being able to exploit the hand-placed glass/ebony items if you know where they are).
+				br
+				| #[strong Gameplay:] Added MorrowLoot Miscellania (Just the Unleveled Quest Rewards option, since I still do believe this feature is balanced).
+				br
+				| #[strong Gameplay:] Added both Encounter Zones Unlocked and Arena - An Encounter Zone Overhaul (Better than unleveled enemies IMO).
+				br
+				| #[strong Final Steps:] Updated both the load order and conflict resolutions to reflect the changes (Also added a couple new patches that I previously missed).
+
+block linksleft
+	include adf/linksleft
+	ul: li: a(href="/adf/changelog") Changelog

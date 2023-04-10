@@ -1,0 +1,11 @@
+// SkyUI
+section
+	h2#skyui: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/12604", target="_blank") SkyUI
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - SkyUI_5_2_SE]
+		li: a(href="https://www.nexusmods.com/skyrimspecialedition/mods/20406", target="_blank") #[b Main Files - SkyUI SE - Flashing Savegames Fix]
+		li: a(href="https://www.nexusmods.com/skyrimspecialedition/mods/32561", target="_blank") #[b Main Files - FixNotesForSkyUI Skyrim SE 1.5.97]
+		li: a(href="https://www.nexusmods.com/skyrimspecialedition/mods/49106", target="_blank") #[b Main Files - SkyUI - Ghost Item Bug Fix]
+		li: a(href="https://www.nexusmods.com/skyrimspecialedition/mods/22825", target="_blank") #[b Main Files - Opt. 3 - Larger MCM Menu for SkyUI]
+	p Modernizes and improves the user interface

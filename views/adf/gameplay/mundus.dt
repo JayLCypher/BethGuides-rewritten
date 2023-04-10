@@ -1,0 +1,8 @@
+// Mundus
+section
+	h2#mundus.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/33411", target="_blank") Mundus - A Standing Stone Overhaul
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - Mundus - A Standing Stone Overhaul]
+		li #[b Optional Files - Mundus - USSEP Tower Stone Patch] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Complete overhaul of the Standing Stones designed to balance the stone bonuses and add powerful new gameplay options.

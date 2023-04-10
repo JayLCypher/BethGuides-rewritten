@@ -1,0 +1,16 @@
+extends adf/layout
+block content
+	include adf/visuals/introvisuals
+	include adf/visuals/blendedroads
+	include adf/visuals/smim
+	include adf/visuals/amf
+	include adf/visuals/waterfix
+	include adf/visuals/simpsea
+	include adf/visuals/noblerim
+	include adf/visuals/securityoverhaul
+	include adf/visuals/softshadow
+	include adf/visuals/hdlocalmap
+	include adf/visuals/evlas
+	include adf/visuals/twilight
+block linksright
+	include adf/visuals/links

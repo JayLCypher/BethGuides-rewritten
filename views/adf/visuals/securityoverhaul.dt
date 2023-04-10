@@ -1,0 +1,29 @@
+// Lock Variations
+section
+	h2#security_overhaul.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/58224", target="_blank") Security Overhaul SKSE - Lock Variations
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Security Overhaul SKSE - Lock Variations]
+		li You will be prompted with a FOMOD installer, select #[strong 2K Textures] and then #[strong Install]
+	p SKSE based framework for replacing overused lock model with unique lock variants.
+	blockquote If you have a very little VRAM, you can select the #[strong 1K Textures] instead.
+
+// Regional Locks
+section
+	h2#security_regional.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/62781", target="_blank") Security Overhaul SKSE - Regional Locks
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Security Overhaul SKSE - Regional Locks]
+		li You will be prompted with a FOMOD installer, select #[strong 2K Textures] and then #[strong Install]
+	p Regional variant lock models for Security Overhaul SKSE - Lock Variations.
+	blockquote If you have a very little VRAM, you can select the #[strong 1K Textures] instead.
+
+// Lock Add-ons
+section
+	h2#security_addons.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/59529", target="_blank") Security Overhaul SKSE - Lock Add-ons
+	h2.install Installation instructions:
+	ol
+		li #[b Main Files - Security Overhaul SKSE - Add-ons]
+		li You will be prompted with a FOMOD installer, select #[strong 2K Textures] and then #[strong Install]
+	p Additional variant lock models for Security Overhaul SKSE - Lock Variations.
+	blockquote If you have a very little VRAM, you can select the #[strong 1K Textures] instead.

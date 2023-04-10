@@ -1,0 +1,13 @@
+extends adf/layout
+block content
+	include adf/hud/introhud
+	include adf/hud/skyui
+	include adf/hud/mcmhelp
+	include adf/hud/morehud
+	include adf/hud/quickloot
+	include adf/hud/hudcontrols
+	include adf/hud/systemspage
+	include adf/hud/horsestam
+	include adf/hud/btps
+block linksright
+	include adf/hud/links

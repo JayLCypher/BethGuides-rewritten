@@ -1,0 +1,8 @@
+// Noble Skyrim
+section
+	h2#noble.optional: a.link(href="https://www.nexusmods.com/skyrimspecialedition/mods/21423", target="_blank") Noble Skyrim
+	h2.install Installation instructions:
+	ul
+		li #[b Main Files - A. Noble Skyrim - FULL PACK_2K]
+		li #[b Update Files - NSM - SMIM Patch] (select the name that matches the file on Nexus when the installation prompt comes up)
+	p Retextures most of the game without going overboard. This is a good base if you want to add your own retextures to the game.
